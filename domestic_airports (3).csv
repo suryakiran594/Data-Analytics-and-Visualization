@@ -1,0 +1,2961 @@
+,id,label,country,Lat ,Lon
+216,AAB,Arrabury,Australia,-26.75,141.0
+217,ABG,Abingdon,Australia,-17.666667,143.2
+218,ABH,Alpha,Australia,-23.7,146.583333
+219,ABM,Bamaga,Australia,-10.950833,142.459444
+220,ABX,Albury,Australia,-36.06003538,146.9200138
+221,ADL,Adelaide,Australia,-34.945,138.530556
+222,ADO,Andamooka,Australia,-30.43097329,137.1655704
+223,AGW,Agnew,Australia,-12.15,142.15
+224,AGY,Argyle Downs,Australia,-16.35,128.75
+225,ALH,Albany,Australia,-35.0,117.9
+226,AMT,Amata,Australia,-26.2,131.116667
+227,AMX,Ammaroo,Australia,-21.74,135.24
+228,ANZ,Angus Downs,Australia,-25.083333,132.166667
+229,ARM,Armidale,Australia,-30.51231199,151.667476
+230,ARY,Ararat,Australia,-37.27954751,142.9099743
+231,ASP,Alice Springs,Australia,-23.8,133.883333
+232,AUD,Augustus Downs,Australia,-18.666667,139.933333
+233,AUU,Aurukun,Australia,-13.353889,141.720833
+234,AVG,Auvergne,Australia,-15.75,129.916667
+235,AVV,Melbourne (AU),Australia,-38.033333,144.466667
+236,AWN,Alton Downs,Australia,-26.483333,139.316667
+237,AWP,Austral Downs,Australia,-20.333333,137.25
+238,AXC,Aramac,Australia,-23.083333,145.25
+239,AYD,Alroy Downs,Australia,-19.3,135.95
+240,AYL,Anthony Lagoon,Australia,-18.016667,135.55
+241,AYQ,Ayers Rock,Australia,-25.333333,131.033333
+242,AYR,Ayr,Australia,-19.57024087,147.3994677
+243,BBE,Big Bell,Australia,-27.416667,117.666667
+244,BCI,Barcaldine,Australia,-23.56617267,145.2833695
+245,BCK,Bolwarra,Australia,-17.4,144.166667
+246,BCZ,Bickerton Island,Australia,-13.783333,137.8
+247,BDB,Bundaberg,Australia,-24.87906411,152.3508968
+248,BDD,Badu Island,Australia,-10.116667,142.133333
+249,BDW,Bedford Downs,Australia,-17.3,127.466667
+250,BEE,Beagle Bay,Australia,-12.983333,141.6
+251,BEO,Belmont,Australia,-33.033333,151.666667
+252,BEU,Bedourie,Australia,-24.34958738,139.4666186
+253,BFC,Bloomfield River,Australia,-15.9,145.333333
+254,BHQ,Broken Hill,Australia,-31.94995034,141.4331136
+255,BHS,Bathurst (AU),Australia,-33.416667,149.65
+256,BHT,Brighton Downs,Australia,-23.5,141.633333
+257,BIP,Bulimba,Australia,-16.15,143.75
+258,BIW,Billiluna,Australia,-19.583333,127.633333
+259,BKP,Barkly Downs,Australia,-21.033333,138.25
+260,BKQ,Blackall,Australia,-24.416667,145.416667
+261,BLN,Benalla,Australia,-36.55,145.983333
+262,BLS,Bollon,Australia,-28.033333,147.366667
+263,BLT,Blackwater,Australia,-23.583333,148.883333
+264,BME,Broome,Australia,-17.96177069,122.2307681
+265,BMP,Brampton Island,Australia,-20.783333,149.233333
+266,BNE,Brisbane,Australia,-27.45503091,153.0350927
+267,BNK,Ballina,Australia,-28.86135333,153.5679801
+268,BOX,Borroloola,Australia,-16.083333,136.3
+269,BQB,Busselton,Australia,-33.65640949,115.3486592
+270,BQL,Boulia,Australia,-22.89959837,139.9000288
+271,BQW,Balgo Hills,Australia,-20.133333,127.8
+272,BRJ,Bright,Australia,-36.733333,146.966667
+273,BRK,Bourke,Australia,-30.1,145.9333333
+274,BRT,Bathurst Island,Australia,-11.766667,130.633333
+275,BSJ,Bairnsdale,Australia,-37.82959145,147.6099975
+276,BTD,Brunette Downs,Australia,-18.633333,135.933333
+277,BTX,Betoota,Australia,-25.633333,140.8
+278,BUC,Burketown,Australia,-17.71609048,139.5666125
+279,BUY,Bunbury,Australia,-33.34428384,115.6502429
+280,BVI,Birdsville,Australia,-25.89962197,139.3666247
+281,BVW,Batavia Downs,Australia,-12.45,143.25
+282,BVZ,Beverley Springs,Australia,-17.983333,125.45
+283,BWB,Barrow Island,Australia,-20.8,115.383333
+284,BWQ,Brewarrina,Australia,-29.966667,146.816667
+285,BWT,Burnie,Australia,-41.06660317,145.9166642
+286,BWU,Sydney Bankstown,Australia,-33.916667,150.983333
+287,BXF,Belburn,Australia,-33.1,145.0
+288,BXG,Bendigo,Australia,-36.75999266,144.2800199
+289,BYP,Barimunya,Australia,-22.67,119.17
+290,BYX,Baniyala,Australia,-13.2,136.233333
+291,BZD,Balranald,Australia,-34.633333,143.55
+292,BZP,Bizant,Australia,-15.216667,144.633333
+293,CAZ,Cobar,Australia,-31.533333,145.8
+294,CBC,Cherrabun,Australia,-18.666667,125.366667
+295,CBI,Cape Barren Island,Australia,-31.983333,132.15
+296,CBR,Canberra,Australia,-35.28302855,149.1290262
+297,CBX,Condobolin,Australia,-33.066667,147.2
+298,CBY,Canobie,Australia,-19.633333,140.916667
+299,CCL,Chinchilla,Australia,-26.783333,150.616667
+300,CCW,Cowell,Australia,-33.68286782,136.9166451
+301,CDA,Cooinda,Australia,-12.9,132.516667
+302,CDQ,Croydon,Australia,-18.3,142.25
+303,CDU,Camden,Australia,-34.040278,150.687222
+304,CED,Ceduna,Australia,-32.09913464,133.6622674
+305,CES,Cessnock,Australia,-32.083333,151.083333
+306,CFH,Clifton Hills,Australia,-26.516667,139.45
+307,CFI,Camfield,Australia,-17.15,131.35
+308,CFP,Carpentaria Downs,Australia,-18.783333,144.35
+309,CFS,Coffs Harbour,Australia,-30.3070532,153.1122973
+310,CGV,Caiguna,Australia,-32.266667,125.466667
+311,CIE,Collie,Australia,-33.35,116.15
+312,CJF,Coondewanna,Australia,-22.97,118.8
+313,CKI,Croker Island,Australia,-11.083333,132.5
+314,CLH,Coolah,Australia,-31.833333,149.7
+315,CMA,Cunnamulla,Australia,-28.033333,145.616667
+316,CMD,Cootamundra,Australia,-34.633333,148.05
+317,CML,Camooweal,Australia,-19.91673134,138.1166752
+318,CMQ,Clermont,Australia,-22.866667,147.5
+319,CNB,Coonamble,Australia,-30.983333,148.383333
+320,CNC,Coconut Island,Australia,-10.05,143.066667
+321,CNJ,Cloncurry,Australia,-20.69999103,140.4999922
+322,CNS,Cairns,Australia,-16.88783986,145.7633309
+323,COB,Coolibah,Australia,-15.666667,130.966667
+324,COJ,Coonabarabran,Australia,-31.333333,149.266667
+325,COY,Coolawanyah,Australia,-21.8,117.766667
+326,CPD,Coober Pedy,Australia,-29.05,134.75
+327,CQP,Cape Flattery,Australia,-18.2,147.5
+328,CRB,Collarenebri,Australia,-29.525833,148.575833
+329,CRH,Cherribah,Australia,-27.65,151.95
+330,CRJ,Coorabie,Australia,-31.9,132.3
+331,CRY,Carlton Hill,Australia,-15.7,128.5
+332,CSD,Cresswell Downs,Australia,-17.966667,135.916667
+333,CTL,Charleville,Australia,-26.40000486,146.2500288
+334,CTN,Cooktown,Australia,-15.45,145.183333
+335,CTR,Cattle Creek,Australia,-17.583333,131.0
+336,CUD,Caloundra,Australia,-26.80003213,153.1333296
+337,CUG,Cudal,Australia,-33.3,148.702778
+338,CUQ,Coen,Australia,-13.783333,143.116667
+339,CUY,Cue,Australia,-27.45,117.916667
+340,CVC,Cleve,Australia,-33.7,136.5
+341,CVQ,Carnarvon,Australia,-24.89983803,113.6501066
+342,CWR,Cowarie,Australia,-27.716667,138.333333
+343,CWT,Cowra,Australia,-33.82962889,148.6800097
+344,CWW,Corowa,Australia,-35.983333,146.35
+345,CXQ,Christmas Creek,Australia,-18.916667,125.916667
+346,CXT,Charters Towers,Australia,-20.08090737,146.2587105
+347,CYG,Corryong,Australia,-36.25,147.9
+348,CZY,Cluny,Australia,-24.5,139.5
+349,DAJ,Dauan Island,Australia,-9.433333,142.516667
+350,DBO,Dubbo,Australia,-32.25995726,148.5973274
+351,DBY,Dalby,Australia,-27.19385822,151.2657434
+352,DCN,Derby,Australia,-17.29999184,123.9666345
+353,DDI,Daydream Is,Australia,-20.166667,148.183333
+354,DDN,Delta Downs,Australia,-16.916667,141.3
+355,DFP,Drumduff,Australia,-16.0,143.033333
+356,DGD,Dalgaranga,Australia,-27.766667,117.033333
+357,DGE,Mudgee,Australia,-32.58960122,149.5801098
+358,DHD,Durham Downs,Australia,-27.066667,141.916667
+359,DKI,Dunk Island,Australia,-17.933333,146.166667
+360,DKV,Docker River,Australia,-24.866667,129.116667
+361,DLK,Dulkaninna,Australia,-29.016667,139.466667
+362,DLV,Delissaville,Australia,-12.416667,130.341667
+363,DMD,Doomadgee Mission,Australia,-18.0,138.833333
+364,DNB,Dunbar,Australia,-16.083333,142.416667
+365,DNG,Doongan,Australia,13.662778,122.3275
+366,DNM,Denham,Australia,-25.916667,113.533333
+367,DNQ,Deniliquin,Australia,-35.5295768,144.9500048
+368,DOX,Dongara,Australia,-29.25,114.933333
+369,DPO,Devonport,Australia,-41.19266757,146.3311017
+370,DRD,Dorunda Station,Australia,-16.516667,142.366667
+371,DRN,Dirranbandi,Australia,-28.5,148.258333
+372,DRR,Durrie,Australia,-25.6,140.25
+373,DRW,Darwin,Australia,-12.416667,130.866667
+374,DVP,Davenport Downs,Australia,-24.166667,141.083333
+375,DVR,Daly River,Australia,-13.75,130.683333
+376,DXD,Dixie,Australia,-15.166667,143.666667
+377,DYA,Dysart,Australia,-22.533333,149.383333
+378,DYM,Diamantina Lakes,Australia,-23.866667,141.25
+379,DYW,Daly Waters,Australia,-16.266667,133.366667
+380,ECH,Echuca,Australia,-36.12959186,144.750017
+381,EDD,Erldunda,Australia,-25.23330605,133.1999727
+382,EDR,Pormpuraaw,Australia,-14.9,141.616667
+383,EIH,Einasleigh,Australia,-18.5,144.1
+384,EKD,Elkedra,Australia,-21.033333,135.25
+385,ELC,Elcho Island,Australia,-12.016667,135.566667
+386,EMD,Emerald,Australia,-23.51222247,148.1673278
+387,ENB,Eneabba West,Australia,-30.083333,114.983333
+388,EPR,Esperance,Australia,-33.857307,121.8888973
+389,ERB,Ernabella,Australia,-26.266667,132.166667
+390,ETD,Etadunna,Australia,-28.716667,138.633333
+391,EUC,Eucla,Australia,-31.716667,128.866667
+392,EVD,Eva Downs,Australia,-18.083333,134.866667
+393,EVH,Evans Head,Australia,-29.1,153.416667
+394,EXM,Exmouth Gulf,Australia,-22.383333,114.116667
+395,FIK,Finke,Australia,-25.583333,134.6
+396,FIZ,Fitzroy Crossing,Australia,-18.166667,125.55
+397,FLC,Falls Creek,Australia,-34.983333,150.6
+398,FLS,Flinders Island,Australia,-40.083333,148.0
+399,FLY,Finley,Australia,-35.65,145.583333
+400,FOS,Forrest,Australia,-30.838056,128.115
+401,FOT,Forster,Australia,32.183333,152.516667
+402,FRB,Forbes,Australia,-33.38960407,148.0199983
+403,FSL,Fossil Downs,Australia,-18.2,125.75
+404,FVL,Flora Valey,Australia,-18.333333,128.0
+405,FVR,Forrest River Airport,Australia,-15.3,128.066667
+406,GAH,Gayndah,Australia,-25.616667,151.616667
+407,GBL,Goulburn Island,Australia,-11.666667,133.416667
+408,GBP,Gamboola,Australia,-16.55,143.666667
+409,GBV,Gibb River,Australia,-16.333333,126.366667
+410,GDD,Gordon Downs,Australia,-18.833333,128.533333
+411,GET,Geraldton,Australia,-28.77,114.61
+412,GEX,Geelong,Australia,-38.16749505,144.3956335
+413,GFE,Grenfell,Australia,-33.9,148.166667
+414,GFF,Griffith,Australia,-34.29001422,146.0400158
+415,GFN,Grafton,Australia,-29.71199909,152.9376827
+416,GGD,Gregory Downs,Australia,-18.7,139.25
+417,GIC,Boigu Island,Australia,-9.266667,142.2
+418,GKL,Great Keppel Island,Australia,-23.183333,150.95
+419,GLG,Glengyle,Australia,-24.766667,139.583333
+420,GLI,Glen Innes,Australia,-29.683333,151.7
+421,GLM,Glenormiston,Australia,-22.283333,138.316667
+422,GLT,Gladstone,Australia,-23.8533386,151.2467264
+423,GLY,Goldsworthy,Australia,-20.083333,119.666667
+424,GOO,Goondiwindi,Australia,-28.55480874,150.325284
+425,GOS,Gosford,Australia,-33.433333,151.35
+426,GOV,Nhulunbuy,Australia,-12.166667,136.675
+427,GPN,Garden Point,Australia,-11.4,130.433333
+428,GSC,Gascoyne Junction,Australia,-25.05,115.2
+429,GSN,Mount Gunson,Australia,-31.866667,138.2
+430,GTE,Groote Eylandt,Australia,-14.0,136.5
+431,GTS,The Granites,Australia,-26.966667,133.616667
+432,GUH,Gunnedah,Australia,-30.9870117,150.2622904
+433,GUL,Goulburn,Australia,-34.74957273,149.7101794
+434,GVP,Greenvale,Australia,-15.783333,144.616667
+435,GYL,Argyle,Australia,-16.640833,128.45
+436,GYP,Gympie,Australia,-26.18859658,152.6709289
+437,HAT,Heathlands,Australia,-19.720833,140.583333
+438,HBA,Hobart,Australia,-42.9,147.3
+439,HCQ,Halls Creek,Australia,-18.26670286,127.7667126
+440,HGD,Hughenden,Australia,-20.85000771,144.2000248
+441,HID,Horn Island,Australia,-10.536667,142.29
+442,HIG,Highbury,Australia,-16.433333,143.15
+443,HIH,Hook Island,Australia,-20.166667,148.95
+444,HIP,Headingly,Australia,-21.316667,138.3
+445,HIS,Hayman Island,Australia,-20.066667,148.866667
+446,HLL,Hillside,Australia,-17.0,128.008333
+447,HLS,St Helens,Australia,-41.0,148.175
+448,HLV,Helenvale,Australia,-15.683333,145.2
+449,HMG,Hermannsburg,Australia,-23.966667,132.666667
+450,HNK,Hinchinbrook Island,Australia,-18.383333,146.283333
+451,HOK,Hooker Creek,Australia,-18.366667,130.666667
+452,HPE,Hope Vale,Australia,-14.666667,144.916667
+453,HRY,Henbury,Australia,-24.666667,133.083333
+454,HSM,Horsham,Australia,-36.70960814,142.1900183
+455,HTI,Hamilton Island,Australia,-20.358056,148.951667
+456,HTU,Hopetoun,Australia,-35.716667,142.35
+457,HUB,Humbert River,Australia,-16.483333,130.633333
+458,HVB,Hervey Bay,Australia,-25.28870319,152.8409444
+459,HWK,Wilpena Pound,Australia,-31.883333,138.4
+460,HXX,Hay,Australia,-34.516667,144.833333
+461,IDK,Indulkana,Australia,-26.966667,133.325
+462,IFF,Iffley,Australia,-18.916667,141.25
+463,IFL,Innisfail,Australia,-17.53134723,146.0386722
+464,IGH,Ingham,Australia,-18.64957355,146.1666231
+465,IKP,Inkerman,Australia,-16.25,141.5
+466,INJ,Injune,Australia,-25.85,148.55
+467,INM,Innamincka,Australia,-27.833333,140.833333
+468,IRG,Lockhart River,Australia,-12.783333,143.3
+469,ISA,Mount Isa,Australia,-20.72386554,139.490028
+470,ISI,Isisford,Australia,-24.2,144.416667
+471,IVR,Inverell,Australia,-29.7667761,151.1125744
+472,IVW,Inverway,Australia,-17.766667,129.233333
+473,JAB,Jabiru,Australia,-10.216667,132.566667
+474,JAD,Jandakot,Australia,-32.0975,115.881111
+475,JCK,Julia Creek,Australia,-20.583333,141.7
+476,JHQ,Shute Harbour H/P,Australia,-20.283333,148.75
+477,JUN,Jundah,Australia,-24.8,143.033333
+478,JUR,Jurien Bay,Australia,-30.269722,115.05
+479,KAH,City Heliport,Australia,-37.716667,145.0
+480,KAX,Kalbarri,Australia,-27.66618081,114.1666642
+481,KBB,Kirkimbie,Australia,-17.766667,129.216667
+482,KBD,Kimberley Downs,Australia,-17.4,124.366667
+483,KBJ,Kings Canyon,Australia,-24.261389,131.490833
+484,KBY,Streaky Bay,Australia,-32.81187176,134.2149296
+485,KCE,Collinsville,Australia,-20.55,147.866667
+486,KCS,Kings Creek Station,Australia,24.383333,131.683333
+487,KDB,Kambalda,Australia,-31.2,121.666667
+488,KDS,Kamaran Downs,Australia,-24.333333,139.166667
+489,KFG,Kalkurung,Australia,-17.433333,130.816667
+490,KGC,Kingscote,Australia,-35.713889,137.521389
+491,KGI,Kalgoorlie-Boulder,Australia,-30.789444,121.461667
+492,KGR,Kulgera,Australia,-25.833333,133.5
+493,KGY,Kingaroy,Australia,-26.53896279,151.840592
+494,KKP,Koolburra,Australia,-15.583333,143.95
+495,KML,Kamileroi,Australia,-19.5,140.083333
+496,KNI,Katanning,Australia,-33.69955931,117.5500752
+497,KNS,King Island,Australia,-39.883056,143.883056
+498,KNX,Kununurra,Australia,-15.76659707,128.7333203
+499,KOH,Koolatah,Australia,-15.966667,142.416667
+500,KPP,Kalpowar,Australia,-14.883333,144.216667
+501,KPS,Kempsey,Australia,-31.08736733,152.8220308
+502,KQB,Koonibba,Australia,-31.966667,133.45
+503,KRA,Kerang,Australia,-35.75,143.933333
+504,KRB,Karumba,Australia,-17.48333982,140.8334086
+505,KRD,Kurundi,Australia,-20.5,134.633333
+506,KTA,Karratha,Australia,-20.73037677,116.8700134
+507,KTR,Tindal,Australia,-14.516667,132.366667
+508,KUG,Kubin Island,Australia,-10.25,142.216667
+509,KWM,Kowanyama,Australia,-15.487778,141.76
+510,KYB,Yangoonabie,Australia,-31.466667,130.066667
+511,KYF,Yeelirrie,Australia,-27.277778,120.075
+512,KYI,Yalata Mission,Australia,-31.483333,131.866667
+513,LBH,Palm Beach SPB,Australia,33.966667,151.25
+514,LCN,Balcanoona,Australia,-30.533333,139.316667
+515,LDC,Lindeman Island,Australia,-20.45,149.05
+516,LDH,Lord Howe Island,Australia,-31.516667,159.05
+517,LDW,Lansdowne,Australia,-17.583333,126.833333
+518,LEA,Learmonth,Australia,-22.233333,114.1
+519,LEL,Lake Evella,Australia,-12.216667,136.25
+520,LER,Leinster,Australia,-27.833333,120.616667
+521,LFP,Lakefield,Australia,-14.916667,144.333333
+522,LGE,Lake Gregory,Australia,-28.916667,139.0
+523,LGH,Leigh Creek,Australia,-30.466667,138.416667
+524,LHG,Lightning Ridge,Australia,-29.4,147.966667
+525,LIB,Limbunya,Australia,-17.333333,129.833333
+526,LKD,Lakeland Downs,Australia,-16.166667,145.5
+527,LLG,Chillagoe,Australia,-17.133333,144.533333
+528,LLL,Lissadell,Australia,-16.5,128.666667
+529,LLP,Linda Downs,Australia,-23.016667,138.7
+530,LLT,Lilydale Airport,Australia,-37.691667,145.366667
+531,LNH,Lake Nash,Australia,-21.0,137.916667
+532,LNO,Leonora,Australia,-28.883333,121.3
+533,LOA,Lorraine,Australia,-19.083333,139.966667
+534,LOC,Lock,Australia,-33.566667,135.766667
+535,LRE,Longreach,Australia,-23.44959064,144.2500476
+536,LST,Launceston,Australia,-41.44983559,147.1301818
+537,LSY,Lismore,Australia,-28.81665322,153.2931132
+538,LTP,Lyndhurst,Australia,-19.2,144.383333
+539,LTV,Lotusvale,Australia,-17.083333,141.366667
+540,LUT,Laura Station,Australia,-15.433333,144.816667
+541,LUU,Laura,Australia,-15.666667,144.166667
+542,LVO,Laverton,Australia,-28.62700071,122.4040425
+543,LWH,Lawn Hill,Australia,-18.633333,138.633333
+544,LYT,Lady Elliot Island,Australia,-24.116667,152.7
+545,LZR,Lizard Island,Australia,-14.666667,145.466667
+546,MBB,Marble Bar,Australia,-21.25,119.583333
+547,MBF,Mount Buffalo,Australia,-22.583333,149.466667
+548,MBH,Maryborough,Australia,-25.54910073,152.7209
+549,MBN,Mt Barnett,Australia,-16.666667,125.95
+550,MBW,Moorabbin,Australia,-37.975833,145.102222
+551,MCV,Mcarthur River Mine,Australia,-16.466667,136.083333
+552,MCY,Sunshine Coast,Australia,-26.67998777,153.0500272
+553,MEB,Melbourne (AU),Australia,-37.7,144.866667
+554,MEL,Melbourne (AU),Australia,-37.673333,144.843333
+555,MET,Moreton,Australia,-12.75,142.766667
+556,MFL,Mount Full Stop,Australia,-19.666667,144.9
+557,MFP,Manners Creek,Australia,-22.1,137.983333
+558,MGB,Mount Gambier,Australia,-37.83134845,140.7650406
+559,MGT,Milingimbi Island,Australia,-12.1,134.9
+560,MGV,Margaret River,Australia,-18.616667,126.883333
+561,MHO,Mount House,Australia,-17.166667,125.666667
+562,MHU,Mount Hotham,Australia,-37.166667,146.166667
+563,MIH,Mitchell Plateau,Australia,-14.783333,125.816667
+564,MIM,Merimbula,Australia,-36.89962238,149.9000386
+565,MIN,Minnipa,Australia,-32.833333,135.133333
+566,MIY,Mittiebah,Australia,-18.5,136.266667
+567,MIZ,Mainoru,Australia,-14.3,134.083333
+568,MJK,Shark Bay,Australia,-25.8,113.716667
+569,MJP,Manjimup,Australia,-34.23332518,116.1500057
+570,MKR,Meekatharra,Australia,-26.59999266,118.4832999
+571,MKV,Mt Cavenagh,Australia,-25.966667,133.2
+572,MKY,Mackay,Australia,-21.14389158,149.1500069
+573,MLR,Millicent,Australia,-37.633333,140.583333
+574,MLV,Merluna,Australia,-13.066667,142.45
+575,MMG,Mount Magnet,Australia,-28.06620807,117.8166739
+576,MMM,Middlemount,Australia,-22.8025,148.704722
+577,MNE,Mungeranie,Australia,-28.016667,138.666667
+578,MNG,Maningrida,Australia,-12.05,134.216667
+579,MNQ,Monto,Australia,-24.883333,151.1
+580,MNV,Mountain Valley,Australia,-14.116667,133.833333
+581,MNW,Macdonald Downs,Australia,-22.5,135.166667
+582,MOO,Moomba,Australia,-28.133333,140.233333
+583,MOV,Moranbah,Australia,-22.00156533,148.0380334
+584,MQA,Mandora,Australia,-19.833333,120.833333
+585,MQE,Marqua,Australia,-22.816667,137.35
+586,MQL,Mildura,Australia,-34.18500771,142.1513643
+587,MRG,Mareeba,Australia,-17.0,145.433333
+588,MRL,Miners Lake,Australia,-20.066667,145.583333
+589,MRP,Marla,Australia,-27.033333,133.116667
+590,MRT,Moroak,Australia,-14.816667,133.7
+591,MRZ,Moree,Australia,-29.469895,149.8300687
+592,MSF,Mount Swan,Australia,-22.666667,134.916667
+593,MTD,Mt Sandford,Australia,-16.983333,130.55
+594,MTL,Maitland,Australia,-32.72096271,151.555028
+595,MTQ,Mitchell,Australia,-26.4,147.9
+596,MUP,Mulga Park,Australia,-25.85,131.6
+597,MUQ,Muccan,Australia,-20.633333,120.033333
+598,MVH,Macksville,Australia,-30.716667,152.916667
+599,MVK,Mulka,Australia,-28.35,138.65
+600,MVU,Musgrave,Australia,-14.166667,143.683333
+601,MWB,Morawa,Australia,-29.21626707,116.0000406
+602,MWT,Moolawatana,Australia,-29.916667,139.716667
+603,MWY,Miranda Downs,Australia,-17.366667,141.866667
+604,MXD,Marion Downs,Australia,-23.5,139.666667
+605,MXQ,Mitchell River,Australia,-15.666667,141.8
+606,MXU,Mullewa,Australia,-28.55,115.516667
+607,MYA,Moruya,Australia,-35.9,150.133333
+608,MYI,Murray Island,Australia,-9.933333,144.016667
+609,MYO,Myroodah,Australia,-18.2,124.2
+610,NAA,Narrabri,Australia,-30.33190957,149.7874357
+611,NAC,Naracoorte,Australia,-36.966667,140.583333
+612,NBH,Nambucca Heads,Australia,-30.65,153.0
+613,NBR,Nambour,Australia,-26.633333,152.95
+614,NDS,Sandstone,Australia,-28.0,119.25
+615,NGA,Young,Australia,-34.30959959,148.2900077
+616,NIF,Nifty,Australia,-21.67,121.59
+617,NKB,Noonkanbah,Australia,-18.5,124.833333
+618,NLF,Darnley Island,Australia,-9.566667,143.75
+619,NLL,Nullagine,Australia,-21.75,120.2
+620,NLS,Nicholson,Australia,-18.041667,128.9
+621,NMP,New Moon,Australia,-20.166667,143.966667
+622,NMR,Nappa Merry,Australia,-27.633333,141.083333
+623,NOA,Nowra,Australia,-34.88284625,150.6000476
+624,NPP,Napperby,Australia,-22.633333,132.833333
+625,NRA,Narrandera,Australia,-34.7,146.516667
+626,NRG,Narrogin,Australia,-32.93288776,117.1666361
+627,NRY,Newry,Australia,-16.083333,129.341667
+628,NSA,Noosa,Australia,26.25,153.166667
+629,NSM,Norseman,Australia,-32.20001259,121.7666137
+630,NSO,Scone,Australia,-32.07960651,150.8501098
+631,NSV,Noosaville,Australia,-26.4,153.066667
+632,NTL,Newcastle (AU),Australia,-32.795,151.834444
+633,NTN,Normanton,Australia,-17.7,141.066667
+634,NUB,Numbulwar,Australia,-14.266667,135.716667
+635,NUR,Nullarbor,Australia,-31.433333,130.916667
+636,NYN,Nyngan,Australia,-31.55,147.183333
+637,OAG,Orange,Australia,-33.27999835,149.0999841
+638,OCM,Boolgeeda,Australia,-22.54,117.3
+639,ODD,Oodnadatta,Australia,-27.55,135.433333
+640,ODL,Cordillo Downs,Australia,-26.833333,140.75
+641,ODR,Ord River,Australia,-17.35,128.9
+642,OKB,Fraser Island,Australia,-25.0,153.283333
+643,OKR,Yorke Island,Australia,-9.733333,143.416667
+644,OKY,Oakey,Australia,-27.402778,151.733333
+645,OLP,Olympic Dam,Australia,-30.485,136.876667
+646,ONG,Mornington Island,Australia,-16.583333,139.3
+647,ONR,Monkira,Australia,-24.816667,140.533333
+648,ONS,Onslow,Australia,-21.65759354,115.0962959
+649,OOL,Gold Coast,Australia,-28.08150429,153.4482458
+650,OOM,Cooma,Australia,-36.23955931,149.1200345
+651,OOR,Mooraberree,Australia,-25.245,140.980833
+652,OPI,Oenpelli,Australia,-12.333333,133.083333
+653,ORR,Yorketown,Australia,-35.033333,137.6
+654,ORS,Waterport,Australia,-18.633333,146.483333
+655,OXO,Orientos,Australia,-28.133333,141.533333
+656,OXY,Morney,Australia,-25.366667,141.466667
+657,OYN,Ouyen,Australia,-35.06619424,142.3166772
+658,PBO,Paraburdoo,Australia,-23.233333,117.516667
+659,PBY,Hamilton/Proserpine,Australia,-35.5,148.733333
+660,PDE,Pandie Pandie,Australia,-26.133333,139.383333
+661,PDN,Parndana,Australia,-35.8,137.216667
+662,PEA,Penneshaw,Australia,-35.733333,137.933333
+663,PEP,Peppimenarti,Australia,-14.15,130.1
+664,PER,Perth,Australia,-32.0,115.9
+665,PEY,Penong,Australia,-31.916667,133.016667
+666,PHE,Port Hedland,Australia,-20.31040241,118.6060315
+667,PHJ,Port Hunter,Australia,-32.916667,151.766667
+668,PKE,Parkes,Australia,-33.12956826,148.170015
+669,PKT,Port Keats,Australia,-14.25,129.533333
+670,PLO,Port Lincoln,Australia,-34.73324298,135.86658
+671,PPI,Port Pirie,Australia,-33.19106321,137.9900162
+672,PPP,Proserpine,Australia,-20.41623574,148.5834781
+673,PQQ,Port Macquarie,Australia,-31.44501992,152.9186657
+674,PRD,Pardoo,Australia,-20.133333,119.583333
+675,PTE,Port Stephens,Australia,-32.75,153.8
+676,PTI,Port Douglas,Australia,-16.48458812,145.4587219
+677,PTJ,Portland (AU),Australia,-38.383333,141.633333
+678,PUG,Port Augusta,Australia,-32.49002073,137.7700297
+679,RAM,Ramingining,Australia,-12.0,134.816667
+680,RBC,Robinvale,Australia,-34.65,142.783333
+681,RBS,Orbost,Australia,-37.7,148.5
+682,RBU,Roebourne,Australia,-20.7829317,117.1333048
+683,RCM,Richmond (AU),Australia,-20.716944,143.116667
+684,RCN,American River,Australia,-35.783333,137.783333
+685,RDA,Rockhampton Downs,Australia,-18.95,135.2
+686,RHL,Roy Hill,Australia,-22.633333,119.966667
+687,RKY,Rokeby,Australia,-13.65,142.616667
+688,RLP,Rosella Plains,Australia,-18.433333,144.466667
+689,RMA,Roma,Australia,-26.55937498,148.7907006
+690,RMK,Renmark,Australia,-34.2,140.683333
+691,ROH,Robinhood,Australia,-18.85,143.7
+692,ROK,Rockhampton,Australia,-23.36391111,150.5200008
+693,RPB,Roper Bar,Australia,-14.75,134.55
+694,RPM,Ngukurr,Australia,-14.833333,134.916667
+695,RPV,Roper Valley,Australia,-15.033333,134.033333
+696,RRE,Marree,Australia,-29.65,138.066667
+697,RSB,Roseberth,Australia,-25.783333,139.616667
+698,RSE,Rose Bay,Australia,-33.866667,151.266667
+699,RTP,Rutland Plains,Australia,-15.6,141.833333
+700,RTS,Rottnest Island,Australia,-32.0,115.533333
+701,RTY,Merty,Australia,-29.0,138.733333
+702,RVT,Ravensthorpe,Australia,-33.58287392,120.0333345
+703,SBR,Saibai Island,Australia,-9.4,142.666667
+704,SCG,Spring Creek,Australia,-18.633333,144.55
+705,SFP,Surfers Paradise,Australia,-28.0,153.433333
+706,SGO,St George (AU),Australia,-28.083333,148.75
+707,SGP,Shay Gap,Australia,-20.483333,120.1
+708,SHQ,Southport,Australia,-27.951944,153.417778
+709,SHT,Shepparton,Australia,-36.37458982,145.3913732
+710,SHU,Smith Point,Australia,-11.166667,133.833333
+711,SIO,Smithton,Australia,-40.83292234,145.1166613
+712,SIX,Singleton,Australia,-32.56949909,151.1600134
+713,SNB,Snake Bay,Australia,-11.333333,130.75
+714,SNH,Stanthorpe,Australia,-28.633333,151.966667
+715,SOI,South Molle Island,Australia,-20.0,149.0
+716,SQC,Southern Cross,Australia,-31.216145,119.3166857
+717,SQP,Starcke,Australia,-14.2,147.166667
+718,SRM,Sandringham,Australia,-24.05,139.066667
+719,SRN,Strahan,Australia,-42.15,145.3
+720,SRR,Dunwich,Australia,-27.0,153.0
+721,SSK,Sturt Creek,Australia,-19.333333,128.133333
+722,SSP,Silver Plains,Australia,-13.983333,143.55
+723,STF,Stephen Island,Australia,-9.5,143.566667
+724,STH,Strathmore,Australia,-17.833333,142.533333
+725,SWB,Shaw River,Australia,-21.516667,119.366667
+726,SWC,Stawell,Australia,-37.05961261,142.7600093
+727,SWH,Swan Hill,Australia,-35.33961424,143.5400134
+728,SWZ,Sydney West,Australia,-33.883333,150.716667
+729,SXE,Sale,Australia,-38.10957436,147.0600052
+730,SYD,Sydney (AU),Australia,-33.946111,151.177222
+731,SYU,Warraber Island,Australia,-10.516667,142.366667
+732,TAN,Tangalooma,Australia,-27.178056,153.373611
+733,TAQ,Tarcoola,Australia,-33.433333,142.583333
+734,TBK,Timber Creek,Australia,-44.766667,169.1
+735,TBL,Tableland,Australia,-17.0,145.0
+736,TCA,Tennant Creek,Australia,-19.65002928,134.200015
+737,TCW,Tocumwal,Australia,-35.816667,145.566667
+738,TDN,Theda Station,Australia,-33.1,145.0
+739,TDR,Theodore,Australia,-24.94949909,150.0833349
+740,TEF,Telfer,Australia,-23.083333,115.683333
+741,TEM,Temora,Australia,-34.433333,147.533333
+742,TGN,La Trobe Regional,Australia,-38.183333,146.533333
+743,THG,Thangool,Australia,-24.493889,150.576111
+744,TKY,Turkey Creek,Australia,-30.333333,142.75
+745,TMW,Tamworth,Australia,-31.10261188,150.9171342
+746,TPR,Tom Price,Australia,-22.69346108,117.7930578
+747,TRO,Taree,Australia,-31.89760211,152.4618461
+748,TSV,Townsville,Australia,-19.24995034,146.7699971
+749,TUM,Tumut,Australia,-35.30959023,148.2200378
+750,TWB,Toowoomba,Australia,-27.542778,151.916389
+751,TWN,Tewantin,Australia,-26.383333,153.033333
+752,TWP,Torwood,Australia,-26.583333,147.55
+753,TXR,Tanbar,Australia,-25.833333,141.916667
+754,TYB,Tibooburra,Australia,-29.433333,142.016667
+755,TYG,Thylungra,Australia,-26.066667,143.466667
+756,TYP,Tobermorey,Australia,-22.283333,137.916667
+757,UBB,Mabuiag Island,Australia,-9.95,142.183333
+758,UBU,Kalumburu,Australia,-14.416667,126.666667
+759,UIR,Quirindi,Australia,-31.490556,150.513889
+760,ULP,Quilpie,Australia,-26.61663247,144.2500476
+761,UMR,Woomera,Australia,-31.14958576,136.8000114
+762,USL,Useless Loop,Australia,-25.966667,113.116667
+763,UTB,Muttaburra,Australia,-22.588056,144.526667
+764,UTD,Nutwood Downs,Australia,-15.833333,134.166667
+765,VCD,Victoria River Downs,Australia,-16.405,131.003333
+766,VNR,Vanrook,Australia,-16.866667,141.916667
+767,WAN,Waverney,Australia,-25.366667,141.933333
+768,WAU,Wauchope,Australia,-31.45,152.733333
+769,WAV,Kalkgurung,Australia,-17.65,130.883333
+770,WAZ,Warwick,Australia,-28.22924721,152.0203226
+771,WBA,Wahai,Australia,-10.3,142.683333
+772,WDI,Wondai,Australia,-26.316667,151.866667
+773,WEI,Weipa,Australia,-12.66663125,141.8666272
+774,WEW,Wee Waa,Australia,-30.233333,149.433333
+775,WGA,Wagga Wagga,Australia,-35.12215981,147.3399882
+776,WGE,Walgett,Australia,-30.033333,148.133333
+777,WGT,Wangaratta,Australia,-36.36001707,146.3
+778,WHL,Welshpool,Australia,-38.688889,146.45
+779,WIN,Winton,Australia,-22.39962889,143.0332743
+780,WIO,Wilcannia,Australia,-31.56620115,143.3833304
+781,WIT,Wittenoom,Australia,-22.266667,118.333333
+782,WKB,Warracknabeal,Australia,-36.333333,142.25
+783,WLA,Wallal,Australia,-19.766667,120.65
+784,WLC,Walcha,Australia,-30.983333,151.6
+785,WLE,Miles,Australia,-26.66,150.18
+786,WLL,Wollogorang,Australia,-17.216667,137.916667
+787,WLP,West Angelas,Australia,-23.18,118.76
+788,WMB,Warrnambool,Australia,-38.37999713,142.4700012
+789,WME,Mount Keith,Australia,-27.286389,120.554722
+790,WND,Windarra,Australia,-28.266667,121.833333
+791,WNR,Windorah,Australia,-25.43324217,142.6501969
+792,WOG,Woodgreen,Australia,-22.5,134.25
+793,WOL,Wollongong,Australia,-34.41538125,150.890004
+794,WON,Wondoola,Australia,-18.666667,140.916667
+795,WPK,Wrotham Park,Australia,-16.633333,144.0
+796,WRN,Windarling,Australia,-30.56,119.3
+797,WRW,Warrawagine,Australia,-20.966667,120.7
+798,WSY,Whitsunday Airstrip,Australia,-20.283333,148.783333
+799,WTB,Toowoomba,Australia,-27.56,141.796
+800,WUD,Wudinna,Australia,-33.016667,135.619444
+801,WUN,Wiluna,Australia,-26.633333,120.216667
+802,WWI,Woodie Woodie,Australia,-21.6,121.2
+803,WWY,West Wyalong,Australia,-33.933333,147.25
+804,WYA,Whyalla,Australia,-33.02502684,137.5614119
+805,WYN,Wyndham,Australia,-15.37395953,128.3600614
+806,XCO,Colac,Australia,-38.33953449,143.5800109
+807,XHW,Alice Springs Railway,Australia,-23.566667,145.8
+808,XHX,Adelaide Keswick Rail,Australia,-33.1375,136.303056
+809,XJG,Darwin Railway,Australia,-33.1,145.0
+810,XMC,Mallacoota,Australia,-37.6,149.716667
+811,XML,Minlaton,Australia,-34.766667,137.6
+812,XMY,Yam Island,Australia,-10.483333,142.45
+813,XRH,Richmond AFB,Australia,-33.6,150.1
+814,XTG,Thargomindah,Australia,-27.99995888,143.816689
+815,XTO,Taroom,Australia,-25.65,149.8
+816,XTR,Tara,Australia,-27.0,150.0
+817,YLG,Yalgoo,Australia,-28.35,116.666667
+818,YNN,Yandi,Australia,-21.416667,120.166667
+819,YUE,Yuendumu,Australia,-22.266667,131.783333
+820,ZBL,Biloela,Australia,-24.39356403,150.4960746
+821,ZBO,Bowen,Australia,-20.00132566,148.208669
+822,ZGL,South Galway,Australia,-25.683333,142.116667
+823,ZNE,Newman,Australia,-23.36659829,119.7333011
+824,ZVG,Springvale,Australia,-17.8,127.633333
+2003,AAT,Altay,China,46.39612022,95.8450435
+2004,ACX,Xingyi,China,25.09041811,104.8900211
+2005,AEB,Baise,China,23.9,106.6
+2006,AKA,Ankang,China,32.67998069,109.0200016
+2007,AKU,Aksu,China,41.15000633,80.25002641
+2008,AOG,Anshan,China,41.11502138,122.9400305
+2009,AQG,Anqing,China,30.49995872,117.0500024
+2010,AVA,Anshun,China,26.25039899,105.9300093
+2011,AXF,Alxa Left Banner,China,38.8,105.66
+2012,AYN,Anyang,China,36.07997988,114.3500122
+2013,BAV,Baotou,China,40.65220725,109.8220198
+2014,BFJ,Bijie,China,27.0,105.0
+2015,BFU,Bengbu,China,32.94999005,117.330037
+2016,BHY,Beihai,China,21.4804059,109.1000484
+2017,BPE,Qinhaungdao,China,40.0,119.0
+2018,BPL,Bole,China,44.85,82.05
+2019,BPX,Qamdo/Changdu,China,30.539722,97.108889
+2020,BSD,Baoshan,China,25.11997703,99.15000972
+2021,CAN,Guangzhou,China,23.1449813,113.3250101
+2022,CGD,Changde,China,29.02999676,111.6800459
+2023,CGO,Zhengzhou,China,34.75499615,113.6650927
+2024,CGQ,Changchun,China,43.86500856,125.3399873
+2025,CHG,Chaoyang,China,41.55042116,120.4199776
+2026,CHW,Jiuhuang,China,39.766667,98.483333
+2027,CIF,Chifeng,China,42.27001548,118.9499898
+2028,CIH,Changzhi,China,36.18387534,113.1052819
+2029,CKG,Chongqing,China,29.56497703,106.5949816
+2030,CNI,Changhai,China,39.266667,122.516667
+2031,CSX,Changsha,China,28.19996991,112.969993
+2032,CTU,Chengdu,China,30.67000002,104.0700195
+2033,CZX,Changzhou,China,31.77998395,119.9699792
+2034,DAT,Datong,China,40.08001996,113.2999987
+2035,DAX,Dazhou,China,31.3,107.5
+2036,DCY,Daocheng,China,29.0,100.3
+2037,DDG,Dandong,China,40.14360781,124.3935852
+2038,DGM,Dongguan,China,23.0488889,113.7447222
+2039,DIG,Deqen,China,26.125556,109.3075
+2040,DLC,Dalian,China,38.92283839,121.6298308
+2041,DLU,Dali,China,34.79525209,109.937775
+2042,DNH,Dunhuang,China,40.14267763,94.66201493
+2043,DOY,Dongying,China,37.454444,118.471944
+2044,DQA,Daqing,China,46.57995913,125.0000081
+2045,DSN,Ordos,China,39.85,110.033333
+2046,DYG,Zhangjiajie,China,29.133333,110.483333
+2047,DZU,Dazu,China,29.7,105.8
+2048,EJN,Ejina Banner,China,41.96,101.07
+2049,ENH,Enshi,China,30.283333,109.316667
+2050,ENY,Yan'an,China,36.59,109.49
+2051,ERL,Erenhot,China,43.66155845,111.9654549
+2052,FOC,Fuzhou,China,26.07999595,119.3000459
+2053,FUG,Fuyang,China,30.0533333,119.9519444
+2054,FUO,Foshan,China,23.03005292,113.1200097
+2055,FYJ,Fuyuan,China,48.36,134.3
+2056,FYN,Fuyun,China,45.0,90.008333
+2057,GHN,Guanghan,China,30.466667,106.65
+2058,GOQ,Golmud,China,36.416626,94.88334509
+2059,GXH,Xiahe,China,35.0,102.0
+2060,GYS,Guangyuan,China,32.42999595,105.870013
+2061,GYU,Guyuan,China,36.0,106.2
+2062,HAK,Haikou,China,20.05000226,110.3200256
+2063,HCJ,Hechi,China,23.09653465,109.6091129
+2064,HDG,Handan,China,36.5799752,114.4799784
+2065,HEK,Heihe,China,50.25001935,127.4460087
+2066,HET,Hohhot,China,40.81997479,111.6599955
+2067,HFE,Hefei,China,31.85003135,117.2800142
+2068,HGH,Hangzhou,China,30.24997398,120.1700187
+2069,HHA,Huanghua International,China,28.189167,113.219722
+2070,HIA,Huai'an,China,33.6,119.02
+2071,HJJ,Huaihua,China,27.56,110.0
+2072,HLD,Hailar,China,49.19998008,119.7000215
+2073,HLH,Ulanhot,China,46.08001548,122.0800313
+2074,HMI,Hami,China,42.82698407,93.51500484
+2075,HNY,Hengyang,China,26.88002464,112.5900162
+2076,HPG,Shennongjia,China,31.4,110.68
+2077,HRB,Harbin,China,45.74998395,126.6499849
+2078,HSC,Shaoguan,China,24.79997072,113.5799816
+2079,HSN,Zhoushan,China,29.935,122.359167
+2080,HTN,Hotan,China,37.09971092,79.92694535
+2081,HUZ,Huizhou,China,23.07997235,114.3999833
+2082,HXD,Delingha,China,37.37,97.36
+2083,HYN,Taizhou,China,32.4904057,119.9000093
+2084,HZG,Hanzhong,China,33.12997906,107.0299939
+2085,HZH,Liping,China,32.783333,106.666667
+2086,INC,Yinchuan,China,38.46797365,106.2730375
+2087,IQM,Qiemo,China,38.133333,85.533333
+2088,IQN,Qingyang,China,36.1,107.783333
+2089,JDZ,Jingdezhen,China,29.27042137,117.1800203
+2090,JGD,Jiagedaqi,China,50.43,124.12
+2091,JGN,Jiayuguan,China,39.82000999,98.29998409
+2092,JGS,Ji'an,China,27.09,114.97
+2093,JHG,Jinghong,China,22.016667,100.8
+2094,JIC,Jinchang,China,38.49569806,102.1739078
+2095,JIL,Jilin,China,43.84997072,126.5500427
+2096,JIQ,Qianjiang,China,30.4,112.9
+2097,JIU,Jiujiang,China,29.72997988,115.9800419
+2098,JJN,Quanzhou,China,24.9000163,118.5799865
+2099,JMU,Jiamusi,China,46.83002138,130.3500175
+2100,JNG,Jining,China,35.40040895,116.5500329
+2101,JNZ,Jinzhou,China,41.12036989,121.1000394
+2102,JUH,Chizhou,China,30.66,117.49
+2103,JUZ,Quzhou,China,28.97043968,118.8699947
+2104,JXA,Jixi,China,45.29995974,130.9700313
+2105,JZH,Jiuzhaigou,China,32.836944,103.681944
+2106,KCA,Kuqa,China,41.72774884,82.93637406
+2107,KGT,Kangding,China,30.0,101.96
+2108,KHG,Kashi,China,39.666667,76.016667
+2109,KHN,Nanchang,China,28.67999229,115.8799963
+2110,KJH,Huang Ping,China,34.43,108.75
+2111,KMG,Kunming,China,25.06998008,102.6799751
+2112,KOW,Ganzhou,China,25.91997988,114.9500272
+2113,KRL,Korla,China,41.72999676,86.15002803
+2114,KRY,Karamay,China,45.58994204,84.8599259
+2115,KWE,Guiyang,China,26.58004295,106.7200386
+2116,KWL,Guilin,China,25.2799931,110.280028
+2117,LCX,Longyan,China,25.18041262,117.0300036
+2118,LDS,Yichun,China,47.69994244,128.8999768
+2119,LHK,Guanghua,China,32.266667,111.633333
+2120,LHW,Lanzhou Zhongchuan Apt,China,36.016667,103.75
+2121,LIA,Liangping,China,30.816667,107.7
+2122,LJG,Lijiang,China,26.80000368,100.2665824
+2123,LLB,Libo,China,25.41,107.88
+2124,LLF,Yongzhou,China,26.23037437,111.6199979
+2125,LLV,LuLiang,China,25.03,103.67
+2126,LNJ,Lincang,China,23.9,100.033333
+2127,LPF,Liupanshui,China,26.6,104.8
+2128,LUM,Mangshi,China,24.483333,98.516667
+2129,LXA,Lhasa/Lasa,China,29.293056,90.900278
+2130,LXI,Linxi,China,43.51707115,118.0333016
+2131,LYA,Luoyang,China,34.67998781,112.4700752
+2132,LYG,Lianyungang,China,34.60043194,119.170028
+2133,LYI,Linyi,China,35.07998924,118.329976
+2134,LZD,Lanzhoudong,China,36.016667,103.683333
+2135,LZH,Liuzhou,China,24.28000246,109.2500134
+2136,LZO,Luzhou,China,28.87998008,105.380017
+2137,LZY,Nyingchi/Linzhi,China,29.64,94.36
+2138,MDG,Mudanjiang,China,44.6,129.5
+2139,MIG,Mianyang,China,31.46997703,104.7699768
+2140,MXZ,Meixian,China,24.35,116.133333
+2141,NAO,Nanchong,China,30.78043256,106.1299971
+2142,NAY,Beijing,China,40.25,116.5
+2143,NBS,Baishan,China,41.90001223,126.4299983
+2144,NDG,Qiqihar,China,47.34497703,123.9899922
+2145,NGB,Ningbo,China,29.87997072,121.5500378
+2146,NGQ,Shiquande,China,29.0,106.0
+2147,NKG,Nanjing,China,32.05001914,118.7799743
+2148,NLT,Xinyuan,China,37.18,99.0
+2149,NNG,Nanning,China,22.81998822,108.3200443
+2150,NNY,Nanyang,China,33.00040041,112.5300199
+2151,NTG,Nantong,China,32.0303821,120.8250175
+2152,NZH,Manzhouli,China,49.59998151,117.4299792
+2153,OHE,Mohe,China,52.98,122.54
+2154,PEK,Beijing,China,40.063333,116.584444
+2155,PNJ,Peng Lai/Sha He Kou,China,42.446389,119.573611
+2156,PVG,Shanghai,China,31.143333,121.805278
+2157,PZI,Panzhihua,China,26.5499931,101.7300073
+2158,RHT,Alxa Right Banner,China,39.2,101.67
+2159,RKZ,Xigaze/rikaze,China,29.27,88.89
+2160,RLK,Bayannur,China,40.74,107.39
+2161,RUG,Rugao,China,32.388333,120.555278
+2162,SHA,Shanghai,China,31.2,121.341111
+2163,SHE,Shenyang,China,41.871667,123.433333
+2164,SHF,Shanhaiguan,China,39.983333,119.75
+2165,SHP,Qinhuangdao,China,39.93036501,119.6200264
+2166,SHS,Shashi,China,30.32002138,112.2299865
+2167,SIA,Xiguan,China,34.366667,108.7
+2168,SJW,Shijiazhuang,China,38.05,114.466667
+2169,SWA,Shantou,China,23.37000633,116.6700256
+2170,SXJ,Shanshan,China,42.816667,90.233333
+2171,SYM,Simao,China,22.78068829,100.9781669
+2172,SYX,Sanya,China,18.25910454,109.5040317
+2173,SZV,Suzhou,China,31.30047833,120.620017
+2174,SZX,Shenzhen,China,22.55237051,114.1221231
+2175,TAO,Qingdao,China,36.08997927,120.3300089
+2176,TCG,Tacheng,China,46.75002626,82.95001664
+2177,TCZ,Tengchong,China,25.03331565,98.46658891
+2178,TEN,Tongren,China,27.68041506,109.1300207
+2179,TGO,Tongliao,China,43.61995892,122.2699939
+2180,THQ,Tianshui,China,34.60001853,105.9199841
+2181,TNA,Jinan,China,36.67498232,116.9950187
+2182,TNH,Tonghua,China,41.67997398,125.7499882
+2183,TSN,Tianjin,China,39.13002626,117.2000191
+2184,TVS,Tangshan,China,39.62433718,118.194377
+2185,TXN,Huangshan,China,29.711389,118.3125
+2186,TYN,Taiyuan,China,37.87501243,112.5450577
+2187,URC,Urumqi,China,43.80501223,87.57500565
+2188,UYN,Yulin,China,22.62997398,110.1500101
+2189,WEF,Weifang,China,36.7204059,119.1001098
+2190,WEH,Weihai,China,37.49997072,122.0999784
+2191,WHU,Wuhu,China,31.3504236,118.3699735
+2192,WNH,Wenshan,China,23.3723576,104.2496984
+2193,WNZ,Wenzhou,China,28.0199809,120.6500927
+2194,WUA,Wuhai,China,39.66469647,106.8122294
+2195,WUH,Wuhan,China,30.58003135,114.270017
+2196,WUS,Wuyishan,China,27.75,118.04
+2197,WUX,Wuxi,China,31.57999615,120.2999849
+2198,WUZ,Wuzhou,China,23.48002545,111.3200162
+2199,WXN,Wanzhou,China,30.81999086,108.4000394
+2200,XEN,Xingcheng,China,40.733333,118.616667
+2201,XFN,Xiangyang,China,32.05,112.016667
+2202,XIC,Xichang,China,27.88001528,102.2999983
+2203,XIL,Xilinhot,China,43.94433189,116.0443274
+2204,XIN,Xingning,China,24.15,115.75
+2205,XIY,Xi'an,China,34.447222,108.751667
+2206,XMN,Xiamen,China,24.44999208,118.080017
+2207,XNN,Xining,China,36.6199986,101.7700048
+2208,XNT,Xingtai,China,37.071944,114.484444
+2209,XTA,Econ/Tech Dev. Area,China,39.142222,117.176667
+2210,XTF,Port Free Trade Zone,China,39.142222,117.176667
+2211,XUZ,Xuzhou,China,34.28001223,117.1800203
+2212,YBP,Yibin,China,28.7699868,104.5700406
+2213,YCU,Yuncheng,China,35.183333,111.05
+2214,YIC,Yichun (Jiangxi),China,27.82,114.42
+2215,YIE,Aershan,China,47.18,119.94
+2216,YIH,Yichang,China,30.69997235,111.2800187
+2217,YIN,Yining,China,43.90001935,81.35001094
+2218,YIW,Yiwu,China,29.266667,120.05
+2219,YLN,Yilan,China,24.75,121.75
+2220,YNJ,Yanji,China,42.88230369,129.5127559
+2221,YNT,Yantai,China,37.53040814,121.4000211
+2222,YNZ,Yancheng,China,33.3855556,120.1252778
+2223,YTY,Yangzhou,China,32.39999778,119.4300122
+2224,YUA,Yuanmou,China,25.65,101.916667
+2225,YUS,Yushu,China,44.84,126.53
+2226,YZY,Zhangye,China,38.9299868,100.4500337
+2227,ZAS,Shunde Ferry,China,22.840833,113.245278
+2228,ZAT,Zhaotong,China,27.316667,103.8
+2229,ZAX,Pan Yu Ferry,China,25.083333,119.05
+2230,ZBD,Jiang Men Ferry,China,28.739167,118.622778
+2231,ZBZ,Xin Hui Ferry,China,44.018333,114.955556
+2232,ZCA,Tai Shan,China,36.5,117.333333
+2233,ZCU,She Kou Ferry,China,22.466667,114.433333
+2234,ZEF,Nanhai Ferry,China,39.966667,119.783333
+2235,ZGC,Zhongchuan,China,36.016667,103.716667
+2236,ZGN,Zhongshan Ferry Port,China,22.516667,113.366667
+2237,ZHA,Zhanjiang,China,21.19998374,110.3800219
+2238,ZHY,Zhongwei,China,37.5,105.2
+2239,ZIY,Lianhuashan Port,China,23.216667,113.433333
+2240,ZQZ,Zhangjiakou,China,40.83000002,114.9299768
+2241,ZTI,Humen Port,China,22.826667,113.671667
+2242,ZUH,Zhuhai,China,22.2769444,113.5677778
+2243,ZYI,Zunyi,China,27.70002626,106.9200264
+2244,ZYK,Shekou Port,China,30.7,114.35
+6660,ABZ,Aberdeen (GB),United Kingdom,57.2,-2.2
+6661,ACI,Alderney,United Kingdom,49.7,-2.216667
+6662,ADX,Leuchars,United Kingdom,56.366667,-2.866667
+6663,BBP,Bembridge,United Kingdom,50.683333,-1.083333
+6664,BBS,Blackbushe,United Kingdom,51.330556,-0.844444
+6665,BEB,Benbecula,United Kingdom,57.483333,-7.366667
+6666,BEQ,Honington,United Kingdom,52.35,0.766667
+6667,BFS,Belfast,United Kingdom,54.590833,-5.916667
+6668,BHD,Belfast,United Kingdom,54.618056,-5.8725
+6669,BHX,Birmingham (GB),United Kingdom,52.45,-1.75
+6670,BLK,Blackpool Airport,United Kingdom,53.771667,-3.028611
+6671,BOH,Bournemouth,United Kingdom,50.72999005,-1.900049684
+6672,BOL,Bally Kelly,United Kingdom,55.166667,-6.766667
+6673,BRF,Bradford,United Kingdom,53.80003522,-1.749981325
+6674,BRR,Barra,United Kingdom,57.016667,-7.433333
+6675,BRS,Bristol (GB) 00,United Kingdom,51.383333,-2.716667
+6676,BSH,Brighton,United Kingdom,50.83034568,-0.169974407
+6677,BUT,Burtonwood,United Kingdom,53.416667,-2.583333
+6678,BWF,Walney Island,United Kingdom,54.116667,-3.233333
+6679,BWY,Bentwaters St,United Kingdom,52.1,1.316667
+6680,BZZ,Raf Brize Norton,United Kingdom,51.75,-1.583889
+6681,CAL,Campbeltown,United Kingdom,55.416667,-5.6
+6682,CAX,Carlisle,United Kingdom,54.87999514,-2.929986818
+6683,CBG,Cambridge,United Kingdom,52.20039125,0.116623086
+6684,CEG,Chester,United Kingdom,53.20002016,-2.919987428
+6685,COL,Coll,United Kingdom,56.616667,-6.616667
+6686,CRN,Cromarty,United Kingdom,57.65,-4.05
+6687,CSA,Colonsay,United Kingdom,56.058889,-6.243889
+6688,CVT,West Midlands International,United Kingdom,52.369722,-1.479722
+6689,CWL,Cardiff (GB) 00,United Kingdom,51.4,-3.35
+6690,DND,Dundee,United Kingdom,56.47038902,-3.000008384
+6691,DOC,Dornoch,United Kingdom,57.883333,-4.083333
+6692,DSA,Doncaster/Sheffield,United Kingdom,53.474722,-1.004444
+6693,EDI,Edinburgh,United Kingdom,55.94832786,-3.219090618
+6694,EMA,Nottingham,United Kingdom,52.831111,-1.328056
+6695,ENK,Enniskillen St. Angelo,United Kingdom,54.398889,-7.633333
+6696,EOI,Eday,United Kingdom,59.2,-2.783333
+6697,ESH,Shoreham,United Kingdom,50.835278,-0.301944
+6698,EWY,Greenham RAF,United Kingdom,51.4,-1.316667
+6699,EXT,Exeter (GB) 00,United Kingdom,50.733333,-3.416667
+6700,FAB,Farnborough,United Kingdom,51.266667,-0.733333
+6701,FEA,Fetlar,United Kingdom,60.583333,-0.966667
+6702,FIE,Fair Isle,United Kingdom,59.5,-1.666667
+6703,FKH,Sculthorp RAF,United Kingdom,52.833333,-0.833333
+6704,FLH,Flotta,United Kingdom,58.5,-3.0
+6705,FOA,Foula,United Kingdom,60.116667,-2.05
+6706,FSS,Kinloss,United Kingdom,57.65,-3.566667
+6707,FZO,Filton,United Kingdom,51.519444,-2.590833
+6708,GCI,Guernsey,United Kingdom,49.433333,-2.6
+6709,GLA,Glasgow (GB),United Kingdom,55.871944,-4.433056
+6710,GLO,Gloucester/Cheltenham,United Kingdom,51.894167,-2.167222
+6711,GSY,Binbrook,United Kingdom,51.333333,0.033333
+6712,HAW,Haverfordwest,United Kingdom,51.816667,-4.966667
+6713,HEN,Hendon,United Kingdom,51.583333,-0.233333
+6714,HLY,Anglesey Airport,United Kingdom,53.316667,-4.633333
+6715,HOY,Hoy Island,United Kingdom,58.833333,-3.3
+6716,HRT,Linton-On-Ouse,United Kingdom,54.05,-1.25
+6717,HTF,Hatfield,United Kingdom,51.765,-0.248333
+6718,HUY,Humberside,United Kingdom,53.574444,-0.350833
+6719,HYC,High Wycombe,United Kingdom,51.633333,-0.766667
+6720,ILY,Islay,United Kingdom,55.683333,-6.25
+6721,INV,Inverness,United Kingdom,57.46712404,-4.23326644
+6722,IOM,Isle of Man,United Kingdom,54.083333,-4.623889
+6723,IPW,Ipswich,United Kingdom,52.07034751,1.169995482
+6724,ISC,Isles of Scilly,United Kingdom,49.9,-6.4
+6725,JER,Jersey,United Kingdom,49.208056,-2.195556
+6726,KNF,Marham RAF,United Kingdom,51.366667,-0.283333
+6727,KOI,Kirkwall,United Kingdom,58.96698081,-2.950011435
+6728,KYN,Milton Keynes,United Kingdom,51.716667,-1.083333
+6729,LBA,Leeds Bradford,United Kingdom,53.865833,-1.660556
+6730,LCY,London (GB),United Kingdom,51.505278,0.055278
+6731,LDY,Derry,United Kingdom,55.042778,-7.161111
+6732,LEQ,Land's End,United Kingdom,50.1,-5.666667
+6733,LGW,London (GB),United Kingdom,51.148056,-0.190278
+6734,LHR,London (GB),United Kingdom,51.469722,-0.451389
+6735,LKZ,Lakenheath RAF,United Kingdom,52.366667,-1.4
+6736,LMO,RAF Station,United Kingdom,57.716667,-3.266667
+6737,LPL,Liverpool,United Kingdom,53.41600181,-2.917997886
+6738,LSI,Shetland Islands,United Kingdom,59.878889,-1.295556
+6739,LTN,London (GB),United Kingdom,51.866667,-0.366667
+6740,LWK,Shetland Islands,United Kingdom,60.2,-1.125
+6741,LYX,Lydd,United Kingdom,50.95,0.91
+6742,MAN,Manchester (GB),United Kingdom,53.35,-2.266667
+6743,MHZ,Mildenhall Arpt,United Kingdom,51.416667,-1.7
+6744,MME,Durham,United Kingdom,54.398889,-7.633333
+6745,MSE,Kent International,United Kingdom,51.366667,1.35
+6746,NCL,Newcastle (GB),United Kingdom,51.366667,1.35
+6747,NDY,Sanday,United Kingdom,59.466667,-2.65
+6748,NHT,Northolt,United Kingdom,51.55,-0.383333
+6749,NQT,Nottingham Airport,United Kingdom,52.966667,-1.166667
+6750,NQY,Newquay,United Kingdom,50.440556,-5.995278
+6751,NRL,North Ronaldsay,United Kingdom,59.366667,-2.433333
+6752,NWI,Norwich,United Kingdom,52.63036501,1.300013386
+6753,OBN,Oban,United Kingdom,56.583333,-5.5
+6754,OKH,Cottesmor RAF,United Kingdom,52.666667,-0.733333
+6755,ORM,Northampton,United Kingdom,52.3,-0.783333
+6756,OUK,Out Skerries,United Kingdom,60.42,0.762
+6757,OXF,Oxford,United Kingdom,51.7704175,-1.249986004
+6758,PIK,Glasgow (GB),United Kingdom,55.509444,-4.586667
+6759,PLH,Plymouth,United Kingdom,50.38538576,-4.159989259
+6760,PME,Portsmouth,United Kingdom,50.80034751,-1.080022218
+6761,PPW,Papa Westray,United Kingdom,59.416667,-2.75
+6762,PSL,Perth,United Kingdom,51.366667,1.35
+6763,PSV,Papa Stour,United Kingdom,60.33,-1.69
+6764,PZE,Penzance,United Kingdom,50.13372154,-5.550033611
+6765,RCS,Rochester,United Kingdom,51.4,0.5
+6766,SCS,Scatsta,United Kingdom,60.43,-1.296111
+6767,SEN,London (GB),United Kingdom,51.569444,0.7
+6768,SKL,Broadford,United Kingdom,57.333333,-6.25
+6769,SOU,Southampton,United Kingdom,50.90003135,-1.399976849
+6770,SOY,Stronsay,United Kingdom,59.183333,-2.516667
+6771,STN,London (GB),United Kingdom,51.883333,0.233333
+6772,SWI,Gypsy,United Kingdom,51.566667,-1.783333
+6773,SWS,Fairwood Comm,United Kingdom,51.6,-4.066667
+6774,SYY,Stornoway,United Kingdom,58.216667,-6.333333
+6775,SZD,Sheffield City Airport,United Kingdom,53.366667,-1.5
+6776,TRE,Tiree,United Kingdom,56.5,-6.916667
+6777,TSO,Tresco,United Kingdom,49.95,-6.316667
+6778,ULL,Mull,United Kingdom,56.416667,-6.333333
+6779,UNT,Baltasound,United Kingdom,60.75,-0.85
+6780,UPV,Upavon,United Kingdom,51.283333,-1.816667
+6781,VLY,Anglesey,United Kingdom,53.27,-4.43
+6782,WEM,West Malling,United Kingdom,51.3,0.416667
+6783,WFD,Woodford,United Kingdom,51.116667,-1.833333
+6784,WHS,Whalsay,United Kingdom,60.366667,-0.983333
+6785,WIC,Wick,United Kingdom,58.43329246,-3.083362469
+6786,WOB,Woodbridge RAF,United Kingdom,51.55,-0.716667
+6787,WRY,Westray,United Kingdom,59.35,-2.95
+6788,WUK,Off Line Point,United Kingdom,52.95,-2.833333
+6789,WXF,Weathersfield Raf,United Kingdom,51.883333,-0.566667
+6790,XQH,Railway Station,United Kingdom,52.966667,-1.166667
+6791,YEO,Yeovilton,United Kingdom,51.016667,-2.633333
+6792,ZBC,Colmore Row Bus Stn,United Kingdom,52.466667,-1.916667
+6793,ZIV,ScotRail,United Kingdom,57.083333,-4.666667
+6794,ZMP,Manchester Bus Stn.,United Kingdom,50.0,-1.0
+6795,0A7,Hendersonville Airport,United States,35.316667,-82.45
+6796,AAP,Andrau Airpark,United States,29.723889,-95.588333
+6797,ABE,Allentown/Bethlehem/Easton,United States,40.652222,-75.440278
+6798,ABI,Abilene,United States,32.416667,-99.683333
+6799,ABL,Ambler,United States,67.08648521,-157.8514091
+6800,ABQ,Albuquerque,United States,35.10497479,-106.6413308
+6801,ABR,Aberdeen (US),United States,45.45,-98.433333
+6802,ABY,Albany (US) GA,United States,31.533333,-84.2
+6803,ACB,Antrim County,United States,44.983333,-85.202778
+6804,ACK,Nantucket,United States,41.266667,-70.066667
+6805,ACT,Waco,United States,31.616667,-97.233333
+6806,ACV,Arcata/Eureka,United States,40.983333,-124.1
+6807,ACY,Atlantic City,United States,39.466667,-74.583333
+6808,ADG,Lenawee County,United States,41.9,-84.033333
+6809,ADK,Adak Island,United States,51.878056,-176.646111
+6810,ADM,Ardmore Municipal Arpt,United States,34.966667,-86.883333
+6811,ADQ,Kodiak,United States,57.75,-152.483333
+6812,ADR,Andrews,United States,33.45,-79.566667
+6813,ADS,Addison Airport,United States,32.968611,-96.836389
+6814,ADW,Camp Springs,United States,38.8,-76.916667
+6815,AED,Aleneva,United States,58.0,-152.9
+6816,AEL,Albert Lea,United States,43.64778668,-93.36870427
+6817,AET,Allakaket,United States,66.56548342,-152.6454995
+6818,AEX,Alexandria (US),United States,31.3275,-92.548611
+6819,AFF,United StatesF Academy Airstrip,United States,38.969722,-104.813056
+6820,AFW,Fort Worth Alliance,United States,32.987778,-97.318889
+6821,AGC,Allegheny County,United States,40.35,-79.933333
+6822,AGN,Angoon,United States,57.5,-134.583333
+6823,AGS,Augusta (US) GA,United States,33.366667,-81.966667
+6824,AHC,Amedee AAF,United States,60.572222,-78.0
+6825,AHN,Athens (US),United States,33.95,-83.333333
+6826,AHT,Amchitka,United States,51.5,-120.0
+6827,AIA,Alliance,United States,42.10139528,-102.8701915
+6828,AIB,Anita Bay,United States,56.233333,-132.383333
+6829,AIN,Wainwright,United States,70.63688865,-160.0383041
+6830,AIV,George Downer,United States,33.1,-88.2
+6831,AIY,Bader Field,United States,39.366667,-74.45
+6832,AIZ,Lee C Fine Memorial,United States,38.1,-92.55
+6833,AKB,Atka,United States,52.19648968,-174.2004887
+6834,AKC,Fulton International,United States,41.0,-81.0
+6835,AKI,Akiak,United States,60.9,-161.233333
+6836,AKK,Akhiok,United States,56.95,-154.166667
+6837,AKN,King Salmon,United States,58.68870323,-156.6613784
+6838,AKO,Colorado Plains Regional Airport,United States,40.175556,-103.221944
+6839,AKP,Anaktuvuk Pass,United States,68.133333,-151.733333
+6840,ALB,Albany (US) NY,United States,42.733333,-73.8
+6841,ALE,Alpine,United States,30.36071657,-103.6650009
+6842,ALN,Alton,United States,38.89099693,-90.18422164
+6843,ALO,Waterloo,United States,42.49315432,-92.34279789
+6844,ALS,Alamosa,United States,37.433333,-105.866667
+6845,ALW,Walla Walla,United States,46.06515851,-118.3418828
+6846,ALX,Thomas C Russell Fld,United States,32.933333,-85.95
+6847,ALZ,Alitak,United States,56.895833,-154.245833
+6848,AMA,Amarillo,United States,35.226389,-101.705833
+6849,AMK,Animas Airpark,United States,39.0,-96.0
+6850,AMN,Gratiot Community,United States,43.383333,-84.65
+6851,AMW,Ames,United States,42.05385297,-93.61972254
+6852,ANA,Orange County Steel Salvage Heliport,United States,33.848333,-117.850278
+6853,ANB,Anniston Metropolitan,United States,33.588056,-85.858056
+6854,ANC,Anchorage,United States,61.174444,-149.996389
+6855,AND,Anderson,United States,34.50374534,-82.6502629
+6856,ANI,Aniak,United States,61.5787077,-159.5221857
+6857,ANN,Annette Island,United States,55.033333,-131.566667
+6858,ANP,Lee,United States,38.983333,-76.5
+6859,ANQ,Tri-State Steuben Cty,United States,41.633333,-85.0
+6860,ANV,Anvik,United States,62.65,-160.216667
+6861,ANW,Ainsworth,United States,42.583333,-99.983333
+6862,ANY,Anthony,United States,37.15,-98.033333
+6863,AOH,Allen County,United States,40.716667,-84.033333
+6864,AOO,Altoona,United States,40.51859784,-78.39496708
+6865,AOS,Amook Bay,United States,57.466667,-153.833333
+6866,APA,Arapahoe Co,United States,39.566667,-104.833333
+6867,APC,Napa County,United States,38.45,-122.216667
+6868,APF,Naples (US),United States,40.84002525,-107.0
+6869,APG,Phillips AAF,United States,52.316667,-78.0
+6870,APH,Camp A P Hill,United States,38.05,-77.35
+6871,APN,Alpena,United States,45.06160219,-83.43269576
+6872,APT,Marion County,United States,35.066667,-85.633333
+6873,APV,Apple Valley,United States,34.575278,-117.186111
+6874,AQY,Alyeska,United States,60.966667,-149.116667
+6875,ARA,Lafayette (US) LA,United States,80.133333,-70.0
+6876,ARC,Arctic Village,United States,68.116667,-145.583333
+6877,ARG,Walnut Ridge,United States,36.116667,-90.916667
+6878,ART,Watertown (US) NY,United States,43.983333,-76.016667
+6879,ARV,Noble F. Lee,United States,45.916667,-89.733333
+6880,ARX,Asbury Park,United States,40.219444,-74.09
+6881,ASE,Aspen,United States,39.223056,-106.868889
+6882,ASH,Boire Field,United States,42.781667,-71.514722
+6883,ASN,Talladega,United States,38.6,-82.0
+6884,AST,Astoria,United States,46.18838096,-123.8299974
+6885,ASX,Ashland,United States,46.548611,-90.918889
+6886,ASY,Ashley,United States,46.033333,-99.366667
+6887,ATE,Antlers,United States,34.233333,-95.616667
+6888,ATK,Atqasuk,United States,70.4693795,-157.395778
+6889,ATL,Atlanta,United States,33.636667,-84.428056
+6890,ATO,Ohio University,United States,39.333333,-82.1
+6891,ATS,Artesia,United States,32.85,-104.466667
+6892,ATT,Atmautluak,United States,61.0,-162.75
+6893,ATU,Casco Cove,United States,52.833333,-99.0
+6894,ATW,Appleton,United States,44.26867902,-88.40050623
+6895,ATY,Watertown (US) SD,United States,44.916667,-97.15
+6896,AUG,Augusta (US) ME,United States,44.31056276,-69.77998906
+6897,AUK,Alakanuk,United States,62.683333,-164.633333
+6898,AUM,Austin,United States,30.26694969,-97.74277836
+6899,AUO,Auburn-Opelika,United States,32.616667,-85.433333
+6900,AUS,Austin,United States,30.194444,-97.67
+6901,AUZ,Municipal Airport,United States,41.766667,-88.316667
+6902,AVL,Asheville,United States,35.60119773,-82.55414474
+6903,AVP,Wilkes-Barre,United States,41.338333,-75.723333
+6904,AVX,Avalon Bay,United States,33.333333,-118.35
+6905,AXB,Alexandria Bay,United States,44.2525,-75.901389
+6906,AXG,Algona,United States,43.066667,-94.233333
+6907,AXN,Alexandria,United States,38.0,-77.0
+6908,AXV,Neil Armstrong,United States,40.566667,-84.183333
+6909,AXX,Angel Fire,United States,36.416667,-105.283333
+6910,AYE,AAF Heliport,United States,38.7,-72.5
+6911,AYS,Ware County,United States,31.25,-82.4
+6912,AYZ,Zahns,United States,40.666667,-73.416667
+6913,AZA,Phoenix,United States,33.31,-107.0
+6914,AZO,Kalamazoo,United States,42.29215883,-85.58718958
+6915,BAM,Lander County,United States,40.633333,-116.933333
+6916,BAR,Baker Aaf,United States,52.19648968,-176.516667
+6917,BBC,Bay City,United States,43.5944566,-83.88889531
+6918,BBD,Curtis Field,United States,31.133333,-99.333333
+6919,BBF,Burlington,United States,44.47579816,-73.21246688
+6920,BBW,Broken Bow,United States,41.4,-99.633333
+6921,BBX,Wings Field,United States,40.15,-75.266667
+6922,BCB,Virginia Tech,United States,37.233333,-80.416667
+6923,BCC,Bear Creek,United States,57.6175,-155.867222
+6924,BCE,Bryce,United States,37.7,-112.15
+6925,BCJ,Baca Grande,United States,37.966667,-105.766667
+6926,BCS,Southern Seaplane,United States,30.05,-90.233333
+6927,BCT,Public,United States,26.366667,-80.116667
+6928,BDE,Baudette,United States,54.383333,-65.0
+6929,BDF,Rinkenberger,United States,41.183333,-89.65
+6930,BDG,Blanding,United States,37.583333,-109.483333
+6931,BDL,Hartford,United States,41.938889,-72.683333
+6932,BDR,Igor I. Sikorsky Mem.,United States,41.166667,-73.133333
+6933,BDX,Broadus,United States,45.45,-105.416667
+6934,BEC,Beech,United States,37.686389,-97.221111
+6935,BED,Hanscom Field,United States,42.466667,-71.283333
+6936,BEH,Ross Field,United States,42.133333,-86.433333
+6937,BET,Bethel,United States,60.783333,-161.833333
+6938,BFB,Blue Fox Bay,United States,58.183333,-152.133333
+6939,BFF,Scottsbluff,United States,41.86750775,-103.6606859
+6940,BFG,Bullfrog Basin,United States,37.55,-110.708333
+6941,BFI,Seattle,United States,47.53,-122.301944
+6942,BFK,Buffalo Municipal Airport,United States,36.863333,-99.618611
+6943,BFL,Bakersfield,United States,35.36997154,-119.0199809
+6944,BFM,Mob Aerospace,United States,47.25,-52.85
+6945,BFP,Beaver Falls,United States,40.75194277,-80.31942326
+6946,BFR,Virgil I Grissom Muni,United States,38.85,-86.483333
+6947,BGD,Borger,United States,35.65,-101.4
+6948,BGE,Decatur County,United States,30.9,-84.6
+6949,BGM,Binghamton,United States,42.09901817,-75.91832239
+6950,BGQ,Big Lake,United States,61.533333,-149.816667
+6951,BGR,Bangor,United States,44.80115297,-68.77834477
+6952,BGS,Webb AFB,United States,41.5,-87.96
+6953,BGT,Bagdad,United States,34.593056,-113.170278
+6954,BHB,Bar Harbor,United States,44.38789654,-68.20437464
+6955,BHC,Bhurban Heliport,United States,35.15,-114.566667
+6956,BHM,Birmingham (US),United States,52.47497398,-70.0
+6957,BIC,Big Creek,United States,57.666667,-157.583333
+6958,BID,Block Island,United States,41.169444,-71.583333
+6959,BIE,Beatrice,United States,40.316667,-96.75
+6960,BIF,El Paso,United States,31.849444,-106.38
+6961,BIG,Intermediate Field,United States,64.0,-145.733333
+6962,BIH,Bishop,United States,37.36395835,-118.394076
+6963,BIL,Billings,United States,45.78830202,-108.5400004
+6964,BIS,Bismarck,United States,46.80831728,-100.7833163
+6965,BIX,Keesler AFB,United States,28.666667,-88.433333
+6966,BJC,Jeffco,United States,39.933333,-105.066667
+6967,BJI,Bemidji,United States,47.47357383,-94.88018823
+6968,BJJ,Wayne County,United States,40.8,-81.933333
+6969,BKC,Buckland,United States,65.983333,-161.166667
+6970,BKD,Stephens County,United States,32.75,-98.9
+6971,BKE,Baker,United States,44.833333,-117.816667
+6972,BKF,Lake Brooks SPB,United States,58.554722,-155.7775
+6973,BKG,Branson,United States,36.6,-93.2
+6974,BKH,Barking Sands PMRF,United States,22.024722,-159.789444
+6975,BKL,Burke Lakefront,United States,41.511111,-81.688889
+6976,BKT,Blackstone AAF,United States,37.083333,-77.95
+6977,BKW,Beckley,United States,37.78018618,-81.18301396
+6978,BKX,Brookings,United States,44.30676455,-96.78803044
+6979,BLD,Las Vegas,United States,35.0,-114.8
+6980,BLH,Blythe,United States,33.616667,-114.716667
+6981,BLI,Bellingham,United States,48.76013613,-122.4869269
+6982,BLM,Monmouth Executive Airport,United States,40.185556,-74.123611
+6983,BLU,Blue Canyon,United States,51.181111,-121.0
+6984,BLV,Belleville,United States,44.16666974,-77.38334924
+6985,BLW,Bellows Field,United States,21.35,-157.716667
+6986,BMC,Brigham City,United States,41.533333,-112.05
+6987,BMG,Bloomington,United States,39.16565716,-86.52640873
+6988,BMI,Bloomington-Normal,United States,40.477222,-88.915833
+6989,BML,Berlin Municipal Airport,United States,44.575278,-71.175833
+6990,BMT,Beaumont Muni,United States,30.0,-94.0
+6991,BMX,Big Mountain,United States,59.366667,-155.266667
+6992,BNA,Nashville,United States,36.16997438,-86.77998499
+6993,BNF,Warm Spring Bay SPB,United States,57.083333,-134.816667
+6994,BNG,Banning,United States,33.933333,-116.866667
+6995,BNH,Barnes,United States,41.766389,-72.683333
+6996,BNL,Barnwell Regional,United States,33.257778,-81.388333
+6997,BNO,Burns,United States,43.583333,-118.95
+6998,BNW,Boone,United States,42.066667,-93.883333
+6999,BOF,Bolling AFB,United States,49.0,-72.5
+7000,BOI,Boise,United States,43.60859011,-116.2274899
+7001,BOK,Brookings State,United States,42.05,-124.283333
+7002,BOS,Boston,United States,42.363056,-71.0
+7003,BOW,Bartow,United States,27.933333,-81.783333
+7004,BPA,Grumman,United States,40.75,-73.483333
+7005,BPI,Big Piney-marbleton,United States,42.583333,-110.116667
+7006,BPT,Beaumont,United States,30.083333,-94.1
+7007,BQK,Brunswick,United States,31.25,-81.45
+7008,BQV,Bartlett SPB,United States,58.45,-135.883333
+7009,BRD,Brainerd,United States,46.35800885,-94.20084986
+7010,BRL,Burlington (US) IA,United States,40.783333,-91.116667
+7011,BRO,Brownsville,United States,25.91997988,-97.50000248
+7012,BRW,Barrow,United States,71.29056968,-156.78858
+7013,BRY,Samuels Field,United States,37.816667,-85.466667
+7014,BSF,Bradshaw AAF,United States,66.15,-70.0
+7015,BSI,Blairsville,United States,40.433333,-79.266667
+7016,BSQ,Bisbee Municipal Arpt,United States,31.363889,-109.881111
+7017,BSW,Boswell Bay,United States,60.4,-146.133333
+7018,BSZ,Bartletts,United States,58.266667,-157.483333
+7019,BTF,Salt Lake Skypark,United States,40.883333,-111.883333
+7020,BTI,Barter Island,United States,70.133333,-143.633333
+7021,BTL,WK Kellogg Regional,United States,42.3,-85.25
+7022,BTM,Butte,United States,46.0038961,-112.5338394
+7023,BTN,Bennettsville,United States,34.616667,-79.683333
+7024,BTP,Butler County - Kenny Scholter Field,United States,40.793611,-79.949722
+7025,BTR,Baton Rouge,United States,30.533333,-91.15
+7026,BTT,Bettles,United States,66.916667,-151.516667
+7027,BTV,Burlington (US) VT,United States,44.471944,-73.153333
+7028,BTY,Beatty,United States,52.9,-90.0
+7029,BUF,Buffalo,United States,42.87997825,-78.88000208
+7030,BUM,Butler,United States,38.25,-94.316667
+7031,BUR,Burbank,United States,34.2,-118.35
+7032,BVD,Sea Port,United States,53.733333,-166.316667
+7033,BVO,Bartlesville,United States,36.74720013,-95.98058618
+7034,BVY,Beverly Municiple Airport,United States,42.516667,-70.833333
+7035,BWC,Brawley,United States,32.983333,-115.516667
+7036,BWD,Brownwood,United States,31.70789532,-98.98231511
+7037,BWI,Baltimore,United States,39.175278,-76.668333
+7038,BWL,Blackwell,United States,36.8,-97.283333
+7039,BWM,Bowman,United States,46.133333,-103.583333
+7040,BWS,Blaine,United States,48.966667,-122.833333
+7041,BXA,George R Carr,United States,30.783333,-89.866667
+7042,BXC,Boxborough,United States,42.483611,-71.535278
+7043,BXK,Buckeye Municipal,United States,33.366667,-112.583333
+7044,BXS,Borrego Springs,United States,33.25,-116.316667
+7045,BYA,Boundary,United States,64.083333,-141.116667
+7046,BYH,Blytheville AFB,United States,36.0,-90.0
+7047,BYI,Rupert,United States,42.533333,-113.766667
+7048,BYS,Bicycle Lake AAF,United States,35.283333,-116.633333
+7049,BYW,Blakely Island,United States,48.583333,-122.833333
+7050,BZN,Bozeman,United States,45.68009157,-111.0378325
+7051,BZS,Buzzards Pt S,United States,49.0,-72.5
+7052,BZT,Hinkles Ferry,United States,29.05,-95.566667
+7053,CAD,Cadillac,United States,44.25121238,-85.41360844
+7054,CAE,Columbia (US) SC,United States,33.95,-81.116667
+7055,CAK,Akron/Canton,United States,40.916111,-81.442222
+7056,CAO,Clayton,United States,36.45,-103.183333
+7057,CBA,Corner Bay,United States,57.716667,-135.2
+7058,CBE,Wiley Ford,United States,39.6,-78.766667
+7059,CBM,Columbus AFB,United States,33.643889,-88.443889
+7060,CBZ,Cabin Creek,United States,55.383333,-132.416667
+7061,CCA,Chaffee AFB,United States,38.7,-72.5
+7062,CCB,Cable Airport,United States,34.111667,-117.6875
+7063,CCG,Crane County Arpt,United States,31.4,-102.35
+7064,CCR,Buchanan Fld,United States,37.983333,-122.052778
+7065,CDB,Cold Bay,United States,55.20000144,-162.7150916
+7066,CDC,Cedar City,United States,37.67742759,-113.061094
+7067,CDH,Harrell Fld,United States,33.616667,-92.766667
+7068,CDK,Lewis,United States,29.133333,-83.033333
+7069,CDL,Candle,United States,65.9,-161.916667
+7070,CDN,Woodward Fld,United States,34.266667,-80.6
+7071,CDR,Chadron,United States,42.82791424,-103.0030774
+7072,CDS,Childress,United States,34.4248871,-100.2139195
+7073,CDV,Cordova,United States,60.483333,-145.483333
+7074,CDW,Caldwell Wright,United States,40.875278,-74.281389
+7075,CEA,Cessna Aircraft Field,United States,39.0,-96.0
+7076,CEC,Crescent City,United States,41.7564551,-124.2004916
+7077,CEF,Westover Metro Arpt,United States,44.633333,-64.85
+7078,CEM,Central,United States,65.566667,-144.783333
+7079,CEU,Oconee County,United States,34.666667,-82.883333
+7080,CEV,Mettle Field,United States,39.633333,-85.133333
+7081,CEW,Bob Sikes,United States,30.783333,-86.516667
+7082,CEX,Chena Hot Springs,United States,65.05,-146.05
+7083,CEY,Calloway County,United States,36.666667,-88.366667
+7084,CEZ,Cortez,United States,37.316667,-108.633333
+7085,CFA,Coffee Point,United States,58.230556,-157.5
+7086,CFD,Coulter Field,United States,18.433333,-77.466667
+7087,CFT,Morenci,United States,32.95,-109.2
+7088,CGA,Craig,United States,40.51728009,-107.5503968
+7089,CGF,Cuyahoga County,United States,41.5525,-81.483889
+7090,CGI,Cape Girardeau,United States,37.30582237,-89.51808659
+7091,CGS,College Park,United States,39.0,-76.916667
+7092,CGX,Merrill C Meigs,United States,41.858889,-87.608333
+7093,CHA,Chattanooga,United States,35.035278,-85.203889
+7094,CHD,Williams Gateway Airport,United States,33.307778,-111.655556
+7095,CHI,Chicago FSS,United States,41.883056,-87.766111
+7096,CHL,Challis,United States,44.5,-114.233333
+7097,CHO,Charlottesville,United States,38.02918907,-78.47692591
+7098,CHP,Circle Hot Springs,United States,65.466667,-144.583333
+7099,CHS,Charleston (US) SC,United States,32.898611,-80.040556
+7100,CHU,Chuathbaluk,United States,61.666667,-159.25
+7101,CIB,Ap In The Sky,United States,33.416389,-118.416389
+7102,CIC,Chico,United States,39.72862022,-121.8363982
+7103,CID,Cedar Rapids,United States,41.96998212,-91.66002303
+7104,CIG,Craig-Moffat,United States,40.5,-107.583333
+7105,CIK,Chalkyitsik,United States,66.65,-143.75
+7106,CIL,Melsing Creek,United States,64.9,-163.733333
+7107,CIN,Carroll,United States,42.05,-94.783333
+7108,CIU,Sault Ste Marie (US),United States,46.25,-84.466667
+7109,CIV,Chomley,United States,55.216667,-132.216667
+7110,CJN,Gillespie Field,United States,32.826111,-116.9725
+7111,CKA,Kegelman Af,United States,26.283333,-77.033333
+7112,CKB,Clarksburg,United States,39.28327272,-80.33691573
+7113,CKD,Crooked Creek,United States,61.866667,-158.133333
+7114,CKE,Clear Lake,United States,39.033333,-122.833333
+7115,CKK,Cherokee,United States,36.283333,-91.5
+7116,CKM,Fletcher Field,United States,34.299722,-90.512222
+7117,CKR,Crane Island,United States,48.6,-123.0
+7118,CKU,City,United States,38.0,-74.783333
+7119,CKV,Outlaw Field,United States,36.621944,-87.415
+7120,CKX,Chicken,United States,64.083333,-141.916667
+7121,CLC,Metroport,United States,29.5575,-95.139167
+7122,CLD,San Diego,United States,33.116667,-117.266667
+7123,CLE,Cleveland,United States,41.416667,-81.85
+7124,CLG,Coalinga,United States,36.15,-120.35
+7125,CLI,Clintonville,United States,43.6,-81.533333
+7126,CLL,College Station,United States,30.588611,-96.363889
+7127,CLM,Port Angeles,United States,48.133333,-123.5
+7128,CLP,Clarks Point,United States,58.85,-158.5
+7129,CLR,Calipatria,United States,33.133333,-115.516667
+7130,CLS,Centralia,United States,46.71641075,-122.9529708
+7131,CLT,Charlotte,United States,35.20499453,-80.83003809
+7132,CLW,Executive,United States,50.433333,-93.45
+7133,CMH,Columbus (US) OH,United States,40.0,-82.883333
+7134,CMI,Champaign,United States,40.033333,-88.283333
+7135,CMX,Hancock,United States,47.12729006,-88.5808053
+7136,CMY,Fort Mccoy,United States,43.95,-90.783333
+7137,CNE,Canon City,United States,38.416667,-105.1
+7138,CNK,Blosser Municipal,United States,39.55,-97.65
+7139,CNM,Carlsbad,United States,32.420565,-104.2282998
+7140,CNO,Chino,United States,34.016667,-117.7
+7141,CNU,Martin Johnson,United States,37.683333,-95.45
+7142,CNW,TSTC Waco Airport,United States,31.637778,-97.074167
+7143,CNY,Moab,United States,38.57370363,-109.5491895
+7144,COD,Cody,United States,44.52321128,-109.0571007
+7145,COI,Merritt Island,United States,28.133333,-80.633333
+7146,COM,Coleman,United States,31.833333,-99.433333
+7147,COP,Cooperstown - Westville Airport,United States,42.629167,-74.891111
+7148,COS,Colorado Springs,United States,38.816667,-104.716667
+7149,COT,Cotulla,United States,28.433333,-99.233333
+7150,COU,Columbia (US) MO,United States,34.0399752,-80.89998214
+7151,CPM,Compton,United States,33.89,-118.243611
+7152,CPR,Casper,United States,42.86661989,-106.3124878
+7153,CPS,St. Louis Downtown Airport,United States,38.570833,-90.156111
+7154,CRE,Grand Strand Airport,United States,33.811667,-78.723889
+7155,CRG,Craig Municipal,United States,30.333889,-81.5025
+7156,CRO,Corcoran,United States,36.1,-119.55
+7157,CRP,Corpus Christi,United States,27.770278,-97.501111
+7158,CRS,Corsicana,United States,32.1,-96.466667
+7159,CRW,Charleston (US) WV,United States,38.366667,-81.6
+7160,CRX,Roscoe Turner,United States,34.9,-88.6
+7161,CSG,Columbus (US) GA,United States,39.96,-82.999
+7162,CSM,Sherman,United States,33.63599469,-96.60858403
+7163,CSN,Carson City,United States,39.16384849,-119.7663953
+7164,CTB,Cut Bank,United States,48.633333,-112.333333
+7165,CTH,Chestercounty Carlson,United States,39.966667,-75.816667
+7166,CTK,Canton,United States,40.79886497,-81.37863509
+7167,CTO,Peconic River,United States,40.916667,-72.75
+7168,CTW,Cottonwood,United States,34.733333,-112.033333
+7169,CTX,Cortland,United States,36.5,-70.0
+7170,CTY,Cross City,United States,29.65,-83.116667
+7171,CTZ,Sampson County,United States,35.0,-78.333333
+7172,CUB,Owens Field,United States,37.0,-120.0
+7173,CUW,Cube Cove,United States,58.35,-133.766667
+7174,CVG,Cincinnati,United States,39.048889,-84.667778
+7175,CVN,Clovis,United States,34.416667,-103.083333
+7176,CVO,Albany,United States,42.6,-73.8
+7177,CVS,Cannon AFB,United States,34.0,-103.0
+7178,CWA,Wausau,United States,44.769444,-89.683056
+7179,CWG,Callaway Gardens,United States,32.833333,-84.883333
+7180,CWI,Clinton,United States,41.833333,-90.35
+7181,CWO,Ft Wolter AAF,United States,5.1,-137.0
+7182,CXC,Chitina Arpt,United States,61.566667,-144.416667
+7183,CXF,Coldfoot,United States,67.266667,-150.166667
+7184,CXO,Montgomery Co,United States,30.316667,-95.45
+7185,CYE,Crystal Lake,United States,41.210278,-75.832222
+7186,CYF,Chefornak,United States,60.2,-164.183333
+7187,CYM,Chatham SPB,United States,57.5,-134.75
+7188,CYS,Cheyenne,United States,41.15,-104.8
+7189,CZC,Copper Centre,United States,42.483333,-70.0
+7190,CZF,Cape Romanzof,United States,61.733333,-166.0
+7191,CZK,Cascade Locks/Stevens,United States,45.666667,-121.9
+7192,CZN,Chisana Field,United States,62.083333,-142.05
+7193,CZO,Chistochina,United States,62.566667,-144.666667
+7194,CZP,Cape Pole,United States,55.966667,-133.783333
+7195,CZT,Carrizo Springs,United States,28.516667,-99.866667
+7196,CZZ,Campo,United States,32.0,-72.1
+7197,DAA,Davison AAF,United States,38.716667,-77.183333
+7198,DAB,Daytona Beach,United States,29.21055422,-81.0230754
+7199,DAG,Barstow-Daggett,United States,34.85,-116.783333
+7200,DAL,Dallas/Fort Worth,United States,32.852778,-96.85
+7201,DAY,Dayton,United States,39.75,-84.183333
+7202,DBQ,Dubuque,United States,42.50093162,-90.66445073
+7203,DBS,Dubois,United States,44.166667,-112.233333
+7204,DCA,Washington,United States,38.851944,-77.037778
+7205,DCK,Dahl Creek Arpt,United States,66.933333,-156.9
+7206,DCR,Decatur Hi-Way,United States,40.833333,-84.933333
+7207,DDC,Dodge City,United States,37.76005821,-100.018195
+7208,DEC,Decatur,United States,39.8407064,-88.95473596
+7209,DEN,Denver,United States,39.861667,-104.673056
+7210,DET,Detroit City,United States,42.409167,-83.009722
+7211,DFW,Dallas/Fort Worth,United States,32.896944,-97.038056
+7212,DGB,Danger Bay,United States,58.083333,-152.75
+7213,DGL,Douglas Municipal,United States,39.0,-96.0
+7214,DGN,NAF,United States,77.533333,-70.0
+7215,DGW,Converse County,United States,42.75,-105.4
+7216,DHB,Deer Harbor,United States,48.63,-122.9991
+7217,DHN,Dothan,United States,31.22345461,-85.39058659
+7218,DHT,Dalhart,United States,36.06080792,-102.5186109
+7219,DIK,Dickinson,United States,46.88399742,-102.7888011
+7220,DIO,Diomede Island,United States,65.75,-168.95
+7221,DJN,Delta Junction,United States,64.033333,-145.683333
+7222,DKK,Dunkirk,United States,42.483333,-79.333333
+7223,DLF,Laughlin Afb,United States,29.516667,-100.0
+7224,DLG,Dillingham,United States,59.05656031,-158.4803121
+7225,DLH,Duluth/Superior,United States,46.833333,-92.183333
+7226,DLN,Dillon,United States,45.21567548,-112.6839852
+7227,DLO,Dolomi,United States,55.133333,-132.051389
+7228,DLS,Columbia Gorge Regional/The Dalles Municipal Airport,United States,45.618611,-121.167222
+7229,DMN,Deming,United States,32.26109153,-107.7557848
+7230,DMO,Sedalia,United States,38.833333,-93.416667
+7231,DNE,Dallas North Airport,United States,32.0,-96.8
+7232,DNL,Daniel Field,United States,33.466389,-82.039444
+7233,DNV,Vermilion County,United States,40.199722,-87.595556
+7234,DOF,Dora Bay,United States,55.2125,-132.266667
+7235,DOV,Dover AFB,United States,39.129444,-75.466111
+7236,DPA,Dupage County,United States,41.914444,-88.246389
+7237,DPG,Michael AAF,United States,48.583333,-81.016667
+7238,DPK,Deer Park,United States,40.766667,-73.333333
+7239,DRA,Desert Rock,United States,36.6,-116.0
+7240,DRE,Drummond Island,United States,46.016667,-83.75
+7241,DRF,Drift River,United States,60.583333,-152.15
+7242,DRG,Deering,United States,66.083333,-162.766667
+7243,DRI,Beauregard Parish,United States,53.2,-100.0
+7244,DRO,Durango (US),United States,37.15,-107.75
+7245,DRU,Drummond,United States,46.616667,-113.2
+7246,DSI,Destin-Fort Walton Beach Airport,United States,30.388611,-86.538333
+7247,DSM,Des Moines,United States,41.57998008,-93.61998092
+7248,DTA,Delta,United States,39.383333,-112.5
+7249,DTH,Death Valley,United States,36.452222,-116.869167
+7250,DTN,Shreveport Downtown,United States,32.540278,-93.745
+7251,DTR,Decatur Island,United States,42.218611,-83.348333
+7252,DTW,Detroit,United States,42.2125,-83.353333
+7253,DUA,Eaker,United States,35.0,-73.85
+7254,DUC,Halliburton Field,United States,34.466667,-97.966667
+7255,DUF,Pine Island Airport,United States,36.253611,-75.788611
+7256,DUG,Bisbee-Douglas Intl,United States,31.466667,-109.6
+7257,DUJ,Dubois,United States,43.83,-111.81
+7258,DUT,Dutch Harbor,United States,53.9,-166.533333
+7259,DVL,Devils Lake,United States,48.11221702,-98.85968693
+7260,DVN,Davenport,United States,41.55398684,-90.58753036
+7261,DVT,Phoenix Deer Valley Airport,United States,33.688333,-112.0825
+7262,DWF,Wright AFB,United States,46.233333,-83.333333
+7263,DWH,David Wayne Hooks,United States,30.061944,-95.552778
+7264,DWN,Downtown Airpark,United States,35.449167,-97.533056
+7265,DWS,Walt Disney World,United States,28.400278,-82.438333
+7266,DXR,Danbury Municipal Airport,United States,41.371667,-73.482222
+7267,DYL,Doylestown,United States,40.316667,-75.133333
+7268,DYS,Dyess AFB,United States,54.1075,-70.0
+7269,EAA,Eagle,United States,64.78799501,-141.1999966
+7270,EAN,Phifer Field,United States,42.058333,-104.919444
+7271,EAR,Kearney,United States,40.70070559,-99.08114628
+7272,EAT,Wenatchee,United States,47.42362856,-120.3090237
+7273,EAU,Eau Claire,United States,44.81135907,-91.49835331
+7274,ECA,Emmet County Airport,United States,44.266667,-83.483333
+7275,ECG,Elizabeth City,United States,36.260556,-76.174444
+7276,ECP,Panama City (US),United States,29.7,-81.5
+7277,ECS,Mondell,United States,43.883333,-104.316667
+7278,EDA,Edna Bay,United States,55.95,-133.666667
+7279,EDF,Anchorage,United States,61.251389,-149.806389
+7280,EDG,Weide AAF,United States,49.783333,-121.0
+7281,EDK,El Dorado,United States,34.0,-61.6333287
+7282,EDW,Edwards AFB,United States,34.9,-117.883333
+7283,EED,Needles,United States,34.84842714,-114.6133507
+7284,EEK,Eek,United States,60.216667,-162.016667
+7285,EEN,Dillant-Hopkins,United States,42.9,-72.266667
+7286,EFB,Eight Fathom Bight,United States,58.0,-135.733333
+7287,EFD,Ellington Field,United States,29.602778,-95.152778
+7288,EFK,Newport,United States,41.49039899,-71.31335799
+7289,EGE,Vail,United States,39.633333,-106.916667
+7290,EGI,Duke Field,United States,45.660833,-99.0
+7291,EGP,Maverick Co,United States,28.866667,-100.533333
+7292,EGV,Eagle River,United States,45.933333,-89.266667
+7293,EGX,Egegik,United States,58.216667,-157.366667
+7294,EHM,Cape Newenham,United States,58.633333,-162.066667
+7295,EHT,Rentschler,United States,41.766667,-72.65
+7296,EIL,Eielson AFB,United States,64.665556,-147.101389
+7297,EKA,Murray Field,United States,40.803333,-124.112778
+7298,EKN,Elkins,United States,38.883333,-79.85
+7299,EKO,Elko,United States,40.83250633,-115.7619886
+7300,EKX,Elizabethtown,United States,37.7,-85.866667
+7301,ELA,Eagle Lake,United States,29.583333,-96.333333
+7302,ELD,El Dorado,United States,33.2,-92.67
+7303,ELI,Elim,United States,64.616667,-162.266667
+7304,ELM,Elmira/Corning,United States,42.166667,-76.9
+7305,ELN,Bowers Field,United States,47.033333,-120.533333
+7306,ELP,El Paso,United States,31.8,-106.383333
+7307,ELV,Elfin Cove,United States,58.183333,-136.316667
+7308,ELW,Ellamar,United States,60.897222,-146.6125
+7309,ELY,Yelland,United States,39.3,-114.85
+7310,EMB,Embarkadero,United States,37.5,-122.2
+7311,EMK,Emmonak,United States,62.77698081,-164.5229916
+7312,EMM,Kemerer,United States,41.85,-110.55
+7313,EMP,Emporia,United States,38.40423077,-96.18137496
+7314,EMT,El Monte,United States,34.1,-118.033333
+7315,ENA,Kenai,United States,60.55435162,-151.2580131
+7316,END,Vance Afb,United States,36.339167,-97.916389
+7317,ENN,Municipal,United States,64.55,-149.083333
+7318,ENV,Wendover,United States,40.733333,-114.033333
+7319,ENW,Kenosha Regional Airport,United States,42.583333,-87.916667
+7320,EOK,Keokuk,United States,40.466667,-91.433333
+7321,EOS,Neosho,United States,36.866667,-94.366667
+7322,EPG,Browns,United States,40.866667,-96.133333
+7323,EPH,Ephrata,United States,47.3,-119.516667
+7324,ERI,Erie,United States,42.12992067,-80.08499313
+7325,ERO,Coast Guard,United States,61.0,-70.0
+7326,ERR,Errol,United States,44.7925,-71.164722
+7327,ERV,Kerrville,United States,29.983333,-99.083333
+7328,ESC,Escanaba,United States,45.7456948,-87.06436039
+7329,ESD,Eastsound,United States,48.716667,-122.816667
+7330,ESF,Esler Field,United States,31.4,-92.3
+7331,ESN,Easton,United States,38.808333,-76.075
+7332,ESO,Espanola,United States,36.1,-106.033333
+7333,ESP,Birchwood-Pocono,United States,41.0,-75.183333
+7334,ESW,State,United States,47.233333,-121.183333
+7335,ETB,West Bend,United States,43.42570721,-88.18333602
+7336,EUF,Weedon Field,United States,31.95,-85.133333
+7337,EUG,Eugene,United States,44.05001019,-123.1000161
+7338,EVA,Landing Strip,United States,30.35,-94.066667
+7339,EVM,Eveleth,United States,47.433333,-92.5
+7340,EVV,Evansville,United States,37.97469627,-87.5558291
+7341,EVW,Evanston,United States,42.04834943,-87.69995467
+7342,EWB,New Bedford,United States,41.6561253,-70.94469833
+7343,EWD,Wildman Lake,United States,37.0,-120.0
+7344,EWK,City-County,United States,38.05,-97.35
+7345,EWN,New Bern,United States,35.066667,-77.05
+7346,EWR,New York,United States,40.6925,-74.168611
+7347,EXI,Excursion Inlet,United States,58.416667,-135.433333
+7348,EYR,Yerington,United States,38.983333,-119.166667
+7349,EYW,Key West,United States,24.55,-81.766667
+7350,FAF,Felker AAF,United States,38.7,-72.5
+7351,FAI,Fairbanks,United States,64.816667,-147.866667
+7352,FAK,False Island,United States,57.530556,-135.216667
+7353,FAL,Falcon State,United States,26.586111,-99.1375
+7354,FAR,Fargo,United States,46.8772278,-96.7894257
+7355,FAT,Fresno,United States,36.766667,-119.716667
+7356,FAY,Fayetteville (US) NC,United States,35.0,-78.883333
+7357,FBG,Simmons AAF,United States,38.7,-72.5
+7358,FBK,Ft Wainwright,United States,64.0,-147.0
+7359,FBR,Fort Bridger,United States,41.316667,-110.383333
+7360,FBS,Friday Harbor SPB,United States,48.6,-123.0
+7361,FCA,Kalispell,United States,48.19776735,-114.3159786
+7362,FCH,Fresno-Chandler,United States,36.0,-119.0
+7363,FCM,Flying Cloud,United States,44.827222,-93.456944
+7364,FCS,Butts AAF,United States,38.7,-104.0
+7365,FCT,Firing Center AAF,United States,56.8,-70.0
+7366,FDK,Frederick Municipal,United States,39.4175,-77.374444
+7367,FDY,Findlay,United States,41.016667,-83.666667
+7368,FEP,Albertus,United States,42.266667,-89.583333
+7369,FEW,Warren AFB,United States,32.9875,-70.0
+7370,FFA,First Flight,United States,36.016667,-75.666667
+7371,FFM,Fergus Falls,United States,46.283333,-96.166667
+7372,FFO,Patterson Afb,United States,39.826111,-84.048333
+7373,FIC,Fire Cove,United States,55.777778,-131.5375
+7374,FID,Elizabeth Field,United States,41.266667,-72.033333
+7375,FIV,Five Finger,United States,57.27,-133.631389
+7376,FKL,Chess-Lambertin,United States,41.383333,-79.866667
+7377,FLE,Fort Lee AAF,United States,52.3,-107.0
+7378,FLG,Grand Canyon,United States,35.133333,-111.683333
+7379,FLJ,Falls Bay,United States,60.0325,-148.008333
+7380,FLL,Fort Lauderdale,United States,26.0725,-80.152778
+7381,FLO,Florence (US),United States,43.78000083,-70.0
+7382,FLP,Flippin,United States,36.3,-92.583333
+7383,FLT,Flat,United States,62.45,-158.0
+7384,FLU,Flushing,United States,40.0,-73.8
+7385,FLV,Sherman AAF,United States,38.7,-72.5
+7386,FMC,Five Mile,United States,65.916667,-149.833333
+7387,FME,Tipton AAF,United States,38.7,-72.5
+7388,FMH,Otis AFB,United States,41.566667,-70.633333
+7389,FMN,Farmington,United States,36.75415061,-108.1860944
+7390,FMY,Page Field,United States,26.583333,-81.866667
+7391,FNK,Fin Creek,United States,69.5,-147.583333
+7392,FNT,Flint,United States,43.0128642,-83.68753809
+7393,FOB,Fort Bragg,United States,39.474444,-123.795556
+7394,FOD,Fort Dodge Regional,United States,42.551111,-94.191944
+7395,FOE,Topeka,United States,38.950833,-95.663611
+7396,FOK,Suffolk County,United States,40.833333,-72.616667
+7397,FOX,Fox,United States,64.85,-147.766667
+7398,FPR,St Lucie County,United States,27.483333,-80.366667
+7399,FPY,Perry-Foley,United States,30.116667,-83.583333
+7400,FRD,Friday Harbor,United States,48.521944,-123.024444
+7401,FRG,Republic Field,United States,40.733333,-73.416667
+7402,FRI,Marshall AAF,United States,39.055278,-96.764444
+7403,FRM,Fairmont,United States,43.65,-94.416667
+7404,FRN,Bryant AAF,United States,38.7,-72.5
+7405,FRP,Fresh Water Bay,United States,57.845833,-135.025
+7406,FRR,Front Royal-Warren County,United States,38.9175,-78.253611
+7407,FRY,Fryeburg,United States,44.016667,-70.983333
+7408,FSD,Sioux Falls,United States,43.54998903,-96.7299978
+7409,FSI,Henry Post AAF,United States,38.7,-72.5
+7410,FSM,Fort Smith (US),United States,35.333333,-94.366667
+7411,FSN,Haley AAF,United States,38.7,-72.5
+7412,FST,Pecos County,United States,30.916667,-102.916667
+7413,FSU,Fort Sumner,United States,34.466667,-104.25
+7414,FTK,Godman AAF,United States,38.7,-72.5
+7415,FTL,Fortuna Ledge,United States,61.866667,-162.033333
+7416,FTW,Meacham Field,United States,32.855556,-96.85
+7417,FWA,Fort Wayne,United States,41.116667,-85.116667
+7418,FWH,Fort Worth NAS Jrb/Carswell Field,United States,32.769167,-97.441667
+7419,FWL,Farewell,United States,62.516667,-153.9
+7420,FXM,Flaxman Island,United States,70.216667,-146.0
+7421,FYU,Fort Yukon,United States,66.56468243,-145.2737789
+7422,GAB,Gabbs,United States,38.866667,-117.916667
+7423,GAG,Gage,United States,36.316667,-99.75
+7424,GAI,Montgomery County,United States,39.168333,-77.166111
+7425,GAK,Gakona,United States,62.3,-145.3
+7426,GAL,Galena,United States,64.73329551,-156.9269953
+7427,GAM,Gambell,United States,63.77971031,-171.7310787
+7428,GBD,Great Bend,United States,38.35,-98.866667
+7429,GBG,Galesburg,United States,40.94777061,-90.37108362
+7430,GBH,Galbraith Lake,United States,68.466667,-149.483333
+7431,GBO,Baltimore Greenbelt T,United States,39.186111,-76.683333
+7432,GBR,Walter J. Koladza Airport,United States,42.184167,-73.403333
+7433,GCC,Gillette,United States,44.28317425,-105.5052503
+7434,GCK,Garden City,United States,37.97521303,-100.8640866
+7435,GCN,National Park,United States,35.95,-112.15
+7436,GCW,Grand Canyon West,United States,35.99,-113.82
+7437,GDH,Golden Horn Lodge SPB,United States,59.746944,-158.874722
+7438,GDV,Glendive,United States,47.10858319,-104.7104926
+7439,GDW,Gladwin,United States,43.983333,-84.483333
+7440,GED,Sussex County,United States,38.683333,-75.366667
+7441,GEG,Spokane,United States,47.619722,-117.533889
+7442,GEK,Ganes Creek,United States,62.983333,-156.5
+7443,GEY,South Big Horn County,United States,44.516667,-108.083333
+7444,GFA,Malmstrom AFB,United States,27.083333,-77.0
+7445,GFB,Togiak Fish,United States,50.0,-160.0
+7446,GFD,Pope Field,United States,34.0,-57.95
+7447,GFK,Grand Forks,United States,47.92,-97.0
+7448,GFL,Warren County,United States,43.35,-73.616667
+7449,GGE,Georgetown,United States,30.6,-97.67
+7450,GGG,Longview,United States,32.5,-94.7
+7451,GGW,Glasgow (US),United States,55.87440472,-70.0
+7452,GIF,Gilbert Field,United States,28.066667,-81.75
+7453,GJT,Grand Junction,United States,39.09385276,-108.5499998
+7454,GKN,Gulkana,United States,62.27135276,-145.3821961
+7455,GKT,Gatlinburg,United States,31.353611,-84.375
+7456,GLD,Renner Field,United States,39.366667,-101.7
+7457,GLH,Greenville,United States,34.9,-82.4
+7458,GLQ,Glennallen,United States,62.116667,-145.55
+7459,GLR,Otsego County,United States,45.016667,-84.7
+7460,GLS,Scholes Field,United States,29.266667,-94.866667
+7461,GLV,Golovin,United States,64.55,-163.016667
+7462,GMT,Granite Mountain,United States,65.4,-161.283333
+7463,GMU,Greenville Downtown,United States,34.848056,-82.35
+7464,GNG,Gooding,United States,42.916667,-114.783333
+7465,GNT,Milan,United States,45.4699752,-107.0
+7466,GNU,Goodnews Bay,United States,59.12099265,-161.5871302
+7467,GNV,Gainesville,United States,29.65138002,-82.32503727
+7468,GOF,Goodfellow AFB,United States,43.816667,-121.0
+7469,GOK,Guthrie,United States,35.883333,-97.416667
+7470,GON,New London,United States,41.3555235,-72.10002832
+7471,GPT,Gulfport/Biloxi,United States,30.4,-89.066667
+7472,GPZ,Grand Rapids,United States,42.96371991,-85.66994938
+7473,GQQ,Galion,United States,40.733333,-82.8
+7474,GRB,Green Bay,United States,44.5299809,-88.00001388
+7475,GRF,Gray Aaf,United States,35.339167,-77.960556
+7476,GRI,Grand Island,United States,40.92226829,-98.35798629
+7477,GRK,Killeen,United States,31.067222,-97.828889
+7478,GRM,Devils Track,United States,47.75,-91.333333
+7479,GRN,Gordon,United States,42.8,-102.2
+7480,GRR,Grand Rapids,United States,42.96,-85.67
+7481,GSH,Goshen,United States,41.583333,-85.833333
+7482,GSO,Greensboro/High Point,United States,36.097778,-79.937222
+7483,GSP,Greenville (US) SC,United States,34.895556,-82.218889
+7484,GST,Gustavus,United States,58.416667,-135.7
+7485,GTF,Great Falls,United States,47.5,-111.366667
+7486,GTP,Grants Pass,United States,42.44,-123.33
+7487,GTR,Columbus (US) MS,United States,33.466667,-88.383333
+7488,GTY,Gettysburg,United States,39.833333,-77.233333
+7489,GUC,Gunnison,United States,38.54476483,-106.92829
+7490,GUF,Edwards,United States,30.289722,-87.671667
+7491,GUN,Gunter AFB,United States,51.066667,-70.0
+7492,GUP,Senator Clark,United States,35.516667,-108.783333
+7493,GUS,Grissom Afb,United States,40.648056,-86.152222
+7494,GUY,Guymon,United States,36.68580853,-101.4795012
+7495,GVL,Lee Gilmer Memorial,United States,34.266667,-83.833333
+7496,GVT,Majors Field,United States,33.133333,-96.116667
+7497,GVW,Richards-Gebaur,United States,38.883333,-94.533333
+7498,GWO,Leflore,United States,33.5,-90.2
+7499,GWS,Glenwood Springs,United States,39.54658999,-107.3247
+7500,GWV,Glendale,United States,33.58194114,-112.1958238
+7501,GXY,Weld County,United States,40.333333,-104.616667
+7502,GYR,Litchfield,United States,33.433333,-112.35
+7503,GYY,Gary/Chicago International,United States,41.616389,-87.412778
+7504,HAE,Havasupai,United States,36.230556,-112.669444
+7505,HAF,Half Moon,United States,37.483333,-122.466667
+7506,HAI,Dr Haines,United States,41.0,-85.0
+7507,HAO,Hamilton,United States,32.2,-64.5
+7508,HAR,Capital City,United States,40.215833,-76.851944
+7509,HAX,Hatbox Field,United States,35.745833,-95.412778
+7510,HAY,Haycock,United States,65.2,-161.15
+7511,HBB,Industrial Airpark,United States,21.6,-67.6
+7512,HBG,The Hattiesburg-Bobby L. Chain Mun.,United States,31.0,-89.0
+7513,HBH,Hobart Bay,United States,57.408333,-133.466667
+7514,HBR,Hobart,United States,41.5,-87.3
+7515,HCA,Howard County,United States,32.3,-101.433333
+7516,HCB,Shoal Cove,United States,55.458333,-131.283333
+7517,HCR,Holy Cross,United States,62.15,-159.783333
+7518,HCW,Cheraw,United States,34.7,-79.883333
+7519,HDA,Hidden Falls,United States,57.066667,-134.983333
+7520,HDE,Brewster Field,United States,40.433333,-99.366667
+7521,HDH,Dillingham Airfield,United States,21.6,-158.0
+7522,HDN,Hayden,United States,40.519444,-106.869444
+7523,HED,Herendeen,United States,55.8,-160.9
+7524,HEE,Thompson-Robbins,United States,34.583333,-90.666667
+7525,HEY,Hanchey Army Heliport,United States,53.116667,-70.0
+7526,HEZ,Hardy-Anders,United States,31.616667,-91.3
+7527,HFD,Brainard,United States,41.766667,-72.683333
+7528,HFF,Mackall AAF,United States,35.0,-79.5
+7529,HGR,Hagerstown,United States,39.64164878,-77.72027958
+7530,HGZ,Hogatza,United States,66.183333,-155.666667
+7531,HHH,Hilton Head Island,United States,32.224444,-80.6975
+7532,HHI,Wheeler AFB,United States,39.0,-96.0
+7533,HIB,Hibbing/Chisholm,United States,47.383333,-92.833333
+7534,HIF,Hill Afb,United States,41.123889,-111.973056
+7535,HIK,Hickam AFB,United States,21.316111,-157.926667
+7536,HIO,Portland,United States,45.5,-122.7
+7537,HKB,Healy Lake,United States,63.866667,-148.966667
+7538,HKS,Hawkins Field,United States,32.333611,-90.222222
+7539,HKY,Hickory,United States,35.7334894,-81.34140222
+7540,HLB,Hillenbrand,United States,39.3,-85.216667
+7541,HLC,Hill City,United States,39.366667,-99.85
+7542,HLG,Ohio County,United States,39.0,-96.0
+7543,HLI,Hollister,United States,36.85,-121.4
+7544,HLM,Park Township,United States,42.783333,-86.116667
+7545,HLN,Helena,United States,46.59274904,-112.035291
+7546,HLR,Fort Hood AAF,United States,31.138611,-97.714444
+7547,HMN,Holloman AFB,United States,37.633333,-70.0
+7548,HMS,Homeshore,United States,58.294444,-135.347222
+7549,HMT,Ryan Field,United States,33.75,-116.966667
+7550,HNC,Hatteras,United States,35.216667,-75.686111
+7551,HNE,Tahneta Pass,United States,35.742778,-113.0
+7552,HNH,Hoonah,United States,58.11540489,-135.438617
+7553,HNL,Honolulu,United States,21.30687644,-157.8579979
+7554,HNM,Hana,United States,20.8,-156.016667
+7555,HNS,Haines,United States,59.25,-135.516667
+7556,HOB,Hobbs,United States,32.683333,-103.216667
+7557,HOL,Holikachu,United States,62.9,-159.516667
+7558,HOM,Homer,United States,59.64293439,-151.5482797
+7559,HON,Huron,United States,44.383333,-98.233333
+7560,HOP,Hopkinsville,United States,36.86548749,-87.4886239
+7561,HOT,Hot Springs,United States,34.5,-93.1
+7562,HOU,Houston,United States,29.645556,-95.278889
+7563,HPB,Hooper Bay,United States,61.53108787,-166.0965648
+7564,HPN,Westchester County,United States,41.066667,-73.7
+7565,HPV,Princeville,United States,22.2125,-159.446667
+7566,HPY,Baytown,United States,29.75584393,-94.96772811
+7567,HQM,Bowerman,United States,46.966667,-123.933333
+7568,HRL,Harlingen,United States,26.19755983,-97.69019759
+7569,HRO,Harrison,United States,36.228333,-93.109722
+7570,HSB,Raleigh,United States,35.81878135,-78.64469344
+7571,HSH,Henderson Sky Harbor,United States,35.968333,-115.119167
+7572,HSI,Hastings,United States,40.6,-98.4
+7573,HSL,Huslia,United States,65.7,-156.416667
+7574,HSP,Ingalls Field,United States,37.95,-79.816667
+7575,HST,AFB,United States,25.483333,-80.483333
+7576,HSV,Huntsville,United States,34.637222,-86.775
+7577,HTH,Hawthorne,United States,38.535278,-118.633611
+7578,HTL,Roscommon County,United States,52.333333,-70.0
+7579,HTO,East Hampton,United States,40.966667,-72.233333
+7580,HTS,Huntington,United States,38.41957867,-82.44528833
+7581,HTW,Lawrence County Airpark,United States,42.2525,-82.494444
+7582,HUD,Humboldt,United States,42.733333,-94.216667
+7583,HUF,Hulman Field,United States,39.0,-61.35
+7584,HUJ,Hugo,United States,34.016667,-95.516667
+7585,HUL,International,United States,46.133333,-67.8
+7586,HUM,Terrebonne,United States,29.583333,-90.666667
+7587,HUS,Hughes,United States,66.04918418,-154.2549878
+7588,HUT,Hutchinson,United States,38.06549176,-97.92349085
+7589,HVN,New Haven,United States,41.33038291,-72.90000533
+7590,HVR,Havre,United States,48.54523968,-109.6776829
+7591,HWD,Air Terminal,United States,37.666667,-122.083333
+7592,HWO,North Perry,United States,26.001389,-80.240556
+7593,HYA,Hyannis,United States,41.669444,-70.280278
+7594,HYG,Hydaburg,United States,55.21397992,-132.8006385
+7595,HYS,Hays,United States,38.87936973,-99.322191
+7596,HZL,Hazleton,United States,40.983333,-76.0
+7597,IAD,Washington,United States,38.944444,-77.455833
+7598,IAG,Niagara Falls,United States,43.09482302,-79.0369434
+7599,IAH,Houston,United States,29.984444,-95.341389
+7600,IAN,Kiana,United States,66.983333,-160.416667
+7601,ICT,Wichita,United States,37.65,-97.433333
+7602,ICY,Icy Bay,United States,59.983333,-141.65
+7603,IDA,Idaho Falls,United States,43.46668662,-112.0333014
+7604,IDI,ndiana County Airport,United States,40.632222,-79.105556
+7605,IDP,Independence,United States,39.09111391,-94.41528121
+7606,IFA,Iowa Falls,United States,42.516667,-93.266667
+7607,IFP,Laughlin Bullhead Intl,United States,30.733333,-70.0
+7608,IGG,Igiugig,United States,59.316667,-155.9
+7609,IGM,Kingman,United States,35.18987917,-114.0522221
+7610,IKB,Wilkes County,United States,36.166667,-81.15
+7611,IKK,Greater Kankakee,United States,41.066667,-87.85
+7612,IKO,Nikolski,United States,52.93843406,-168.8676876
+7613,ILG,Wilmington (US) DE,United States,39.683333,-75.6
+7614,ILI,Iliamna,United States,59.733333,-154.966667
+7615,ILL,Willmar,United States,45.12188275,-95.04330489
+7616,ILM,Wilmington (US) NC,United States,34.270556,-77.9025
+7617,ILN,Clinton Field,United States,39.416667,-83.8
+7618,IML,Imperial,United States,40.516667,-101.616667
+7619,IMM,Immokalee,United States,26.416667,-81.416667
+7620,IMT,Iron Mountain,United States,45.82246014,-88.06409265
+7621,IND,Indianapolis,United States,39.74998842,-86.17004806
+7622,INK,Wink,United States,31.783333,-103.2
+7623,INL,International Falls,United States,48.60112775,-93.4108464
+7624,INR,Kincheloe AFB,United States,45.85,-82.0
+7625,INS,Af Aux,United States,46.283333,-70.0
+7626,INT,Smith-Reynolds,United States,36.133333,-80.219444
+7627,INW,Winslow-Lindbergh,United States,35.021944,-110.7225
+7628,IOW,Iowa City,United States,41.66108624,-91.52997929
+7629,IPL,Imperial,United States,32.833333,-115.566667
+7630,IPT,Williamsport,United States,41.24108604,-77.0013829
+7631,IRC,Circle,United States,65.82589032,-144.0605197
+7632,IRK,Kirksville,United States,40.19368227,-92.58280908
+7633,IRS,Kirsch Municipal,United States,41.8,-85.416667
+7634,ISL,Isabel Pass,United States,63.5,-145.033333
+7635,ISM,Kissimmee Gateway,United States,28.283333,-81.433333
+7636,ISN,Williston,United States,48.15678794,-103.6280005
+7637,ISO,Stallings Field,United States,35.333333,-77.616667
+7638,ISP,Long Island Macarthur,United States,40.795278,-73.100278
+7639,ISS,Wiscasset,United States,43.969444,-69.716667
+7640,ISW,Alexander Field,United States,44.766667,-89.677778
+7641,ISZ,Cincinnati-Blue Ash Airport,United States,39.246667,-84.388889
+7642,ITH,Ithaca,United States,42.44057355,-76.4969434
+7643,ITO,Hilo,United States,19.69999778,-155.0900273
+7644,IVH,Ivishak,United States,69.4,-148.25
+7645,IWD,Ironwood,United States,46.4558065,-90.15939112
+7646,IYK,Kern County,United States,35.65,-117.833333
+7647,JAC,Jackson (US) WY,United States,43.6,-110.733333
+7648,JAE,Technology Park,United States,38.0,-82.983333
+7649,JAJ,Perimeter Mall,United States,38.0,-82.983333
+7650,JAN,Jackson (US) MS,United States,32.311111,-90.075833
+7651,JAO,Beaver Ruin,United States,38.0,-82.983333
+7652,JAR,Jahrom,United States,34.133333,-118.016667
+7653,JAX,Jacksonville (US) FL,United States,30.416667,-81.633333
+7654,JBC,Boston City Heliport,United States,42.343889,-71.049444
+7655,JBK,Berkeley,United States,37.87390139,-122.271152
+7656,JBP,Commerce Bus. Plaza,United States,33.986667,-118.159722
+7657,JBR,Jonesboro,United States,35.84257835,-90.70416406
+7658,JBS,Hacienda Bus.Park H/P,United States,37.699722,-121.9
+7659,JBT,City Landing,United States,60.8,-161.766667
+7660,JCC,China Basin Heliport,United States,37.5,-122.4
+7661,JCE,Convention Center H/P,United States,30.6,-97.67
+7662,JCI,New Century Aircenter Airport,United States,38.830833,-94.890278
+7663,JCT,Kimble County,United States,30.483333,-99.766667
+7664,JCY,Johnson,United States,32.333333,-97.333333
+7665,JDA,John Day,United States,44.41652529,-118.9520264
+7666,JDB,Downtown Heliport,United States,32.766667,-97.316667
+7667,JDN,Jordan,United States,47.316667,-106.916667
+7668,JFK,New York,United States,40.633333,-73.783333
+7669,JFN,Ashtabula,United States,41.733333,-80.766667
+7670,JGL,Galleria Heliport,United States,33.885,-84.462778
+7671,JHC,Island Heliport,United States,40.744444,-73.608333
+7672,JHM,Kapalua,United States,20.963056,-156.673056
+7673,JHW,Jamestown (US) NY,United States,42.15,-79.25
+7674,JHY,Hyatt Regency H/P,United States,42.366667,-71.102778
+7675,JID,City Of Industry H/P,United States,34.027222,-117.958333
+7676,JIO,Intl Heliport,United States,37.0,-120.0
+7677,JKV,Cherokee County,United States,31.869444,-95.2175
+7678,JLA,Quartz Creek,United States,60.483333,-149.85
+7679,JLH,US Army Heliport,United States,42.0,-112.0
+7680,JLN,Joplin,United States,37.08459556,-94.51307886
+7681,JMC,Marin County,United States,37.879167,-122.513611
+7682,JMD,Market Centre H/P,United States,37.0,-97.0
+7683,JMH,Marriott Heliport,United States,42.033333,-88.083333
+7684,JMS,Jamestown (US) ND,United States,46.933333,-98.683333
+7685,JNH,North Park Inn H/P,United States,37.0,-97.0
+7686,JNU,Juneau,United States,58.31412661,-134.419997
+7687,JOC,Centerport Heliport,United States,33.0,-117.0
+7688,JOR,The City Heliport,United States,33.791667,-117.875
+7689,JPN,Pentagon Army,United States,49.0,-72.5
+7690,JRA,West 30th St Heliport,United States,40.754444,-74.0075
+7691,JRB,Downtown Manhattan H/p,United States,40.701111,-74.009167
+7692,JRC,Municipal Heliport,United States,49.916667,-70.0
+7693,JRE,East 60th Street H/P,United States,40.8,-73.966667
+7694,JRF,Kapolei,United States,21.33,-158.0
+7695,JSD,Sikorsky Heliport,United States,41.249167,-73.096667
+7696,JSG,San Rafael H/P,United States,38.0,-122.5
+7697,JSL,Steel Pier Hlpt,United States,39.360556,-74.420833
+7698,JST,Johnstown,United States,40.32708498,-78.92222172
+7699,JUP,Cable Heliport,United States,42.3,-120.0
+7700,JVI,Central Jersey Regional Airport,United States,40.524444,-74.598333
+7701,JVL,Rock County,United States,42.616667,-89.033333
+7702,JXN,Reynolds Municipal,United States,42.266667,-84.466667
+7703,KAE,Kake,United States,56.966667,-133.95
+7704,KAL,Kaltag,United States,64.32719627,-158.7218986
+7705,KBC,Birch Creek,United States,66.266667,-145.8
+7706,KBE,Hot Springs SPB,United States,55.916667,-131.566667
+7707,KBK,Klag Bay,United States,57.0,-136.0
+7708,KBW,Chignik Bay,United States,56.296389,-158.399444
+7709,KCC,Coffman Cove,United States,56.0,-132.833333
+7710,KCG,Chignik,United States,56.3,-158.4
+7711,KCL,Chignik,United States,56.3,-158.533333
+7712,KCQ,Chignik,United States,56.261111,-158.777778
+7713,KCR,Colorado Creek,United States,39.6,-120.0
+7714,KEB,Nanwalek,United States,59.366667,-151.916667
+7715,KEH,Kenmore,United States,47.738333,-122.268056
+7716,KEK,Ekwok,United States,59.366667,-157.483333
+7717,KEU,Kelly Bar,United States,50.6,-91.0
+7718,KFP,False Pass,United States,54.85121136,-163.415023
+7719,KGK,Koliganek,United States,59.783333,-157.333333
+7720,KGX,Grayling,United States,62.666667,-160.008333
+7721,KGZ,Glacier Creek,United States,61.45,-142.4
+7722,KIC,Mesa Del Rey,United States,36.233333,-121.116667
+7723,KIP,Kickapoo,United States,33.9,-98.5
+7724,KKA,Koyuk,United States,64.94026874,-161.1574717
+7725,KKB,Kitoi Bay,United States,58.183333,-152.35
+7726,KKH,Kongiganak,United States,59.966667,-162.75
+7727,KKI,Akiachak,United States,60.916667,-161.433333
+7728,KKK,Kalakaket AFS,United States,64.416667,-156.833333
+7729,KKL,Karluk Lake SPB,United States,40.05,-99.0
+7730,KKT,Kentland,United States,40.766667,-87.45
+7731,KKU,Ekuk,United States,58.816667,-158.55
+7732,KLG,Kalskag,United States,61.533333,-160.366667
+7733,KLL,Levelock,United States,59.116667,-156.883333
+7734,KLN,Larsen Bay,United States,57.533333,-154.0
+7735,KLP,Kelp Bay,United States,57.558333,-134.866667
+7736,KLS,Longview,United States,32.50053428,-94.74027429
+7737,KLW,Klawock,United States,55.55,-133.1
+7738,KMO,Manokotak,United States,58.966667,-159.05
+7739,KMY,Moser Bay,United States,57.0,-154.166667
+7740,KNB,Kanab,United States,37.04738853,-112.5254936
+7741,KNK,Kokhanok,United States,59.433333,-154.85
+7742,KNW,New Stuyahok,United States,59.533333,-157.333333
+7743,KOA,Kona,United States,19.738889,-156.045556
+7744,KOT,Kotlik,United States,63.033333,-163.533333
+7745,KOY,Olga Bay,United States,57.15,-154.233333
+7746,KOZ,Ouzinkie,United States,57.916667,-152.483333
+7747,KPB,Point Baker,United States,56.366667,-133.616667
+7748,KPC,Port Clarence,United States,65.25,-166.85
+7749,KPD,King Of Prussia,United States,40.083333,-75.383333
+7750,KPH,Pauloff Harbor SPB,United States,54.466667,-162.7
+7751,KPK,Parks SPB,United States,57.416667,-155.9
+7752,KPN,Kipnuk,United States,59.933333,-164.033333
+7753,KPR,Port Williams,United States,58.483333,-152.583333
+7754,KPT,Jackpot,United States,41.966667,-114.666667
+7755,KPV,Perryville,United States,55.91861391,-159.1511489
+7756,KPY,Port Bailey,United States,57.93,-153.040556
+7757,KQA,Akutan,United States,54.116667,-165.75
+7758,KSM,St Mary's,United States,62.05,-163.183333
+7759,KSR,Federal No 1,United States,51.0,-96.383333
+7760,KTB,Thorne Bay,United States,55.7,-132.5
+7761,KTN,Ketchikan,United States,55.333333,-131.65
+7762,KTS,Brevig Mission,United States,65.333333,-166.483333
+7763,KUK,Kasigluk,United States,60.866667,-162.533333
+7764,KUY,Kamusi Airport,United States,57.634444,-153.998333
+7765,KVC,King Cove,United States,55.066667,-162.316667
+7766,KVL,Kivalina,United States,67.73149224,-164.4859034
+7767,KWF,Waterfall,United States,55.3,-133.25
+7768,KWK,Kwigillingok,United States,59.816667,-163.15
+7769,KWN,Quinhagak,United States,59.74923281,-161.9157864
+7770,KWP,West Point,United States,57.766667,-153.55
+7771,KWT,Kwethluk,United States,60.8,-161.45
+7772,KXA,Kasaan,United States,55.5,-132.5
+7773,KYK,Karluk,United States,57.57228558,-154.4550273
+7774,KYL,Port Largo,United States,25.083333,-80.4
+7775,KYO,Topp Of Tampa,United States,54.433333,-70.0
+7776,KYU,Koyukuk,United States,64.88028912,-157.7008499
+7777,KZB,Zachar Bay,United States,57.55,-153.75
+7778,KZH,Kizhuyak,United States,57.583333,-153.15
+7779,LAA,Lamar Field,United States,38.066667,-102.683333
+7780,LAF,Lafayette (US) IN,United States,40.41720868,-86.87824772
+7781,LAM,Los Alamos,United States,35.89110252,-106.2977084
+7782,LAN,Lansing,United States,42.73352724,-84.54673629
+7783,LAR,Laramie,United States,41.31136599,-105.5905681
+7784,LAS,Las Vegas,United States,36.083333,-115.166667
+7785,LAW,Lawton,United States,34.59903668,-98.40997278
+7786,LAX,Los Angeles,United States,33.9425,-118.407222
+7787,LBB,Lubbock,United States,33.666667,-101.833333
+7788,LBE,Latrobe,United States,40.283333,-79.4
+7789,LBF,North Platte,United States,41.13628623,-100.7705005
+7790,LBL,Liberal,United States,37.05,-100.966667
+7791,LBT,Lumberton,United States,34.62720034,-79.01190617
+7792,LCH,Lake Charles,United States,30.22638369,-93.21718897
+7793,LCK,Columbus (US) OH,United States,40.002778,-82.883333
+7794,LDJ,Linden,United States,33.0,-94.0
+7795,LDM,Mason County,United States,50.8,-70.0
+7796,LEB,Lebanon,United States,43.633333,-72.316667
+7797,LEE,Leesburg,United States,28.81050112,-81.88333297
+7798,LEM,Lemmon,United States,45.916667,-102.1
+7799,LEW,Auburn,United States,32.60970074,-85.48083948
+7800,LEX,Lexington,United States,38.036389,-84.605833
+7801,LFI,Hampton,United States,37.03002525,-76.34994979
+7802,LFK,Lufkin Angelina County,United States,31.25,-94.752778
+7803,LFN,Franklin,United States,36.1,-78.3
+7804,LFT,Lafayette (US) LA,United States,30.205278,-91.9875
+7805,LGA,New York,United States,40.766667,-73.866667
+7806,LGB,Long Beach,United States,33.816667,-118.15
+7807,LGC,Calloway,United States,33.016667,-85.083333
+7808,LGF,Laguna AAF,United States,32.8,-114.0
+7809,LGU,Cache,United States,41.783333,-111.85
+7810,LHB,Lost Harbor Sea Port,United States,54.233333,-165.6
+7811,LHM,Lincoln Regional Airport,United States,38.909167,-121.351389
+7812,LHV,W T Piper Memorial,United States,41.133333,-77.45
+7813,LIH,Lihue,United States,21.98151227,-159.3710063
+7814,LIJ,Long Island,United States,54.9,-132.75
+7815,LIT,Little Rock,United States,34.73608258,-92.33109318
+7816,LIV,Livengood,United States,65.4725,-148.669167
+7817,LIZ,Loring AFB,United States,46.950556,-67.885833
+7818,LJN,Brazoria County,United States,29.033333,-95.45
+7819,LKE,Seattle,United States,47.628889,-122.338611
+7820,LKI,Lakeside United StatesF,United States,21.6,-67.6
+7821,LKK,Kulik Lake,United States,58.966667,-155.083333
+7822,LKP,Lake Placid,United States,44.264444,-73.961944
+7823,LKS,Lakeside,United States,29.847778,-95.688611
+7824,LKV,Lake County,United States,42.166667,-120.4
+7825,LLX,Lyndonville,United States,44.5,-72.016667
+7826,LLY,Burlington County,United States,39.983333,-74.783333
+7827,LMA,Lake Minchumina,United States,63.88283063,-152.3121865
+7828,LMS,Winston County,United States,33.15,-89.066667
+7829,LMT,Kingsley Field,United States,42.166667,-121.733333
+7830,LNA,Palm Beach County Park,United States,26.593056,-80.085
+7831,LND,Hunt Field,United States,42.8,-108.675
+7832,LNI,Dew Station,United States,70.916667,-153.25
+7833,LNK,Lincoln,United States,40.9,-96.7
+7834,LNN,Lost Nation,United States,41.633333,-81.416667
+7835,LNP,Wise,United States,36.983333,-82.566667
+7836,LNR,Tri County,United States,43.183333,-90.2
+7837,LNS,Lancaster,United States,40.03777447,-76.30576644
+7838,LNY,Lanai City,United States,20.783333,-156.95
+7839,LOL,Derby Field,United States,40.058333,-118.566667
+7840,LOR,Lowe Army Heliport,United States,53.116667,-99.0
+7841,LOT,Lewis Lockport,United States,41.6,-88.05
+7842,LOU,Bowman Field Airport,United States,38.227778,-85.663611
+7843,LOZ,Corbin-London,United States,37.083333,-84.066667
+7844,LPC,Lompoc Airport,United States,34.666667,-120.469444
+7845,LPS,Lopez Island,United States,48.483333,-122.936111
+7846,LPW,Little Port Walter,United States,56.383333,-134.833333
+7847,LQK,Pickens,United States,34.816667,-82.7
+7848,LRD,Laredo,United States,27.50613629,-99.50721847
+7849,LRF,Little Rock Afb,United States,34.918056,-92.146389
+7850,LRO,Sharpe AAF,United States,36.702778,-70.0
+7851,LSB,Lordsburg,United States,32.416667,-108.666667
+7852,LSD,Blue Grass Station Army Heliport,United States,38.083333,-84.316667
+7853,LSE,La Crosse,United States,43.80136904,-91.23942855
+7854,LSF,Lawson Aaf,United States,32.337222,-84.991389
+7855,LSN,Los Banos,United States,37.066667,-120.85
+7856,LSR,Lost River,United States,65.4,-167.15
+7857,LSV,Nellis AFB,United States,36.236111,-115.034167
+7858,LTH,Lathrop Wells,United States,36.666667,-116.65
+7859,LTS,Altus AFB,United States,34.65,-99.35
+7860,LTW,St Marys County,United States,38.283333,-77.633333
+7861,LUF,Luke Afb,United States,34.0,-57.65
+7862,LUK,Cincinnati,United States,39.103333,-84.418611
+7863,LUL,Hesler-Noble Field,United States,31.673056,-89.172778
+7864,LUP,Kalaupapa,United States,21.183333,-156.966667
+7865,LUR,Cape Lisburne,United States,68.866667,-166.1
+7866,LVD,Lime Village,United States,61.35,-155.466667
+7867,LVK,Livermore,United States,37.683333,-121.766667
+7868,LVL,Lawrenceville,United States,36.75,-77.85
+7869,LVM,Mission Field,United States,45.666667,-110.566667
+7870,LVS,Las Vegas,United States,35.59701194,-105.2225027
+7871,LWB,Lewisburg,United States,37.783333,-80.336111
+7872,LWL,Harriet Field,United States,41.116667,-114.966667
+7873,LWM,Lawrence,United States,38.95975242,-95.25522994
+7874,LWS,Lewiston,United States,44.10070477,-70.21525965
+7875,LXN,Lexington,United States,38.05001467,-84.50002079
+7876,LXV,Leadville,United States,39.333333,-106.5
+7877,LYH,Lynchburg,United States,37.4136194,-79.14246668
+7878,LYU,Ely,United States,47.90042116,-91.82569767
+7879,LZU,Gwinnett County Airport,United States,33.978056,-83.9625
+7880,MAC,Smart,United States,50.033333,-70.0
+7881,MAE,Madera,United States,37.0,-120.0
+7882,MAF,Midland/odessa,United States,31.9425,-102.201944
+7883,MAW,Malden,United States,36.6,-89.983333
+7884,MBG,Mobridge,United States,45.54012596,-100.4347071
+7885,MBL,Manistee,United States,44.266667,-86.25
+7886,MBS,Saginaw,United States,43.4194802,-83.95082951
+7887,MBY,Moberly,United States,39.466667,-92.433333
+7888,MCB,Pike County,United States,31.15,-90.433333
+7889,MCC,Mcclellan AFB,United States,39.0,-74.15
+7890,MCD,Mackinac Island,United States,45.865,-84.637222
+7891,MCE,Merced,United States,37.283333,-120.516667
+7892,MCF,Mac Dill AFB,United States,54.433333,-70.0
+7893,MCG,Mcgrath,United States,62.966667,-155.633333
+7894,MCI,Kansas City,United States,39.291667,-94.730556
+7895,MCK,Mccook,United States,40.2,-100.583333
+7896,MCL,Mt Mckinley,United States,63.733333,-148.9
+7897,MCN,Lewis B Wilson,United States,32.683333,-83.65
+7898,MCO,Orlando,United States,28.429444,-81.308889
+7899,MCW,Mason City,United States,43.15401837,-93.20083338
+7900,MDA,Martindale Army Heliport,United States,29.431389,-98.377778
+7901,MDD,Airpark,United States,44.75,-79.9
+7902,MDF,Medford,United States,42.32662701,-122.8744227
+7903,MDH,Southern Illinois,United States,37.783333,-89.25
+7904,MDJ,City-county,United States,44.633333,-121.133333
+7905,MDN,Jefferson Proving Grd,United States,38.733333,-85.366667
+7906,MDR,Medfra,United States,63.1,-154.716667
+7907,MDT,Harrisburg,United States,40.193611,-76.763333
+7908,MDW,Chicago,United States,41.783333,-87.75
+7909,MEI,Meridian,United States,32.36418601,-88.70361434
+7910,MEJ,Meadville,United States,41.619444,-80.2
+7911,MEM,Memphis,United States,35.066667,-89.966667
+7912,MEO,Dare County Regional,United States,35.911111,-75.7
+7913,MER,Castle AFB,United States,37.380556,-120.568056
+7914,MEV,Douglas County,United States,39.0,-119.75
+7915,MFD,Lahm Municipal,United States,40.816667,-82.516667
+7916,MFE,Mcallen,United States,26.175833,-98.238611
+7917,MFR,Medford,United States,42.4,-71.1
+7918,MFV,Accomack County,United States,39.0,-96.0
+7919,MGC,Michigan City Arpt,United States,41.7,-86.816667
+7920,MGE,Dobbins Afb,United States,33.912222,-84.515278
+7921,MGI,Aransas National Wildlife Refuge,United States,39.0,-96.0
+7922,MGJ,Orange County,United States,41.51,-74.264722
+7923,MGM,Montgomery,United States,32.3,-86.4
+7924,MGR,Moultrie Municipal,United States,31.083333,-83.8
+7925,MGW,Morgantown,United States,39.62981488,-79.95606043
+7926,MGY,Dayton-Wright Brothers Airport,United States,39.588889,-84.224722
+7927,MHK,Manhattan,United States,39.19402753,-96.59243514
+7928,MHN,Mullen,United States,42.05,-101.066667
+7929,MHR,Sacramento Mather Airport,United States,38.555278,-121.297222
+7930,MHS,Rep,United States,41.316667,-122.316667
+7931,MHT,Manchester (US),United States,42.9325,-71.435556
+7932,MIA,Miami,United States,25.783333,-80.266667
+7933,MIB,Minot AFB,United States,47.666667,-70.0
+7934,MIC,Crystal,United States,45.061944,-93.353889
+7935,MIE,Delaware County,United States,40.233333,-85.4
+7936,MIF,Roy Hurd Memorial,United States,31.6,-102.9
+7937,MIO,Miami,United States,25.7876107,-80.22410608
+7938,MIV,Millville,United States,39.366667,-75.083333
+7939,MJQ,Jackson,United States,35.61486615,-88.81389185
+7940,MKE,Milwaukee,United States,42.95,-87.9
+7941,MKF,Mckenna AAF,United States,37.0,-120.0
+7942,MKG,Muskegon,United States,43.23458193,-86.24836369
+7943,MKK,Hoolehua,United States,21.166667,-157.116667
+7944,MKL,Jackson (US) TN,United States,32.3,-90.2
+7945,MKO,Davis Field,United States,35.666667,-95.366667
+7946,MLB,Melbourne (US),United States,28.0,-80.6
+7947,MLC,Mc Alester,United States,34.883333,-95.783333
+7948,MLD,Malad City,United States,42.336111,-112.3
+7949,MLF,Milford,United States,38.433333,-113.016667
+7950,MLI,Moline,United States,41.45,-90.516667
+7951,MLJ,Baldwin County,United States,33.15,-83.25
+7952,MLK,Malta,United States,48.35,-107.866667
+7953,MLL,Marshall,United States,61.883333,-162.066667
+7954,MLT,Millinocket,United States,45.65,-68.7
+7955,MLU,Monroe,United States,32.50960349,-92.11919397
+7956,MLY,Manley Hot Springs,United States,65.0,-150.633333
+7957,MMH,Mammoth Lakes,United States,37.616667,-118.85
+7958,MMI,McMinn County,United States,35.45,-84.6
+7959,MML,Municipal-Ryan Field,United States,44.444167,-95.82
+7960,MMN,Minute Man Airfield,United States,42.433333,-71.502778
+7961,MMT,Mc Entire ANG Base,United States,37.0,-120.0
+7962,MMU,Morristown,United States,40.8,-74.416667
+7963,MNM,Menominee,United States,45.283333,-87.633333
+7964,MNT,Minto,United States,64.9,-149.166667
+7965,MNZ,Manassas,United States,38.716667,-77.516667
+7966,MOB,Mobile,United States,30.691111,-88.242778
+7967,MOR,Moore-Murrell,United States,36.183333,-83.366667
+7968,MOS,Intermediate,United States,64.7,-162.05
+7969,MOT,Minot,United States,48.266667,-101.283333
+7970,MOU,Mountain Village,United States,62.08552431,-163.729009
+7971,MPE,Griswold,United States,41.283333,-72.6
+7972,MPJ,Petit Jean Park,United States,39.6,-120.0
+7973,MPO,Mt Pocono,United States,41.133333,-75.366667
+7974,MPR,Mcpherson,United States,38.35,-97.683333
+7975,MPS,Mount Pleasant,United States,33.15,-94.966667
+7976,MPV,Edward F Knapp State,United States,44.203611,-72.562222
+7977,MQI,Quincy,United States,39.9359719,-91.40972823
+7978,MQT,Marquette,United States,46.54673118,-87.40658757
+7979,MQW,Telfair-Wheeler,United States,39.0,-88.766667
+7980,MQY,Smyrna,United States,35.983333,-86.516667
+7981,MRB,Eastern Wv Regional Airport/Shepherd Field,United States,39.401667,-77.984444
+7982,MRC,Maury County,United States,37.0,-120.0
+7983,MRI,Merrill Field,United States,61.2,-149.833333
+7984,MRK,Marco Island,United States,25.933333,-81.716667
+7985,MRN,Lenoir,United States,35.75,-81.725
+7986,MRY,Monterey,United States,36.583333,-121.85
+7987,MSC,Falcon Field,United States,33.45,-111.716667
+7988,MSD,Mt Pleasant,United States,39.524722,-111.474444
+7989,MSL,Muscle Shoals,United States,34.75,-87.616667
+7990,MSN,Madison (US) WI,United States,43.139722,-89.3375
+7991,MSO,Missoula,United States,46.87224103,-113.9930526
+7992,MSP,Minneapolis/St Paul,United States,44.883333,-93.216944
+7993,MSS,Massena,United States,44.933333,-74.85
+7994,MSV,Sullivan County Intl,United States,41.616667,-74.7
+7995,MSY,New Orleans,United States,29.993333,-90.258056
+7996,MTH,Marathon Flight Strip,United States,24.716667,-81.05
+7997,MTJ,Montrose,United States,38.47727541,-107.8655197
+7998,MTM,Metlakatla,United States,55.133333,-131.583333
+7999,MTN,Glenn L Martin,United States,39.183333,-76.683333
+8000,MTO,Coles County Memorial,United States,39.483333,-88.283333
+8001,MTP,Montauk Airport,United States,41.083333,-71.916667
+8002,MTX,Metro Field,United States,64.8,-147.75
+8003,MUE,Kamuela,United States,20.0,-155.683333
+8004,MUI,Muir AAF,United States,38.7,-72.5
+8005,MUT,Muscatine,United States,41.363889,-91.144722
+8006,MUU,Mount Union,United States,40.383333,-77.883333
+8007,MUV,Mustin Alf,United States,29.483333,-102.0
+8008,MVC,Monroe - Walton County,United States,33.0,-83.0
+8009,MVE,Montevideo-Chippewa,United States,44.969167,-95.710278
+8010,MVL,Morrisville-Stowe,United States,44.583333,-72.625
+8011,MVM,Monument Valley,United States,36.709722,-110.236667
+8012,MVN,Mt Vernon-Outland,United States,38.316667,-88.866667
+8013,MVW,Skagit Regional,United States,48.416667,-122.333333
+8014,MVY,Martha's Vineyard,United States,41.4,-70.6
+8015,MWA,Marion,United States,42.0,-91.6
+8016,MWC,Lawrence J Timmerman,United States,43.110278,-88.034167
+8017,MWH,Grant County,United States,47.095,-119.261389
+8018,MWL,Mineral Wells Arpt,United States,32.783333,-98.066667
+8019,MWM,Windom Municipal,United States,43.913333,-95.109444
+8020,MWO,Hook Field,United States,39.531111,-84.395278
+8021,MWS,Mount Wilson,United States,51.916667,-113.0
+8022,MXC,San Juan County,United States,37.866667,-109.35
+8023,MXE,Maxton,United States,34.733333,-79.35
+8024,MXG,Marlborough,United States,42.333333,-71.55
+8025,MXY,Mccarthy,United States,61.416667,-142.916667
+8026,MYF,Montgomery Field,United States,32.8,-117.133333
+8027,MYH,Marble Canyon,United States,36.816667,-111.65
+8028,MYK,May Creek,United States,61.366667,-142.683333
+8029,MYL,Mccall,United States,45.883333,-116.1
+8030,MYR,Myrtle Beach,United States,33.7,-78.966667
+8031,MYU,Mekoryuk,United States,60.38864671,-166.1899372
+8032,MYV,Yuba County,United States,39.1,-121.566667
+8033,MZJ,Marana,United States,32.509722,-111.325278
+8034,MZZ,Marion,United States,40.55833701,-85.65917485
+8035,NAX,Barbers Point,United States,18.433333,-72.383333
+8036,NBG,NAS/Alvin Callendar,United States,47.0,-90.0
+8037,NBP,Battery Pk City/N. Cov,United States,55.0,-70.483333
+8038,NCN,New Chenega,United States,60.001111,-148.008333
+8039,NCQ,Atlanta Nas,United States,34.351111,-84.287222
+8040,NDP,Ellyson NAS,United States,30.526944,-87.198056
+8041,NDV,USN Heliport,United States,39.0,-96.0
+8042,NEA,Brunswick Golden Isles,United States,51.679444,-99.0
+8043,NEL,Naec,United States,36.833333,-107.0
+8044,NEN,Olf Usn,United States,30.333333,-81.883333
+8045,NES,East 34th St Landing,United States,55.0,-70.483333
+8046,NEW,Lakefront,United States,30.049444,-90.028889
+8047,NGC,North Rim,United States,36.183333,-112.133333
+8048,NGU,Nas Chambers,United States,36.937778,-76.289444
+8049,NHK,Patuxent River NAS,United States,38.286111,-76.411667
+8050,NHX,Barin Olf Osn,United States,30.416667,-87.683333
+8051,NIB,Nikolai,United States,63.016667,-154.383333
+8052,NIE,Niblack,United States,55.066667,-132.15
+8053,NIN,Ninilchik,United States,60.05,-151.666667
+8054,NJK,El Centro NAF,United States,32.829167,-115.671667
+8055,NKI,Naukiti Bay,United States,55.855556,-133.183333
+8056,NKV,Nichen Cove,United States,55.849722,-133.227778
+8057,NKX,Miramar MCAS,United States,32.868333,-117.1425
+8058,NLC,Lemoore NAS,United States,36.333056,-119.951944
+8059,NLE,Jerry Tyler Memorial,United States,41.85,-86.216667
+8060,NLG,Nelson Lagoon,United States,56.016667,-161.15
+8061,NME,Nightmute,United States,60.483333,-164.0
+8062,NNK,Naknek,United States,58.75,-156.533333
+8063,NNL,Nondalton,United States,60.0,-154.816667
+8064,NOH,Chicago NAS,United States,41.0,-87.0
+8065,NOL,Nakolik River,United States,50.483333,-78.0
+8066,NOT,Novato,United States,38.1,-122.566667
+8067,NPH,Nephi,United States,39.71027508,-111.8354841
+8068,NQA,Millington Regional Jetport,United States,35.356667,-89.870278
+8069,NQI,NAS,United States,51.366667,-70.0
+8070,NQX,Key West,United States,24.58,-81.69
+8071,NRB,Ns,United States,39.0,-88.766667
+8072,NRC,Aux Field,United States,37.4,-121.066667
+8073,NRI,Shangri-la,United States,36.566667,-94.85
+8074,NSE,Whiting Field NAS,United States,43.516667,-79.883333
+8075,NSF,Andrews NAF,United States,38.8,-76.0
+8076,NTD,Point Mugu NAS,United States,34.120278,-119.121111
+8077,NTJ,Manti-Ephraim,United States,39.266667,-111.633333
+8078,NUI,Nuiqsut,United States,70.216667,-150.916667
+8079,NUL,Nulato,United States,64.733333,-158.1
+8080,NUP,Nunapitchuk,United States,60.883333,-162.466667
+8081,NUQ,Moffett Field,United States,37.383333,-122.066667
+8082,NUW,Whidbey Island NAS,United States,48.351667,-122.655833
+8083,NVD,Nevada,United States,37.85,-94.3
+8084,NWH,Parlin Field,United States,43.333333,-72.166667
+8085,NWS,Pier 11/Wall St. SPB,United States,55.0,-70.483333
+8086,NXX,Willow Grove NAS,United States,40.1,-75.1
+8087,NYG,Quantico Nas,United States,38.503611,-77.305
+8088,NZW,South Weymouth,United States,42.166667,-70.95
+8089,NZY,North Island Nas,United States,32.699167,-117.215278
+8090,OAJ,Jacksonville (US) NC,United States,34.75432436,-77.43055567
+8091,OAK,Oakland,United States,37.716667,-122.216667
+8092,OAR,Marina Municipal,United States,36.681944,-121.762222
+8093,OBT,Oakland/Coliseum Stat,United States,39.0,-142.05
+8094,OBU,Kobuk,United States,66.9072455,-156.8809774
+8095,OCA,Ocean Reef,United States,25.366667,-80.266667
+8096,OCF,Taylor Field,United States,29.166667,-82.216667
+8097,OCH,A L Mangham Jr. Regional,United States,31.6,-94.65
+8098,OCI,Oceanic,United States,60.1,-148.216667
+8099,OCW,Warren Field,United States,35.55,-77.05
+8100,ODW,Oak Harbor,United States,48.283333,-122.616667
+8101,OEA,Oneal,United States,38.666667,-87.516667
+8102,OFK,Stefan Field,United States,41.983333,-97.433333
+8103,OGA,Searle Field,United States,41.133333,-101.716667
+8104,OGD,Ogden,United States,41.2,-112.016667
+8105,OGG,Kahului,United States,20.898611,-156.430556
+8106,OGS,Ogdensburg,United States,44.683333,-75.466667
+8107,OHC,AFS,United States,63.316667,-168.966667
+8108,OIC,Eaton,United States,42.983333,-80.6
+8109,OIL,Splane Memorial,United States,41.434444,-79.830833
+8110,OJC,Johnson Executive,United States,38.85,-94.733333
+8111,OKC,Oklahoma City,United States,35.393056,-97.600833
+8112,OKK,Kokomo,United States,40.48676516,-86.13364201
+8113,OKM,Okmulgee,United States,35.616667,-95.966667
+8114,OKS,Oshkosh,United States,44.02510215,-88.54251306
+8115,OLD,Old Town,United States,44.95,-68.666667
+8116,OLF,Wolf Point,United States,48.083333,-105.566667
+8117,OLH,Old Harbor,United States,57.2,-153.316667
+8118,OLM,Olympia,United States,47.03804486,-122.899434
+8119,OLU,Columbus Municipal,United States,41.448056,-97.342778
+8120,OLV,Olive Branch Arpt,United States,34.966667,-89.833333
+8121,OLY,Olney-Noble,United States,38.716667,-88.083333
+8122,OMA,Omaha,United States,41.3,-95.9
+8123,OME,Nome,United States,64.50610008,-165.4063744
+8124,ONM,Socorro,United States,34.0,-107.0
+8125,ONN,Onion Bay,United States,58.233333,-152.833333
+8126,ONO,Ontario Municipal Airport,United States,44.020556,-117.013611
+8127,ONT,Ontario,United States,44.02662661,-116.9618895
+8128,ONY,Olney,United States,33.366667,-98.75
+8129,OOK,Toksook Bay,United States,60.5,-165.1
+8130,OPF,Opa Locka,United States,25.906944,-80.278333
+8131,OPL,St Landry Parish,United States,30.55,-92.1
+8132,ORD,Chicago,United States,41.978611,-87.904722
+8133,ORF,Norfolk,United States,36.9,-76.2
+8134,ORH,Worcester,United States,42.6,-74.8
+8135,ORI,Port Lions,United States,57.883333,-152.85
+8136,ORL,Orlando Executive,United States,28.533333,-81.35
+8137,ORT,Northway,United States,62.95,-141.95
+8138,ORV,Noorvik,United States,66.833333,-161.033333
+8139,OSB,Osage Beach,United States,38.15,-92.616667
+8140,OSC,Wurtsmith AFB,United States,44.433333,-83.333333
+8141,OSH,Wittman Field,United States,43.983333,-88.55
+8142,OSU,Ohio State University,United States,40.066667,-83.066667
+8143,OSX,Attala County,United States,33.083333,-89.55
+8144,OTG,Worthington,United States,43.65,-95.583333
+8145,OTH,North Bend,United States,43.416667,-124.25
+8146,OTM,Industrial,United States,41.1,-92.45
+8147,OTN,Green,United States,38.866667,-87.433333
+8148,OTO,Vor,United States,35.072222,-105.935556
+8149,OTS,Anacortes,United States,48.5,-122.616667
+8150,OTZ,Kotzebue,United States,66.89869305,-162.5965975
+8151,OUN,Max Westheimer,United States,35.158333,-97.466667
+8152,OVE,Oroville,United States,39.483333,-121.633333
+8153,OWA,Owatonna,United States,44.116667,-93.25
+8154,OWB,Owensboro,United States,37.77457928,-87.11332381
+8155,OWK,Central Maine Airport of Norridgewock,United States,44.716667,-69.8
+8156,OXC,Waterbury-oxford,United States,41.478611,-73.135278
+8157,OXD,Miami University,United States,45.733333,-63.866667
+8158,OXR,Ventura,United States,34.2,-119.2
+8159,OYS,Yosemite Ntl Park,United States,37.85,-119.55
+8160,OZA,Ozona Municipal,United States,30.735278,-101.202778
+8161,OZR,Cairns AAF,United States,53.116667,-70.0
+8162,PAE,Snohomish County,United States,47.919444,-122.283611
+8163,PAH,Paducah,United States,37.08371706,-88.60000309
+8164,PAK,Port Allen,United States,21.916667,-159.583333
+8165,PAM,Tyndall AFB,United States,30.07,-85.576389
+8166,PAO,Palo Alto,United States,37.466667,-122.116667
+8167,PBA,Point Barrow,United States,71.333333,-156.633333
+8168,PBF,Grider Field,United States,34.183333,-91.933333
+8169,PBG,Plattsburgh,United States,44.650833,-70.0
+8170,PBI,West Palm Beach,United States,26.683056,-80.095556
+8171,PBK,Pack Creek,United States,44.4,-144.5
+8172,PCA,Portage Creek,United States,60.833333,-150.0
+8173,PCE,Painter Creek,United States,47.8,-107.0
+8174,PCK,Porcupine Creek,United States,67.25,-150.283333
+8175,PCU,Pearl River County,United States,30.516667,-89.705556
+8176,PDB,Pedro Bay,United States,59.783333,-154.116667
+8177,PDK,Atlanta,United States,33.875556,-84.301944
+8178,PDT,Pendleton,United States,45.67259849,-118.7874886
+8179,PDX,Portland (US) OR,United States,45.588611,-122.5975
+8180,PEC,Pelican,United States,57.95,-136.233333
+8181,PEQ,Pecos City,United States,31.4,-103.516667
+8182,PFA,Paf Warren,United States,58.681389,-156.8375
+8183,PFC,Pacific City State,United States,45.199722,-123.962222
+8184,PFD,Port Frederick,United States,57.95,-135.65
+8185,PFN,Bay County,United States,30.216667,-85.683333
+8186,PGA,Page,United States,36.933333,-111.45
+8187,PGD,Punta Gorda (US),United States,26.916667,-81.983333
+8188,PGM,Port Graham,United States,59.35,-151.833333
+8189,PGS,Peach Springs,United States,35.533333,-113.416667
+8190,PGV,Greenville,United States,35.633333,-77.4
+8191,PHD,Harry Clever,United States,40.466667,-81.433333
+8192,PHF,Newport News,United States,37.133333,-76.5
+8193,PHK,Palm Beach Co Glades,United States,26.816667,-80.65
+8194,PHL,Philadelphia,United States,39.871944,-75.241111
+8195,PHN,St Clair County Intl,United States,42.9,-82.533333
+8196,PHO,Point Hope,United States,68.34772605,-166.8080201
+8197,PHP,Philip,United States,44.033333,-101.65
+8198,PHT,Henry County,United States,36.333333,-88.383333
+8199,PHX,Phoenix,United States,33.433333,-112.033333
+8200,PIA,Peoria,United States,40.69998212,-89.67004114
+8201,PIB,Laurel,United States,31.467222,-89.336944
+8202,PIE,Tampa,United States,27.910556,-82.6875
+8203,PIH,Pocatello,United States,42.87134829,-112.4447234
+8204,PII,Phillips Field,United States,64.85,-147.783333
+8205,PIM,Garden Harris County,United States,32.833333,-84.85
+8206,PIP,Pilot Point,United States,57.580278,-157.571944
+8207,PIR,Pierre,United States,44.36833701,-100.350552
+8208,PIT,Pittsburgh,United States,40.491389,-80.232778
+8209,PIZ,Point Lay,United States,69.733333,-163.016667
+8210,PJB,Payson,United States,34.261111,-111.341667
+8211,PJS,Port San Juan,United States,60.05,-148.066667
+8212,PKA,Napaskiak,United States,60.7,-161.7
+8213,PKB,Parkersburg/Marietta,United States,39.35,-81.433333
+8214,PKD,Park Rapids,United States,46.9,-95.066667
+8215,PKF,Park Falls,United States,45.933333,-90.433333
+8216,PLB,Clinton County,United States,44.683333,-73.516667
+8217,PLK,M Graham Clark,United States,36.616667,-93.216667
+8218,PLN,Pellston,United States,45.566667,-84.8
+8219,PLR,St Clair County,United States,33.583333,-86.283333
+8220,PMD,La Palmdale Regional Airport,United States,34.629444,-118.084444
+8221,PMH,Greater Portsmouth Regional,United States,38.840556,-82.847222
+8222,PML,Port Moller,United States,55.983333,-160.533333
+8223,PMU,SPB,United States,61.966667,-160.233333
+8224,PMX,Metropolitan,United States,42.15,-72.316667
+8225,PNC,Ponca City,United States,36.7073576,-97.08527328
+8226,PNE,North Philadelphia,United States,40.083333,-75.016667
+8227,PNN,Princeton,United States,45.202778,-67.566667
+8228,PNS,Pensacola,United States,30.466667,-87.183333
+8229,PNU,Panguitch,United States,37.833333,-112.383333
+8230,PNX,Grayson County,United States,33.633333,-96.583333
+8231,POB,Pope AFB,United States,35.170833,-79.014444
+8232,POC,Brackett Field,United States,34.083333,-117.783333
+8233,POE,Polk AAF,United States,31.033333,-93.183333
+8234,POF,Earl Fields Memorial,United States,36.75,-90.5
+8235,POQ,Polk Inlet,United States,55.35,-132.5
+8236,POU,Dutchess County,United States,41.633333,-73.883333
+8237,POY,Powell,United States,44.75867495,-108.7584367
+8238,PPA,Perry Lefors Field,United States,35.533333,-100.95
+8239,PPC,Prospect Creek,United States,66.8,-150.633333
+8240,PPF,Tri-City,United States,37.333333,-95.5
+8241,PPM,Pompano Beach,United States,26.233333,-80.127778
+8242,PPV,Port Protection,United States,56.333333,-133.666667
+8243,PQI,Presque Isle,United States,46.79340863,-68.00216476
+8244,PQS,Pilot Station,United States,61.933333,-162.883333
+8245,PRB,Paso Robles,United States,35.6265967,-120.6899823
+8246,PRC,Prescott,United States,34.59001914,-112.4477723
+8247,PRF,Port Johnson,United States,55.122222,-132.05
+8248,PRL,Port Oceanic,United States,60.208333,-147.819444
+8249,PRT,Coast Guard Heliport,United States,47.533333,-70.0
+8250,PRW,Prentice,United States,45.55,-90.283333
+8251,PRX,Cox Field,United States,33.633333,-95.45
+8252,PRZ,Prineville,United States,44.3,-120.85
+8253,PSB,Bellefonte,United States,60.933333,-113.0
+8254,PSC,Pasco,United States,46.264722,-119.119167
+8255,PSF,Pittsfield,United States,42.44819582,-73.25982833
+8256,PSG,Petersburg,United States,37.22776512,-77.40223698
+8257,PSK,New River Valley,United States,37.116667,-80.683333
+8258,PSM,Boston,United States,43.078056,-70.823333
+8259,PSN,Palestine Municipal Airport,United States,31.779722,-95.706389
+8260,PSP,Palm Springs,United States,33.833333,-116.5
+8261,PSX,Palacios,United States,28.7,-96.216667
+8262,PTA,Port Alsworth,United States,60.2,-154.333333
+8263,PTC,Port Alice,United States,55.791667,-133.6
+8264,PTD,Port Alexander,United States,56.25,-134.65
+8265,PTH,Port Heiden,United States,56.94909365,-158.6268915
+8266,PTK,Pontiac,United States,42.65185264,-83.29022384
+8267,PTL,Port Armstrong,United States,56.297222,-134.6625
+8268,PTN,Williams Memorial,United States,29.75,-91.308333
+8269,PTR,Pleasant Harbour,United States,57.833333,-153.25
+8270,PTT,Pratt,United States,37.7,-98.75
+8271,PTU,Platinum,United States,59.016667,-161.816667
+8272,PTV,Porterville,United States,36.033333,-119.066667
+8273,PTW,Pottstown/Limerick,United States,40.233333,-75.65
+8274,PUB,Pueblo,United States,38.2803882,-104.6300066
+8275,PUC,Carbon County,United States,39.602778,-110.75
+8276,PUL,Poulsbo,United States,47.733333,-122.65
+8277,PUO,Prudhoe Bay,United States,70.29218101,-148.6693598
+8278,PUW,Pullman/MOscow ID,United States,46.75,-117.116667
+8279,PVC,Provincetown,United States,42.066667,-70.216667
+8280,PVD,Providence,United States,41.82110231,-71.4149797
+8281,PVF,Placerville,United States,38.716667,-120.8
+8282,PVL,Pikeville,United States,37.38,-82.52
+8283,PVU,Provo,United States,40.24889854,-111.63777
+8284,PVW,Hale County,United States,34.166667,-101.716667
+8285,PVY,Pope Vanoy,United States,59.316667,-154.916667
+8286,PVZ,Casement,United States,41.733333,-81.216667
+8287,PWA,Wiley Post,United States,35.534167,-97.666667
+8288,PWD,Sherwood,United States,48.766667,-104.55
+8289,PWK,Pal-Waukee,United States,42.0,-87.966667
+8290,PWM,Portland (US) ME,United States,43.65,-70.3
+8291,PWR,Port Walter,United States,56.383333,-134.65
+8292,PWT,Bremerton,United States,47.57359552,-122.6420175
+8293,PXL,Polacca,United States,35.833333,-110.383333
+8294,PYL,Perry SPB,United States,60.683333,-147.916667
+8295,QCE,Van Service,United States,49.3,-70.0
+8296,QMV,Montvale,United States,43.866667,-91.0
+8297,QNY,Marine Air Terminal,United States,55.0,-70.483333
+8298,QWF,Fort Collins Bus Servi,United States,38.7,-72.5
+8299,QWG,Wilgrove Air Park,United States,35.213889,-80.67
+8300,RAC,Horlick,United States,42.757778,-87.820833
+8301,RAL,Riverside Municipal,United States,33.95,-117.433333
+8302,RAP,Rapid City,United States,44.033333,-103.05
+8303,RBD,Redbird,United States,37.0,-97.0
+8304,RBF,Big Bear City Arpt,United States,34.266667,-116.85
+8305,RBH,Brooks Lodge,United States,58.55,-155.8
+8306,RBK,French Valley,United States,39.6,-120.0
+8307,RBL,Red Bluff Fss,United States,40.15,-122.25
+8308,RBN,Fort Jefferson,United States,38.7,-72.5
+8309,RBY,Ruby,United States,64.733333,-155.483333
+8310,RCA,Ellsworth Afb,United States,44.145,-103.103611
+8311,RCE,Roche Harbor,United States,48.616667,-123.116667
+8312,RCK,Coffield,United States,30.65,-97.0
+8313,RCP,Cinder River,United States,42.0,-112.0
+8314,RCR,Fulton County,United States,49.916667,-78.0
+8315,RCT,Miller Field,United States,43.9,-85.516667
+8316,RDB,Red Dog,United States,68.032222,-162.899167
+8317,RDD,Redding,United States,40.58704327,-122.3905762
+8318,RDG,Municipal/Spaatz Fld,United States,40.383333,-75.966667
+8319,RDM,Redmond/Bend,United States,44.25,-121.15
+8320,RDR,Grand Forks AFB,United States,58.4,-91.0
+8321,RDU,Raleigh/Durham,United States,35.877778,-78.7875
+8322,RDV,Red Devil,United States,61.76099632,-157.3125273
+8323,RED,Mifflin County,United States,40.683333,-77.616667
+8324,REE,Reese AFB,United States,41.5,-87.96
+8325,REH,Rehoboth Beach,United States,38.716667,-75.133333
+8326,RFD,Chicago,United States,42.2,-89.1
+8327,RFG,Rooke Field,United States,28.3,-97.3
+8328,RFK,Rollang Field,United States,32.966667,-90.833333
+8329,RGR,Ranger Municipal,United States,32.466667,-98.683333
+8330,RHI,Rhinelander,United States,45.63991315,-89.41207239
+8331,RHV,Reid-hillview,United States,22.916667,-80.883333
+8332,RIC,Richmond (US),United States,37.5,-77.316667
+8333,RID,Richmond Municipal Airport,United States,39.757222,-84.842778
+8334,RIE,Rice Lake,United States,45.5,-91.733333
+8335,RIF,Reynolds,United States,38.75,-112.1
+8336,RIL,Garfield County,United States,39.516667,-107.716667
+8337,RIR,Riverside Fla-Bob,United States,37.77,-122.42
+8338,RIV,March ARB,United States,33.880833,-117.259444
+8339,RIW,Riverton,United States,43.02816042,-108.3950481
+8340,RKC,Yreka,United States,41.733333,-122.633333
+8341,RKD,Rockland,United States,44.066667,-69.1
+8342,RKH,Rock Hill,United States,34.94038535,-81.03000004
+8343,RKP,Aransas County,United States,28.083333,-97.033333
+8344,RKR,Robert S Kerr,United States,35.05,-94.616667
+8345,RKS,Rock Springs,United States,41.6,-109.066667
+8346,RLA,National,United States,38.133333,-91.783333
+8347,RLD,Richland,United States,46.29181134,-119.2911013
+8348,RLU,Bornite Upper,United States,67.1,-156.933333
+8349,RMC,Machesney,United States,42.3,-89.0
+8350,RME,Griffiss AFB,United States,43.233889,-75.406944
+8351,RMG,Richard B Russell,United States,34.35,-85.166667
+8352,RMP,Rampart,United States,65.5,-150.15
+8353,RND,Randolph AFB,United States,41.3,-76.733333
+8354,RNG,Rangely,United States,40.094722,-108.760556
+8355,RNO,Reno,United States,39.52997601,-119.8200096
+8356,RNT,Renton,United States,47.493056,-122.215833
+8357,RNZ,Rensselaer,United States,40.95,-87.15
+8358,ROA,Roanoke,United States,37.27119916,-79.94161686
+8359,ROC,Rochester (US) NY,United States,43.16,-77.6
+8360,ROG,Rogers,United States,36.333333,-94.116667
+8361,ROL,Roosevelt,United States,40.3,-109.983333
+8362,ROW,Roswell,United States,33.39453656,-104.5224679
+8363,RPX,Roundup,United States,46.433333,-108.533333
+8364,RRT,Warroad,United States,48.9,-95.0
+8365,RSH,Russian Mission,United States,61.783333,-161.333333
+8366,RSJ,Rosario SPB,United States,48.633333,-122.85
+8367,RSL,Russell,United States,38.883333,-98.85
+8368,RSN,Ruston,United States,32.516667,-92.616667
+8369,RSP,Raspberry Strait,United States,58.166667,-154.833333
+8370,RST,Rochester (US) MN,United States,43.908333,-92.5
+8371,RSW,Fort Myers,United States,26.542222,-81.755278
+8372,RSX,Rouses Point,United States,44.984722,-73.352222
+8373,RTD,Rotunda,United States,26.866667,-82.266667
+8374,RTE,Marguerite Bay,United States,55.7,-131.633333
+8375,RTL,Spirit Lake,United States,43.416667,-95.1
+8376,RTN,Crews Field,United States,36.733333,-104.5
+8377,RUT,Rutland,United States,43.533333,-72.95
+8378,RVR,Green River,United States,41.51455772,-109.4649827
+8379,RWB,Rowan Bay,United States,56.75,-134.133333
+8380,RWF,Redwood Falls Muni,United States,44.533333,-95.116667
+8381,RWI,Rocky Mount-wilson,United States,35.856389,-77.891944
+8382,RWL,Rawlins,United States,41.7906649,-107.234292
+8383,RZH,Quartz Hill,United States,34.666667,-118.0
+8384,RZZ,Halifax County,United States,36.466667,-77.666667
+8385,SAA,Shively Field,United States,41.45,-106.8
+8386,SAD,Safford,United States,32.83382143,-109.7068801
+8387,SAF,Santa Fe (US),United States,35.616667,-106.083333
+8388,SAG,Sagwon,United States,69.366667,-148.7
+8389,SAN,San Diego,United States,32.733333,-117.183333
+8390,SAR,Sparta Community,United States,38.116667,-89.7
+8391,SAS,Salton City,United States,33.316667,-115.983333
+8392,SAT,San Antonio,United States,29.533333,-98.466667
+8393,SAV,Savannah,United States,32.133333,-81.2
+8394,SBA,Santa Barbara,United States,33.426111,-119.840278
+8395,SBD,Norton Afb,United States,34.095278,-117.235
+8396,SBN,South Bend,United States,41.68330711,-86.25001734
+8397,SBO,Salina,United States,38.82467023,-97.6071794
+8398,SBP,San Luis Obispo,United States,35.236944,-120.641944
+8399,SBS,Steamboat Springs,United States,40.516667,-106.866667
+8400,SBX,Shelby,United States,48.533333,-111.866667
+8401,SBY,Salisbury-Ocean City,United States,38.333333,-75.516667
+8402,SCC,Prudhoe Bay/Deadhorse,United States,70.333333,-148.333333
+8403,SCE,State College,United States,40.79372316,-77.8602452
+8404,SCF,Scottsdale Municipal,United States,33.5,-111.933333
+8405,SCH,Schenectady County,United States,42.8525,-73.928889
+8406,SCJ,Smith Cove,United States,55.4375,-132.341667
+8407,SCK,Sacramento,United States,37.9,-121.25
+8408,SCM,Scammon Bay,United States,61.866667,-165.583333
+8409,SDF,Louisville,United States,38.174444,-85.736111
+8410,SDM,Brown Field Municipal,United States,32.572222,-116.98
+8411,SDP,Sand Point,United States,55.33970868,-160.4971908
+8412,SDX,Sedona,United States,34.866667,-111.766667
+8413,SDY,Sidney,United States,41.13980023,-102.9782727
+8414,SEA,Seattle,United States,47.448889,-122.309444
+8415,SEF,Sebring Regional Airport,United States,27.456389,-81.3425
+8416,SEG,Penn Valley,United States,40.783333,-76.85
+8417,SEM,Craig AFB,United States,37.0,-120.0
+8418,SEP,Clark Field,United States,32.216667,-98.183333
+8419,SER,Freeman Municipal,United States,38.95,-85.883333
+8420,SES,Selfield,United States,32.45,-86.95
+8421,SFB,Orlando,United States,28.783333,-81.25
+8422,SFF,Felts Field,United States,47.666667,-117.325
+8423,SFM,Sanford,United States,28.78995974,-81.27998478
+8424,SFO,San Francisco,United States,37.77,-122.42
+8425,SFZ,North Central,United States,41.920833,-71.491389
+8426,SGF,Springfield (US) MO,United States,37.25,-93.383333
+8427,SGH,Springfield,United States,42.12002464,-72.57999903
+8428,SGR,Sugar Land Regional,United States,29.622222,-95.656667
+8429,SGT,Stuttgart Municipal,United States,34.599444,-91.575
+8430,SGU,St George,United States,37.083333,-113.6
+8431,SGW,Saginaw Bay,United States,56.866667,-134.15
+8432,SGY,Skagway,United States,59.45832033,-135.3138959
+8433,SHD,Staunton,United States,38.266667,-78.9
+8434,SHG,Shungnak,United States,66.883333,-157.05
+8435,SHH,Shishmaref,United States,66.25697512,-166.0718893
+8436,SHN,Sanderson Field,United States,47.241667,-123.133333
+8437,SHR,Sheridan,United States,44.766667,-106.966667
+8438,SHV,Shreveport,United States,32.45,-93.816667
+8439,SHX,Shageluk,United States,62.633333,-159.583333
+8440,SIT,Sitka,United States,57.06039769,-135.3275494
+8441,SIY,Siskiyou County,United States,41.781389,-122.466389
+8442,SJC,San Jose (US),United States,37.352778,-121.919444
+8443,SJT,San Angelo,United States,31.357778,-100.496389
+8444,SKF,San Antonio,United States,29.5,-98.2
+8445,SKJ,Sitkinak Cgs,United States,56.533333,-154.133333
+8446,SKK,Shaktoolik,United States,64.383333,-161.1
+8447,SKY,Griffing Sandusky,United States,41.433333,-82.7
+8448,SLC,Salt Lake City,United States,40.7750163,-111.9300519
+8449,SLE,Mcnary Field,United States,44.916667,-123.0
+8450,SLJ,Stellar Air Park,United States,33.319444,-111.9
+8451,SLK,Saranac Lake,United States,44.4,-74.2
+8452,SLN,Salina,United States,38.8,-97.4
+8453,SLO,Leckrone,United States,38.616667,-88.933333
+8454,SLQ,Sleetmute,United States,61.7,-157.116667
+8455,SLR,Sulphur Springs,United States,33.133333,-95.6
+8456,SLT,Salida,United States,38.55,-106.033333
+8457,SMD,Smith Field,United States,41.143333,-85.152778
+8458,SME,Pulaski County,United States,37.083333,-84.6
+8459,SMF,Sacramento,United States,38.7,-121.616667
+8460,SMK,St Michael,United States,63.483333,-162.016667
+8461,SMN,Salmon,United States,45.17567792,-113.8949966
+8462,SMO,Santa Monica,United States,34.015833,-118.45
+8463,SMU,Sheep Mountain,United States,61.8,-147.666667
+8464,SMX,Santa Maria (US),United States,34.9,-120.45
+8465,SNA,Santa Ana,United States,33.7,-117.9
+8466,SNK,Winston Field,United States,32.7,-100.95
+8467,SNP,St Paul Island,United States,57.166667,-170.216667
+8468,SNS,Salinas,United States,36.7,-121.7
+8469,SOL,Solomon,United States,64.583333,-164.3
+8470,SOP,Pinehurst-S. Pines,United States,35.215278,-79.588333
+8471,SOV,Seldovia,United States,59.45,-151.7
+8472,SOW,Show Low,United States,34.265556,-110.005556
+8473,SPA,"Spartanburg, Downtown Memorial",United States,34.915833,-81.956389
+8474,SPF,Black Hills,United States,44.483333,-103.85
+8475,SPI,Springfield,United States,39.85,-89.683333
+8476,SPQ,Catalina SPB,United States,33.75,-118.366667
+8477,SPS,Wichita Falls,United States,33.983333,-98.516667
+8478,SPZ,Springdale Muni,United States,36.183333,-94.133333
+8479,SQA,Santa Ynez,United States,39.0,-96.0
+8480,SQI,Whiteside County,United States,41.733333,-89.683333
+8481,SQL,San Carlos,United States,37.0,-122.0
+8482,SQV,Sequim Valley Arpt,United States,48.083333,-123.1
+8483,SRC,Searcy,United States,35.25,-91.733333
+8484,SRF,Hamilton Field,United States,37.0,-97.0
+8485,SRQ,Sarasota/Bradenton,United States,27.395556,-82.554444
+8486,SRU,Skypark,United States,40.0,-111.9
+8487,SRV,Stony River,United States,61.783333,-156.583333
+8488,SRW,Rowan County,United States,35.633333,-80.516667
+8489,SSC,Shaw AFB,United States,53.283333,-70.0
+8490,SSF,Stinson Municipal,United States,41.3,-76.733333
+8491,SSI,Mckinnon,United States,50.933333,-107.0
+8492,SSU,Greenbrier,United States,61.833333,-99.0
+8493,STC,St Cloud,United States,45.583333,-94.183333
+8494,STE,Stevens Point,United States,41.433333,-121.0
+8495,STG,St George Island,United States,56.6,-169.533333
+8496,STJ,Rosecrans Memorial,United States,39.766667,-94.916667
+8497,STK,Crosson Field,United States,40.616667,-103.266667
+8498,STL,St Louis,United States,38.748611,-90.37
+8499,STP,Downtown,United States,44.933333,-93.066667
+8500,STS,Santa Rosa (US),United States,38.516667,-122.8
+8501,SUA,Witham Field,United States,27.183333,-80.216667
+8502,SUC,Schloredt,United States,44.4,-104.366667
+8503,SUD,Stroud,United States,35.733333,-96.65
+8504,SUE,Door County,United States,44.833333,-87.416667
+8505,SUN,Hailey/Sun Valley,United States,43.5,-114.316667
+8506,SUO,Sun River,United States,44.0,-121.0
+8507,SUS,Spirit Of St Louis,United States,38.662222,-90.651944
+8508,SUU,Travis AFB,United States,38.0,-121.0
+8509,SUW,Richard I Bong Arpt,United States,46.733333,-92.166667
+8510,SUX,Sioux City,United States,42.50038902,-96.39999211
+8511,SVA,Savoonga,United States,62.7,-170.466667
+8512,SVC,Silver City,United States,32.633333,-108.166667
+8513,SVE,SUnited Statesnville,United States,40.4,-120.65
+8514,SVN,Hunter AAF,United States,32.01,-81.145556
+8515,SVS,Stevens Village,United States,66.033333,-149.1
+8516,SVW,Sparrevohn AFS,United States,61.083333,-155.566667
+8517,SWD,Seward,United States,60.1261607,-149.4699827
+8518,SWF,Newburgh,United States,41.5,-74.016667
+8519,SWO,Stillwater,United States,36.13535118,-97.06829757
+8520,SWW,Sweetwater,United States,32.466667,-100.466667
+8521,SXC,Avalo Vor/WP,United States,21.6,-67.6
+8522,SXP,Nunam Iqua,United States,62.533333,-164.833333
+8523,SXQ,Soldotna,United States,60.483333,-151.066667
+8524,SYA,Shemya AFB,United States,52.716667,-102.0
+8525,SYB,Seal Bay,United States,58.166667,-152.5
+8526,SYI,Bomar Field,United States,35.566667,-86.45
+8527,SYL,Roberts AAF,United States,80.0,-75.866667
+8528,SYN,Carleton,United States,44.468056,-93.0
+8529,SYR,Syracuse,United States,43.04999371,-76.15001367
+8530,SYV,Sylvester,United States,31.516667,-83.833333
+8531,SZL,Whiteman AFB,United States,51.083333,-70.0
+8532,SZN,Santa Cruz Island,United States,34.0,-119.8
+8533,SZP,Oxnard,United States,34.347222,-119.061111
+8534,TAD,Las Animas,United States,54.0,-71.666667
+8535,TAL,Tanana,United States,65.17187339,-152.0787899
+8536,TBC,Tuba City,United States,39.0,-96.0
+8537,TBN,Fort Leonard Wood,United States,37.733333,-92.15
+8538,TBR,Statesboro-Bulloch County Airport,United States,32.482778,-81.736944
+8539,TCC,Tucumcari,United States,35.16980288,-103.725514
+8540,TCL,Van De Graaf,United States,33.220556,-87.611389
+8541,TCM,McChord AFB,United States,47.137778,-122.476389
+8542,TCT,Takotna,United States,65.983333,-70.0
+8543,TDO,Winlock,United States,34.0,-75.783333
+8544,TDW,Tradewind,United States,35.166667,-101.833333
+8545,TDZ,Toledo,United States,39.86703554,-82.0
+8546,TEB,Teterboro,United States,40.85,-74.060833
+8547,TEH,Tetlin,United States,36.766667,-82.0
+8548,TEK,Tatitlek,United States,41.633333,-102.0
+8549,TEX,Telluride,United States,42.095278,-113.0
+8550,TGE,Sharpe Field,United States,46.966667,-70.0
+8551,THA,Tullahoma/William Northern Field,United States,35.38,-86.246389
+8552,THM,Thompsonfield,United States,50.233333,-70.0
+8553,THP,Hot Springs,United States,34.50395205,-93.05500248
+8554,THV,York Airport,United States,48.75,-64.583333
+8555,TIK,Tinker AFB,United States,35.414722,-97.386667
+8556,TKA,Talkeetna,United States,62.3237785,-150.1094269
+8557,TKE,Tenakee,United States,43.286389,-121.0
+8558,TKF,Truckee-Tahoe,United States,39.32,-120.139444
+8559,TKJ,Tok,United States,53.333333,-170.0
+8560,TKL,Taku SPB,United States,59.783333,-78.0
+8561,TLA,Teller,United States,65.26359906,-166.3607864
+8562,TLH,Tallahassee,United States,30.44998761,-84.28003422
+8563,TLJ,Tatalina,United States,62.9,-156.0
+8564,TLR,Mefford Field,United States,39.156389,-119.326111
+8565,TLT,Tuluksak,United States,37.966667,-70.0
+8566,TMA,Henry Tift Myers,United States,31.428889,-83.488611
+8567,TMB,Tamiami,United States,38.0,-73.65
+8568,TNC,Tin City,United States,65.563056,-167.921667
+8569,TNK,Tununak,United States,60.58548667,-165.2557892
+8570,TNP,Twentynine Palms,United States,52.116667,-70.0
+8571,TNT,Dade Collier,United States,25.861944,-80.896944
+8572,TOA,Torrance Airport,United States,33.805,-118.343889
+8573,TOC,Toccoa,United States,42.216667,-102.0
+8574,TOG,Togiak,United States,59.07036101,-160.3783234
+8575,TOL,Toledo,United States,41.586944,-83.807778
+8576,TOP,Philip Billard,United States,39.0,-96.0
+8577,TPA,Tampa,United States,27.975556,-82.533056
+8578,TPH,Tonopah Arpt,United States,38.06,-117.086944
+8579,TPL,Draughon-miller Central Texas Regional,United States,31.1525,-97.407778
+8580,TPO,Tanalian Point,United States,30.0,-76.0
+8581,TRH,Trona,United States,35.8125,-117.327222
+8582,TRI,Tri-Cities Regional,United States,36.475278,-82.4075
+8583,TRL,Terrell Field,United States,32.7,-96.0
+8584,TRM,Thermal,United States,46.591111,-70.0
+8585,TRT,Tremonton,United States,42.0,-112.0
+8586,TRX,Memorial,United States,44.1,-77.583333
+8587,TSS,East 34th St Heliport,United States,40.744444,-73.970833
+8588,TTD,Troutdale,United States,54.083333,-102.0
+8589,TTN,Philadelphia,United States,40.276667,-74.813333
+8590,TUH,Arnold AFS,United States,52.777222,-70.0
+8591,TUL,Tulsa,United States,36.198333,-95.888056
+8592,TUP,Tupelo,United States,34.25792055,-88.70333012
+8593,TUS,Tucson,United States,32.116111,-110.941111
+8594,TVC,Traverse City,United States,44.76844179,-85.62217452
+8595,TVF,Thief River Falls,United States,52.883333,-121.0
+8596,TVL,South Lake Tahoe,United States,38.883333,-120.0
+8597,TWA,Twin Hills,United States,46.266667,-82.0
+8598,TWD,Port Townsend,United States,48.116667,-122.766667
+8599,TWF,Twin Falls,United States,42.5609538,-114.4605693
+8600,TWH,Two Harbors,United States,41.633333,-120.05
+8601,TXK,Texarkana,United States,33.44210472,-94.03747481
+8602,TYR,Tyler,United States,32.35108604,-95.30078272
+8603,TYS,Knoxville,United States,35.97001243,-83.92003036
+8604,TYZ,Taylor,United States,56.15,-70.0
+8605,UBS,Lowndes County,United States,33.449722,-88.365833
+8606,UCA,Oneida County,United States,43.15,-75.383333
+8607,UCE,Eunice,United States,30.5,-92.416667
+8608,UCY,Everett-Stewart,United States,36.416667,-89.05
+8609,UDD,Bermuda Dunes,United States,33.733333,-116.266667
+8610,UES,Waukesha,United States,43.0116498,-88.23136926
+8611,UGB,Pilot Point,United States,57.433333,-157.75
+8612,UGI,Uganik,United States,57.883333,-153.5
+8613,UIL,Quillayute State,United States,47.95,-124.566667
+8614,UIN,Quincy,United States,42.2,-71.0
+8615,UIZ,Berz-Macomb,United States,37.066667,-78.0
+8616,UKI,Ukiah,United States,39.15423667,-123.2108621
+8617,UKT,Upper Bucks,United States,40.433333,-75.333333
+8618,ULM,New Ulm,United States,44.316667,-94.5
+8619,UMB,North Shore,United States,53.366667,-167.9
+8620,UMM,Summit,United States,63.333333,-149.133333
+8621,UMT,Umiat,United States,69.366667,-152.133333
+8622,United States,Concord,United States,43.20807192,-71.53804712
+8623,UNK,Unalakleet,United States,63.87342552,-160.7880516
+8624,UNS,Umnak,United States,26.8,-113.0
+8625,UNU,Dodge County,United States,43.426389,-88.703889
+8626,UOS,Franklin County,United States,35.205278,-85.898056
+8627,UOX,University,United States,34.383333,-89.533333
+8628,UPP,Upolu Point,United States,38.7,-155.85
+8629,UQE,Queen,United States,58.883333,-158.5
+8630,UST,St Augustine,United States,29.95,-81.333333
+8631,UTO,Indian Mountain AFS,United States,65.983333,-153.683333
+8632,UUK,Kuparuk,United States,70.416667,-148.916667
+8633,UVA,Garner Fld,United States,29.2,-99.733333
+8634,UWA,Ware,United States,42.25,-72.233333
+8635,VAD,Moody AFB,United States,46.286111,-78.0
+8636,VAK,Chevak,United States,61.528611,-165.590278
+8637,VCB,View Cove,United States,55.080556,-133.016667
+8638,VCT,Victoria (US),United States,29.0,-97.0
+8639,VCV,Victorville,United States,34.5365082,-117.2903191
+8640,VDZ,Valdez,United States,61.0,-146.3
+8641,VEE,Venetie,United States,67.016667,-146.416667
+8642,VEL,Vernal,United States,40.45539756,-109.5280022
+8643,VGT,North Air Terminal,United States,36.216667,-115.2
+8644,VHN,Culberson County,United States,31.033333,-104.816667
+8645,VIH,Rolla National,United States,38.316667,-90.833333
+8646,VIK,Airstrip,United States,39.733333,-102.0
+8647,VIS,Visalia,United States,36.32502952,-119.3160094
+8648,VJI,Virginia Highlands,United States,37.0,-82.0
+8649,VKW,West Kavik,United States,69.666667,-146.916667
+8650,VLA,Vandalia,United States,38.95,-89.083333
+8651,VLD,Valdosta,United States,30.783333,-83.283333
+8652,VLE,J t Robidoux,United States,35.65,-112.2
+8653,VNC,Venice Municipal,United States,27.071667,-82.440278
+8654,VNY,Van Nuys,United States,34.209722,-118.49
+8655,VOK,Volk Field,United States,43.916667,-90.266667
+8656,VPS,Valparaiso,United States,30.483333,-86.525278
+8657,VPZ,Porter County,United States,41.45,-86.983333
+8658,VQQ,Cecil Field,United States,30.218611,-81.876667
+8659,VRS,Versailles,United States,48.80046958,-102.0
+8660,VYS,Illinois Valley Regnl,United States,41.3525,-89.149722
+8661,WAA,Wales,United States,65.60959861,-168.0875027
+8662,WAH,Wahpeton,United States,46.266667,-96.6
+8663,WAL,Wallops Flight Center,United States,37.933333,-75.383333
+8664,WAX,Zwara,United States,48.9,-95.3
+8665,WAY,Greene County,United States,39.9,-80.144167
+8666,WBB,Stebbins,United States,63.5,-162.266667
+8667,WBI,Broker Inn,United States,37.77,-122.42
+8668,WBN,Cummings Park,United States,42.466667,-71.15
+8669,WBQ,Beaver,United States,66.35,-147.4
+8670,WBR,Big Rapids,United States,43.716667,-85.5
+8671,WBW,Wilkes-Barre/Wyoming Valley,United States,41.297222,-75.851111
+8672,WCR,Chandalar,United States,67.5,-148.5
+8673,WDB,Deep Bay,United States,55.45,-131.783333
+8674,WDG,Enid Woodring Mun.,United States,36.383333,-97.783333
+8675,WDR,Winder,United States,33.983333,-83.666667
+8676,WDY,Kodiak Fss,United States,56.866667,-70.0
+8677,WEA,Parker County,United States,32.75,-97.783333
+8678,WFB,Waterfront SPB,United States,55.366667,-131.65
+8679,WFK,Frenchville,United States,47.35,-68.383333
+8680,WHH,Hiltons Har H,United States,37.77,-122.42
+8681,WHP,Whiteman,United States,34.259167,-118.413333
+8682,WHT,Wharton,United States,29.316667,-96.1
+8683,WJF,William J Fox,United States,34.7,-118.133333
+8684,WKK,Aleknagik,United States,59.266667,-158.633333
+8685,WKL,Waikoloa Airport,United States,38.7,-155.866667
+8686,WLB,Labouchere Bay,United States,56.291667,-133.658333
+8687,WLD,Arkansas City,United States,37.166667,-97.05
+8688,WLK,Selawik,United States,66.60387901,-160.0093911
+8689,WLM,Waltham,United States,42.385278,-71.251389
+8690,WLN,Little Naukati,United States,55.866667,-133.216667
+8691,WLR,Loring,United States,55.6,-131.566667
+8692,WLW,Glenn County,United States,39.516667,-122.216667
+8693,WMC,Winnemucca,United States,40.97337628,-117.7346847
+8694,WMH,Mountain Home,United States,36.366667,-92.466667
+8695,WMK,Meyers Chuck,United States,55.733333,-132.2
+8696,WMO,White Mountain,United States,64.683333,-163.4
+8697,WNA,Napakiak,United States,60.7,-162.116667
+8698,WOD,Wood River,United States,59.066667,-157.433333
+8699,WOO,Woodchopper,United States,65.3,-143.483333
+8700,WOW,Willow,United States,61.75,-150.05
+8701,WPO,North Fork Valley,United States,38.866667,-107.6
+8702,WRB,Robins AFB,United States,50.033333,-99.0
+8703,WRG,Wrangell,United States,56.47126752,-132.3715949
+8704,WRI,Fort Dix,United States,40.015556,-74.593611
+8705,WRL,Worland,United States,43.965833,-107.884167
+8706,WSD,Condron AAF,United States,61.833333,-78.0
+8707,WSF,Sarichef,United States,31.1,-70.0
+8708,WSG,County,United States,40.166667,-80.25
+8709,WSH,Brookhaven,United States,40.783333,-72.916667
+8710,WSJ,San Juan SPB,United States,57.733333,-153.3
+8711,WSM,Wiseman,United States,67.4104706,-150.1074891
+8712,WSN,South Naknek,United States,58.7,-157.0
+8713,WST,Westerly State,United States,41.333333,-71.766667
+8714,WSX,Westsound,United States,48.666667,-122.883333
+8715,WTC,World Trade Center,United States,40.666667,-74.016667
+8716,WTK,Noatak,United States,67.583333,-163.0
+8717,WTL,Tuntutuliak,United States,60.0,-162.0
+8718,WVI,Watsonville,United States,36.916667,-121.75
+8719,WVL,Robert Lafleur,United States,44.533333,-69.666667
+8720,WWA,Wasilla,United States,61.58173077,-149.439442
+8721,WWD,Cape May County,United States,39.0,-74.916667
+8722,WWP,Whale Pass,United States,56.116667,-133.125
+8723,WWR,West Woodward,United States,36.433333,-99.516667
+8724,WWS,United StatesF Heliport,United States,53.616667,-102.0
+8725,WWT,Newtok,United States,60.933333,-164.633333
+8726,WYS,Yellowstone,United States,44.683333,-111.116667
+8727,XMD,Madison,United States,43.07301556,-89.40111699
+8728,XNA,Fayetteville (US) AR,United States,36.281667,-94.306667
+8729,XPR,Pine Ridge,United States,43.016667,-102.516667
+8730,XPU,West Kuparuk,United States,70.333333,-149.333333
+8731,XSD,Test Range,United States,62.2,-70.0
+8732,XSM,St Marys,United States,38.283333,-76.633333
+8733,XZU,Off line Point,United States,37.716667,-113.0
+8734,YAK,Yakutat,United States,59.54730715,-139.7272183
+8735,YIP,Detroit Willow Run Apt,United States,42.25,-83.383333
+8736,YKM,Yakima,United States,46.566667,-120.533333
+8737,YKN,Chan Gurney,United States,42.916667,-97.383333
+8738,YNG,Youngstown,United States,41.09969932,-80.64973902
+8739,YUM,Yuma,United States,32.65,-114.6
+8740,ZBP,Baltimore Rail,United States,39.0,-74.516667
+8741,ZFZ,Buffalo Depew Rr,United States,50.8,-113.0
+8742,ZGD,New London Rail,United States,37.0,-120.0
+8743,ZHC,N Philadelphia Rail St,United States,29.483333,-70.0
+8744,ZME,Metropark Rail,United States,40.919444,-70.0
+8745,ZML,Milwaukee General Mitchell,United States,32.466667,-102.0
+8746,ZNC,Nyac,United States,61.00414329,-159.9404806
+8747,ZPH,Zephyrhills,United States,28.233333,-82.166667
+8748,ZRD,Richmond VA Rail,United States,48.166667,-65.833333
+8749,ZRF,Park & Ride Bus Svc,United States,42.3,-89.0
+8750,ZRK,VanGalder Bus Termina,United States,42.3,-89.0
+8751,ZRL,Lancaster PA Rail,United States,40.066667,-121.0
+8752,ZRP,Pennsylvania Railroad Station,United States,40.733333,-74.166667
+8753,ZRV,Providence Rail,United States,46.0,-74.516667
+8754,ZRZ,New Carrolton RR,United States,49.0,-72.5
+8755,ZSF,Springfield MA RR,United States,44.633333,-64.85
+8756,ZTD,Schenectady Rail,United States,50.35,-121.0
+8757,ZTE,Rochester NY Rail,United States,49.916667,-70.0
+8758,ZTF,Stamford Rail STN,United States,21.65,-72.466667
+8759,ZTJ,Princeton JT Rail,United States,48.416667,-53.6
+8760,ZTN,Trenton Rail STN,United States,29.483333,-70.0
+8761,ZUA,Utica NNY Rail,United States,37.066667,-70.0
+8762,ZUG,Harrisburg Rail,United States,34.251389,-102.0
+8763,ZVE,New Haven Rail,United States,41.3,-100.0
+8764,ZWB,Williamsburg Rail,United States,52.166667,-113.0
+8765,ZWI,Wilmington Rail,United States,34.0,-77.9
+8766,ZWW,Newport News Rail,United States,52.166667,-99.0
+8767,ZXS,Exchangest Railway Svc,United States,42.878333,-78.875278
+8768,ZZV,Zanesville,United States,39.94028688,-82.01332503
